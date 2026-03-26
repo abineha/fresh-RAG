@@ -1,0 +1,64 @@
+{
+  "queries": [
+    {
+      "query_id": "0",
+      "query": "What are the main ingredients of hummus and where did the dish originate?"
+    },
+    {
+      "query_id": "1",
+      "query": "What is falafel made from and what is its country of origin?"
+    },
+    {
+      "query_id": "2",
+      "query": "How is couscous traditionally made and which countries consider it a staple food?"
+    },
+    {
+      "query_id": "3",
+      "query": "What is a tagine and how is it traditionally cooked?"
+    },
+    {
+      "query_id": "4",
+      "query": "What are the three core elements traditionally associated with Mediterranean cuisine?"
+    },
+    {
+      "query_id": "5",
+      "query": "What is baklava and what are its main ingredients?"
+    },
+    {
+      "query_id": "6",
+      "query": "What is tabbouleh and what are its key ingredients?"
+    },
+    {
+      "query_id": "7",
+      "query": "What is paella and where does it originate?"
+    },
+    {
+      "query_id": "8",
+      "query": "How does the preparation and use of couscous differ between Tunisia and Egypt?"
+    },
+    {
+      "query_id": "9",
+      "query": "Why is falafel's identification as an Israeli national dish considered controversial?"
+    },
+    {
+      "query_id": "10",
+      "query": "What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?"
+    },
+    {
+      "query_id": "11",
+      "query": "What distinguishes Moroccan tagine from Tunisian tagine?"
+    },
+    {
+      "query_id": "12",
+      "query": "What are the key characteristics of Greek cuisine?"
+    },
+    {
+      "query_id": "13",
+      "query": "What is the history and origin of baklava?"
+    },
+    {
+      "query_id": "14",
+      "query": "What ownership dispute exists over hummus between Lebanon and Israel?"
+    }
+  ]
+}

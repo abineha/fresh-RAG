@@ -1,0 +1,10 @@
+{
+  "model_name": "all-mpnet-base-v2",
+  "model_key": "mpnet",
+  "strategy": "fixed_200",
+  "dimension": 768,
+  "num_chunks": 1320,
+  "embed_time_s": 1143.22,
+  "truncated_count": 35,
+  "max_seq_length": 384
+}

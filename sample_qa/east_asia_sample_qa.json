@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "source": "Around the world in 80 cuisines",
+      "questions": [
+        {
+          "question": "How much kimchi is consumed per person per year in South Korea?",
+          "answer": "Around 18 kilograms of kimchi is consumed per person per year in South Korea, totalling over 2 million tonnes nationally."
+        }
+      ]
+    },
+    {
+      "source": "Wikipedia",
+      "questions": [
+        {
+          "question": "What does the Japanese term 'nuuhara' mean?",
+          "answer": "Nuuhara is short for 'nuudoru harasumento' (noodle harassment), describing the loud slurping noise made when eating noodles that some consider offensive to tourists."
+        },
+        {
+          "question": "What foods were introduced to Korea through the Mongol invasion of Goryeo?",
+          "answer": "The Mongol invasion introduced the dumpling dish mandu, grilled meat dishes, noodle dishes, and seasonings such as black pepper to Korea."
+        }
+      ]
+    },
+    {
+      "source": "Wikibooks",
+      "questions": [
+        {
+          "question": "What liquid ingredients are used to braise quail eggs in jangjorim?",
+          "answer": "The quail eggs are braised in a mixture of water, soy sauce, sugar, refined rice wine, garlic, fresh ginger, and dried red chile peppers."
+        },
+        {
+          "question": "What flour is used to make the mochi dough for daifuku?",
+          "answer": "Daifuku mochi dough is made using sweet glutinous rice flour, known as mochiko."
+        }
+      ]
+    }
+  ]
+}

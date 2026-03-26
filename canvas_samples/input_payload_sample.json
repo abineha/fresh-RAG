@@ -1,0 +1,12 @@
+{
+  "queries": [
+    {
+      "query_id": "0",
+      "query": "What's the longest river in the world?"
+    },
+    {
+      "query_id": "1",
+      "query": "What does the democratic republic of Congo flag represent?"
+    }
+  ]
+}

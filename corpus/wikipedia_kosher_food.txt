@@ -1,0 +1,145 @@
+TITLE:      Kosher food
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Kosher_foods
+SCRAPED:    2026-03-06
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+Kosher foods are foods that conform to the Jewish dietary regulations of kashrut (dietary law). The laws of kashrut apply to food derived from living creatures and kosher foods are restricted to certain types of mammals, birds and fish meeting specific criteria; the flesh of any animals that do not meet these criteria is forbidden by the dietary laws. Furthermore, kosher mammals and birds must be slaughtered according to a process known as shechita and their blood may never be consumed and must be removed from the meat by a process of salting and soaking in water for the meat to be permissible for use. All plant-based products, including fruits, vegetables, grains, herbs and spices, are intrinsically kosher, although certain produce grown in the Land of Israel is subjected to other requirements, such as tithing, before it may be consumed.[not verified in body]
+
+Kosher food also distinguishes between meat and dairy products. Meat products are those that comprise or contain kosher meat, such as beef, lamb or venison, kosher poultry such as chicken, goose, duck or turkey, or derivatives of meat, such as animal gelatin; non-animal products that are processed on equipment used for meat or meat-derived products are also considered to belong to this category. Dairy products are those which contain milk or any derivatives such as butter or cheese; non-dairy products that are processed on equipment used for milk or milk-derived products are also considered as belonging to this category. Because of this categorization, meat and milk or their respective derivatives are not combined in kosher foods, and separate equipment for the storage and preparation of meat-based and dairy-based foods is used in order for food to be considered kosher. 
+
+Another category of kosher food, called pareve contains neither meat, milk nor their derivatives; they include foods such as fish, eggs from permitted birds, produce, grains, fruit and other edible plants. They remain pareve if they are not mixed with or processed using equipment that is used for any meat or dairy products. 
+
+Because of the complexities of modern food manufacturing, kashrut agencies supervise or inspect the production of kosher foods and provide a certification called a hechsher to verify for kosher food consumers that it has been produced in accordance with Jewish law.
+
+Jewish dietary law is primarily derived from Leviticus 11 and Deuteronomy 14:1–21. Foods that may be consumed according to Jewish religious law are termed kosher (/ˈkoʊʃər/) in English, from the Ashkenazi pronunciation of the Hebrew term kashér (כָּשֵׁר‎), meaning "fit" (in this context, fit for consumption). Foods that are not in accordance with Jewish law are called treif (/treɪf/; Yiddish: טרײף, derived from Hebrew: טְרֵפָה ṭərēfā) meaning "torn."
+
+The Torah permits eating only those land animals that chew their cud and have cloven hooves. Four animals, the hare, hyrax, camel, and pig, are specifically identified as being forbidden because they possess only one of the above characteristics: the hare, hyrax and camel are hindgut fermenters and chew their cud but do not have cloven hooves, while the pig has a cloven hoof but does not chew its cud.
+
+The Torah lists winged creatures that may not be consumed, mainly birds of prey, fish-eating water-birds, and bats. Certain domesticated fowl can be eaten, such as chicken, geese, quail, dove, and turkey.
+
+The Torah permits only those fish which have both fins and scales to be eaten. Monkfish is not considered kosher. To comply with kosher requirements, a fish must have fins and easily detachable scales; the scales of a sturgeon are extremely hard to remove, hence it is non-kosher. Other seafood considered non-kosher includes shellfish like clams, oysters, crabs and shrimp. There is also risk of products like seaweed and kelp being contaminated by microscopic, non-kosher crustaceans.
+
+The Torah forbids two types of sherets (creeping or swarming things): 
+
+In addition to meat, products of forbidden species and from unhealthy animals were banned by the Talmudic writers. This included eggs (including fish roe), as well as derived products such as jelly, but did not include materials merely "manufactured" or "gathered" by animals, such as honey (although, in the case of honey from animals other than bees, there was a difference of opinion among the ancient writers).
+
+According to the rabbinical writers, eggs from ritually pure animals would always be prolate ("pointy") at one end and oblate ("rounded") at the other, helping to reduce uncertainty about whether consumption was permitted or not.
+
+The classic rabbinical writers imply that milk from an animal whose meat is kosher is also kosher. As animals are considered non-kosher if they are discovered to have been diseased after being slaughtered, this could make their milk retroactively non-kosher.
+
+By adhering to the principle that the majority case overrules the exception, Jewish tradition continues to regard such milk as kosher, since statistically it is true that most animals producing such milk are kosher; the same principle is not applied to the possibility of consuming meat from an animal that has not been checked for disease.
+
+Hershel Schachter said that with modern dairy-farm equipment, milk from the minority of non-kosher cows is invariably mixed with that of the majority of kosher cows, thus invalidating the permissibility of consuming milk from a large dairy operation. Many leading rabbis rule milk permissible, as do major kashrut authorities.
+
+Breast milk from a woman is permitted. Authorities assert breast milk may be consumed directly from the breasts only by children younger than four (five if the child is ill), and children older than two were only permitted to continue to suckle if they had not stopped doing so for more than three consecutive days.
+
+The situation of cheese is complicated as hard cheese often involves rennet, an enzyme that splits milk into curds and whey.
+
+Many forms of rennet are derived from the stomach linings of animals, but since the 1990s rennet is often made recombinantly in microbes because it can be produced more efficiently (though many artisanal cheeses and cheeses made in Europe still use animal rennet).
+
+Because the rennet could be derived from animals, it could potentially be non-kosher. Rennet made recombinantly, or from the stomachs of kosher animals, if they have been slaughtered according to the laws of kashrut, can be kosher. Cheese made from plant-derived rennet can also be kosher. Many authorities require that the cheese-making process follow certain stringencies to be kosher.
+
+According to the Shulchan Aruch, a rabbinic decree (called gevinat akum) prohibits all cheese made by non-Jews without Jewish supervision, even if its ingredients are all kosher, because very frequently the rennet in cheese is not kosher. Rabbeinu Tam and some of the geonim suggested that this decree does not apply in a location where cheese is commonly made with only kosher ingredients, a position that was practiced in communities in Narbonne and Italy.
+
+Many contemporary Orthodox authorities do not follow this ruling, and hold that cheese requires formal kashrut certification to be kosher; some even argue this is necessary for cheese made with non-animal rennet. However, some such as Joseph B. Soloveitchik ate generic cheeses without certification. Isaac Klein's tshuva authorized the use of cheese made from non-kosher rennet, and this is widely practised by observant Conservative Jews and Conservative institutions.
+
+The eggs of kosher birds are kosher. Eggs are considered pareve despite being an animal product.
+
+Occasionally blood spots are found within an egg, which can affect the kosher status of the egg. The halacha varies depending on whether or not there is a possibility of the egg being fertilized.
+
+If the egg may have been fertilized, the Rishonim and Shulchan Aruch suggest a complex set of rules for determining whether the egg may be eaten; among these rules, if blood appears on the yolk, the entire egg is forbidden.
+To avoid the complexity of these rules, Moshe Isserles records a custom not to eat any such eggs with blood spots.
+
+If the egg was definitely unfertilized (laid by a hen kept isolated from roosters), many authorities (including Moshe Feinstein and Ovadia Yosef—the former Sephardic Chief Rabbi of Israel) rule that one may remove the blood spot and then eat the remainder of the egg. This is the case nowadays, when battery eggs form the majority of available produce.
+
+Regarding the question of whether one must check an egg for blood spots, the Shulchan Aruch rules that one may eat hard-boiled eggs where checking is impossible. Moshe Isserles adds that checking is not required, but that a custom exists to check eggs if they are cracked during the daytime (when blood could be seen).
+
+A contemporary Ashkenazi authority writes that while "halacha does not require" checking supermarket-bought eggs, "there is a minhag" to do so. Nevertheless, eggs are not checked in commercial settings where doing so would be expensive.
+
+Gelatin is hydrolysed collagen, the main protein in animal connective tissue, and therefore could potentially come from a non-kosher source, such as pig skin. Gelatin has historically been a prominent source of glue, finding uses from musical instruments to embroidery, one of the main historic emulsions used in cosmetics and in photographic film, the main coating given to medical capsule pills, and a form of food including jelly, trifle, and marshmallows; the status of gelatin in kashrut is consequently fairly controversial.
+
+Due to the ambiguity over the source of individual items derived from gelatin, many Orthodox rabbis regard it as generally being non-kosher. However, Conservative rabbis and several prominent Orthodox rabbis—including Chaim Ozer Grodzinski and Ovadia Yosef—argue that gelatin has undergone such total chemical change and processing that it should not count as meat, and therefore would be kosher.
+
+Technically, gelatin is produced by separating the three strands in each collagen fiber's triple helix by boiling collagen in water. David Sheinkopf, author of Gelatin in Jewish Law (Bloch 1982) and Issues in Jewish Dietary Laws (Ktav 1998), has published in-depth studies of the kosher uses of gelatin, as well as carmine and kitniyot.
+
+One of the main methods of avoiding non-kosher gelatin is to substitute gelatin-like materials in its place; substances with a similar chemical behaviour include food starch from tapioca, chemically modified pectins, and carrageenan combined with certain vegetable gums—guar gum, locust bean gum, xanthan gum, gum acacia, agar, and others. Although gelatin is used for several purposes by a wide variety of manufacturers, it has started to be replaced with these substitutes in a number of products, due to the use of gelatin also being a significant concern to vegans and vegetarians.
+
+Today manufacturers are producing gelatin from the skins of kosher fish, circumventing many of these problems.
+
+One of the few dietary laws appearing in Exodus prohibits eating the meat from animals that have been "torn by beasts"; a related law appears in Deuteronomy, prohibiting the consumption of anything that has died from natural causes. While this law was primarily intended for the priests, it applied to all Israelites (but not "strangers").
+
+Traditional Jewish thought has expressed the view that all meat must come from animals that have been slaughtered according to Jewish law. These guidelines require the animal be killed by a single cut across the throat to a precise depth, severing both carotid arteries, both jugular veins, both vagus nerves, the trachea and the esophagus, no higher than the epiglottis and no lower than where cilia begin inside the trachea, causing the animal to bleed to death.
+
+Some believe that this ensures the animal dies instantly without unnecessary suffering, but many animal-rights activists view the process as cruel, claiming that the animal may not lose consciousness immediately, and activists have called for it to be banned. Animal science researcher Temple Grandin has stated that kosher slaughter, no matter how well performed, does not result in an instantaneous loss of consciousness, whereas stunning properly with a captive bolt is instantaneous. She gives various times for loss of consciousness via kosher ritual slaughter, ranging from 15 to 90 seconds depending on measurement type and individual kosher slaughterhouse.
+
+To avoid tearing, and to ensure the cut is thorough, such slaughter is usually performed by a trained individual, with a large, razor-sharp knife, which is checked before each slaughter to ensure that it has no irregularities (such as nicks and dents); if irregularities are discovered, or the cut is too shallow, the meat is deemed non-kosher.
+
+Rabbis usually require the slaughterer, known within Judaism as a shochet, to also be a pious Jew of good character and an observer of the Shabbat. In smaller communities, the shochet was often the town rabbi, or a rabbi from a local synagogue, but large slaughterhouses usually employ a full-time shochet if they intend to sell kosher meat[citation needed].
+
+The Talmud, and later Jewish authorities, also prohibit the consumption of meat from animals who were slaughtered despite being in the process of dying from disease. This is an extension of the rules banning the meat from animals torn by beasts, and animals that die from natural causes.
+
+To comply with this Talmudic injunction against eating diseased animals, Orthodox Jews usually require that the corpses of freshly slaughtered animals be thoroughly inspected.
+
+There are 70 different traditional checks for irregularities and growths; for example, there are checks to ensure that the lungs have absolutely no scars, which might have been caused by an inflammation. If these checks are passed, the meat is then termed glatt (גלאַט), the Yiddish word meaning 'smooth'.
+
+An unusual situation is created when a live fetus is removed from a kosher slaughtered animal. The fetus is called a ben pekuah and takes the status of the mother, so that if the mother was kosher, the fetus is kosher even if there were problems with the slaughter.
+
+Compromises in contenence with animal-cruelty laws that prohibit such practices involve stunning the animal to lessen the suffering that occurs while the animal bleeds to death. However, the use of electric shocks to daze the animal is often not accepted by some markets as producing meat that is kosher.
+
+As forbidden fats, tendons, blood vessels and the gid hanasheh (sciatic nerve) must be removed, more difficult in the rear-quarters, often only cuts of meat from the forequarters are available.
+
+Leviticus prohibits the eating of certain types of fat (chelev) from sacrificial land animals (cattle, sheep, and goats), since the fat is the portion of the meat exclusively allocated to God (by burning it on the altar).
+
+The gift of the foreleg, cheeks and maw of a kosher-slaughtered animal to a kohen is a positive commandment in the Hebrew Bible. Some rabbinic opinions maintain that consumption of the animal is forbidden before these gifts are given, though the accepted halacha is to permit this.
+
+Furthermore, the actual foreleg, cheeks and maw of all kosher-slaughtered beef are forbidden to a non-kohen unless the kohen permits.
+
+One of the main biblical food laws forbids consuming blood on account of "the life [being] in the blood". This ban and reason are listed in the Noahide Laws and twice in Leviticus as well as in Deuteronomy.
+
+Classical rabbis argued that only if it is impossible to remove every drop of blood, the prohibition against consuming blood was impractical, and there should be rare exceptions.
+
+They claimed that consuming the blood that remained on the inside of meat (as opposed to the blood on the surface of it, dripping from it, or housed within the veins) should be permitted and that the blood of fish and locusts could also be consumed.
+
+To comply with this prohibition, a number of preparation techniques became practiced within traditional Judaism. The main technique, known as meliḥah, involves the meat being soaked in water for about half an hour, which opens pores.
+
+After this, the meat is placed on a slanted board or in a wicker basket, and is thickly covered with salt on each side, then left for between 20 minutes and one hour. The salt covering draws blood from the meat by osmosis, and the salt must be subsequently removed from the meat (usually by trying to shake most of it off and then washing the meat twice) to complete the extraction of the blood. The type of salt used in the process is known as kosher salt.
+
+Meliḥah is not sufficient to extract blood from the liver, lungs, heart, and certain other internal organs, since they naturally contain a high density of blood, and therefore these organs are usually removed before the rest of the meat is salted. Roasting, on the other hand, discharges blood while cooking, and is the usual treatment given to these organs. It is also an acceptable method for removing blood from all meat.
+
+Classical rabbis prohibited any item of food that had been consecrated to an idol or had been used in the service of an idol.
+
+Since the Talmud views all non-Jews as potential idolaters, and viewed intermarriage with apprehension, it included within this prohibition any food that has been cooked or prepared completely by non-Jews. (Bread sold by a non-Jewish baker was not included in the prohibition.) Similarly, a number of Jewish writers believed food prepared for Jews by non-Jewish servants would not count as prepared by potential idolaters, although this view was opposed by Jacob ben Asher.
+
+Consequently, Orthodox Jews generally rule that wine, certain cooked foods, and sometimes dairy products, should be prepared only by Jews.
+
+The prohibition against drinking non-Jewish wine, traditionally called yayin nesekh (literally meaning "wine for offering [to a deity]"), is not absolute. Cooked wine (Hebrew: יין מבושל‎, yayin mevushal), meaning wine that has been heated, is regarded as drinkable on the basis that heated wine was not historically used as a religious libation; thus kosher wine will often be prepared by Jews and then pasteurised, after which it can be handled by a non-Jew.
+
+Some Jews refer to these prohibited foods as akum, an acronym of Ovde Kokhavim U Mazzaloth (עובדי כוכבים ומזלות‎), meaning "worshippers of stars and planets (or Zodiac)". Akum is thus a reference to activities that these Jews view as idolatry, and in many significant works of post-classical Jewish literature, such as the Shulchan Aruch, it has been applied to Christians in particular.
+
+However, among the classical rabbis, there were a number who refused to treat Christians as idolaters, and consequently regarded food that had been manufactured by them as being kosher.[citation needed]
+
+Conservative Judaism is more lenient; in the 1960s, Rabbi Silverman[specify] issued a responsum, officially approved by the Committee on Jewish Law and Standards, in which he argued that wine manufactured by an automated process was not "manufactured by gentiles", and therefore would be kosher.
+
+A later responsum of Conservative Judaism was issued by Eliot Dorff,[specify] who argued, based on precedents in 15th- to 19th-century responsa, that many foods, such as wheat and oil products, which had once been forbidden when produced by non-Jews, were eventually declared kosher. On this basis he concluded wine and grape products produced by non-Jews would be permissible.[citation needed]
+
+Three times the Torah specifically forbids "seething" a young goat "in its mother's milk". The Talmud interprets this as a general prohibition against cooking meat and dairy products together, and against eating or deriving any benefit from such a mixture.
+
+To help prevent accidental violation of these rules, the modern standard Orthodox practice is to classify food into either being fleishig (meat), milchig (dairy), or neither; this third category is more usually referred to as pareve (also spelled parve and parev) meaning "neutral".
+
+As the biblical prohibition uses the word gedi ("kid") and not the phrase gedi izim ("goat-kid") used elsewhere in the Torah, the rabbis concluded that the flesh of all domestic mammals (behemoth) is included in the prohibition.
+
+Flesh of fish and bugs is not included, and therefore is considered pareve. By rabbinic decree, the flesh of birds and wild mammals (chayot), such as deer, is considered as "meat", rather than pareve.
+
+By rabbinic law and custom, not only are meat and milk not cooked together, but they are not eaten even separately within a single meal.
+
+The laws of kashrut can be broken for pikuach nefesh (preservation of human life). For example, a patient is allowed to eat non-kosher food if it is essential for recovery, or where the person would otherwise starve.
+
+The Talmud adds to the biblical regulations a prohibition against consuming poisoned animals. Similarly, Yoreh De'ah prohibits the drinking of water, if the water had been left uncovered overnight in an area where there might be snakes, on the basis that a snake might have left its venom in the water. In a place where there aren't usually snakes, this prohibition does not apply.
+
+The Talmud and Yoreh De'ah suggest that eating meat and fish together may cause tzaraath. Strictly Orthodox Jews thus avoid combining the two, while Conservative Jews may or may not.
+
+Each year, 5,000 food industry vendors, kosher certification agencies, journalists and other professionals gathered in New York City with kosher food available from 300 attendees at an expo called KosherFest.
+
+The expo closed after 2022 and was replaced by another event called Kosher-Palooza.

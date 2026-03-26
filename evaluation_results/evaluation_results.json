@@ -1,0 +1,909 @@
+{
+  "retrieval_evaluation": [
+    {
+      "file": "retrieval_vector_mpnet_section_based.json",
+      "method": "Vector",
+      "model": "mpnet",
+      "chunking": "section_based",
+      "precision_at_5": 0.64,
+      "recall_at_5": 0.9833,
+      "mrr": 1.0,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    },
+    {
+      "file": "retrieval_bm25_none_section_based.json",
+      "method": "BM25",
+      "model": "none",
+      "chunking": "section_based",
+      "precision_at_5": 0.5467,
+      "recall_at_5": 0.8056,
+      "mrr": 0.7633,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.2
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.2,
+          "recall_at_5": 0.3333,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.2,
+          "recall_at_5": 0.25,
+          "reciprocal_rank": 0.25
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.0,
+          "recall_at_5": 0.0,
+          "reciprocal_rank": 0.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    },
+    {
+      "file": "retrieval_hybrid_mpnet_section_based.json",
+      "method": "Hybrid RRF",
+      "model": "mpnet",
+      "chunking": "section_based",
+      "precision_at_5": 0.6533,
+      "recall_at_5": 0.9833,
+      "mrr": 0.9333,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    },
+    {
+      "file": "retrieval_vector_mpnet_fixed_200.json",
+      "method": "Vector",
+      "model": "mpnet",
+      "chunking": "fixed_200",
+      "precision_at_5": 0.7067,
+      "recall_at_5": 0.8611,
+      "mrr": 0.9667,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 1.0,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.6667,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.5,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    },
+    {
+      "file": "retrieval_hybrid_mpnet_fixed_200.json",
+      "method": "Hybrid RRF",
+      "model": "mpnet",
+      "chunking": "fixed_200",
+      "precision_at_5": 0.6533,
+      "recall_at_5": 0.8111,
+      "mrr": 0.9333,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.6667,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.5,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.5,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.8,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    },
+    {
+      "file": "retrieval_vector_bge_section_based.json",
+      "method": "Vector",
+      "model": "bge",
+      "chunking": "section_based",
+      "precision_at_5": 0.6267,
+      "recall_at_5": 0.9833,
+      "mrr": 0.9667,
+      "per_query": [
+        {
+          "query_id": "0",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 0.5
+        },
+        {
+          "query_id": "1",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "2",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "3",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "4",
+          "precision_at_5": 0.4,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "5",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "6",
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "7",
+          "precision_at_5": 1.0,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "8",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "9",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "10",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "11",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "12",
+          "precision_at_5": 0.6,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "13",
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.75,
+          "reciprocal_rank": 1.0
+        },
+        {
+          "query_id": "14",
+          "precision_at_5": 0.2,
+          "recall_at_5": 1.0,
+          "reciprocal_rank": 1.0
+        }
+      ]
+    }
+  ],
+  "generation_evaluation": [
+    {
+      "strategy": "zero_shot",
+      "rouge_l": 0.2553,
+      "bert_score_f1": 0.8192,
+      "faithfulness": 0.6546,
+      "avg_time_per_query": 58.2,
+      "per_query": [
+        {
+          "query_id": "0",
+          "rouge_l": 0.1918,
+          "bert_score_f1": 0.8291,
+          "faithfulness": 0.5588
+        },
+        {
+          "query_id": "1",
+          "rouge_l": 0.2718,
+          "bert_score_f1": 0.8352,
+          "faithfulness": 1.0
+        },
+        {
+          "query_id": "2",
+          "rouge_l": 0.3814,
+          "bert_score_f1": 0.8481,
+          "faithfulness": 1.0
+        },
+        {
+          "query_id": "3",
+          "rouge_l": 0.1784,
+          "bert_score_f1": 0.7626,
+          "faithfulness": 0.3797
+        },
+        {
+          "query_id": "4",
+          "rouge_l": 0.3797,
+          "bert_score_f1": 0.8601,
+          "faithfulness": 1.0
+        },
+        {
+          "query_id": "5",
+          "rouge_l": 0.3837,
+          "bert_score_f1": 0.8504,
+          "faithfulness": 0.65
+        },
+        {
+          "query_id": "6",
+          "rouge_l": 0.2931,
+          "bert_score_f1": 0.8512,
+          "faithfulness": 0.6522
+        },
+        {
+          "query_id": "7",
+          "rouge_l": 0.2405,
+          "bert_score_f1": 0.843,
+          "faithfulness": 0.5135
+        },
+        {
+          "query_id": "8",
+          "rouge_l": 0.3913,
+          "bert_score_f1": 0.8757,
+          "faithfulness": 0.8833
+        },
+        {
+          "query_id": "9",
+          "rouge_l": 0.1905,
+          "bert_score_f1": 0.8582,
+          "faithfulness": 0.2941
+        },
+        {
+          "query_id": "10",
+          "rouge_l": 0.1899,
+          "bert_score_f1": 0.7858,
+          "faithfulness": 0.2586
+        },
+        {
+          "query_id": "11",
+          "rouge_l": 0.129,
+          "bert_score_f1": 0.7496,
+          "faithfulness": 0.186
+        },
+        {
+          "query_id": "12",
+          "rouge_l": 0.21,
+          "bert_score_f1": 0.7807,
+          "faithfulness": 0.7808
+        },
+        {
+          "query_id": "13",
+          "rouge_l": 0.2222,
+          "bert_score_f1": 0.7942,
+          "faithfulness": 0.7692
+        },
+        {
+          "query_id": "14",
+          "rouge_l": 0.1757,
+          "bert_score_f1": 0.7647,
+          "faithfulness": 0.8929
+        }
+      ]
+    },
+    {
+      "strategy": "few_shot",
+      "rouge_l": 0.2393,
+      "bert_score_f1": 0.8081,
+      "faithfulness": 0.5367,
+      "avg_time_per_query": 48.5,
+      "per_query": [
+        {
+          "query_id": "0",
+          "rouge_l": 0.16,
+          "bert_score_f1": 0.8012,
+          "faithfulness": 0.35
+        },
+        {
+          "query_id": "1",
+          "rouge_l": 0.2264,
+          "bert_score_f1": 0.8298,
+          "faithfulness": 0.8333
+        },
+        {
+          "query_id": "2",
+          "rouge_l": 0.3814,
+          "bert_score_f1": 0.8479,
+          "faithfulness": 1.0
+        },
+        {
+          "query_id": "3",
+          "rouge_l": 0.2262,
+          "bert_score_f1": 0.8133,
+          "faithfulness": 0.5758
+        },
+        {
+          "query_id": "4",
+          "rouge_l": 0.3883,
+          "bert_score_f1": 0.8338,
+          "faithfulness": 0.5417
+        },
+        {
+          "query_id": "5",
+          "rouge_l": 0.1791,
+          "bert_score_f1": 0.8255,
+          "faithfulness": 0.5862
+        },
+        {
+          "query_id": "6",
+          "rouge_l": 0.3295,
+          "bert_score_f1": 0.7636,
+          "faithfulness": 0.5283
+        },
+        {
+          "query_id": "7",
+          "rouge_l": 0.2222,
+          "bert_score_f1": 0.7841,
+          "faithfulness": 0.5
+        },
+        {
+          "query_id": "8",
+          "rouge_l": 0.307,
+          "bert_score_f1": 0.8427,
+          "faithfulness": 0.6866
+        },
+        {
+          "query_id": "9",
+          "rouge_l": 0.2123,
+          "bert_score_f1": 0.8479,
+          "faithfulness": 0.2909
+        },
+        {
+          "query_id": "10",
+          "rouge_l": 0.16,
+          "bert_score_f1": 0.7792,
+          "faithfulness": 0.2456
+        },
+        {
+          "query_id": "11",
+          "rouge_l": 0.1273,
+          "bert_score_f1": 0.8017,
+          "faithfulness": 0.6429
+        },
+        {
+          "query_id": "12",
+          "rouge_l": 0.2182,
+          "bert_score_f1": 0.7678,
+          "faithfulness": 0.3696
+        },
+        {
+          "query_id": "13",
+          "rouge_l": 0.2479,
+          "bert_score_f1": 0.7981,
+          "faithfulness": 0.6613
+        },
+        {
+          "query_id": "14",
+          "rouge_l": 0.2034,
+          "bert_score_f1": 0.7851,
+          "faithfulness": 0.2381
+        }
+      ]
+    },
+    {
+      "strategy": "structured",
+      "rouge_l": 0.2524,
+      "bert_score_f1": 0.8189,
+      "faithfulness": 0.5864,
+      "avg_time_per_query": 60.6,
+      "per_query": [
+        {
+          "query_id": "0",
+          "rouge_l": 0.2479,
+          "bert_score_f1": 0.8377,
+          "faithfulness": 0.75
+        },
+        {
+          "query_id": "1",
+          "rouge_l": 0.2524,
+          "bert_score_f1": 0.8235,
+          "faithfulness": 0.9
+        },
+        {
+          "query_id": "2",
+          "rouge_l": 0.3814,
+          "bert_score_f1": 0.8479,
+          "faithfulness": 1.0
+        },
+        {
+          "query_id": "3",
+          "rouge_l": 0.1935,
+          "bert_score_f1": 0.8156,
+          "faithfulness": 0.4
+        },
+        {
+          "query_id": "4",
+          "rouge_l": 0.3846,
+          "bert_score_f1": 0.8388,
+          "faithfulness": 0.5417
+        },
+        {
+          "query_id": "5",
+          "rouge_l": 0.356,
+          "bert_score_f1": 0.8433,
+          "faithfulness": 0.6957
+        },
+        {
+          "query_id": "6",
+          "rouge_l": 0.3459,
+          "bert_score_f1": 0.8592,
+          "faithfulness": 0.6667
+        },
+        {
+          "query_id": "7",
+          "rouge_l": 0.1746,
+          "bert_score_f1": 0.7755,
+          "faithfulness": 0.5556
+        },
+        {
+          "query_id": "8",
+          "rouge_l": 0.1923,
+          "bert_score_f1": 0.8041,
+          "faithfulness": 0.4722
+        },
+        {
+          "query_id": "9",
+          "rouge_l": 0.1954,
+          "bert_score_f1": 0.8397,
+          "faithfulness": 0.2321
+        },
+        {
+          "query_id": "10",
+          "rouge_l": 0.1774,
+          "bert_score_f1": 0.8073,
+          "faithfulness": 0.4615
+        },
+        {
+          "query_id": "11",
+          "rouge_l": 0.1606,
+          "bert_score_f1": 0.7504,
+          "faithfulness": 0.3158
+        },
+        {
+          "query_id": "12",
+          "rouge_l": 0.2691,
+          "bert_score_f1": 0.8204,
+          "faithfulness": 0.6667
+        },
+        {
+          "query_id": "13",
+          "rouge_l": 0.2332,
+          "bert_score_f1": 0.8058,
+          "faithfulness": 0.5732
+        },
+        {
+          "query_id": "14",
+          "rouge_l": 0.2222,
+          "bert_score_f1": 0.8149,
+          "faithfulness": 0.5652
+        }
+      ]
+    }
+  ]
+}

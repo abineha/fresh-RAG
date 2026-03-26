@@ -1,0 +1,59 @@
+TITLE:      Sumac
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Sumac
+SCRAPED:    2026-03-06
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+54; see text
+
+Sumac or sumach[a] (/ˈsuːmæk, ˈʃuː-/ S(H)OO-mak, UK also /ˈsjuː-/)—not to be confused with poison sumac—is any of the roughly 35 species of flowering plants in the genus Rhus (and related genera) of the cashew and mango tree family, Anacardiaceae. However, it is Rhus coriaria that is most commonly used for culinary purposes. Sumac is prized as a spice—especially in Iranian cuisine, and other Eastern cuisines—and used as a dye and holistic remedy. The plants grow in subtropical and temperate regions, on nearly every continent except Antarctica and South America.
+It holds cultural significance as a symbolic item on the Haft-sin table during Nowruz, the Persian New Year.
+
+Sumacs are dioecious shrubs and small trees that can reach a height of one to ten metres (3–33 ft). The leaves of its type species are pinnately compound, though some species have trifoliate or simple leaves. The flowers are in dense panicles or spikes 5–30 cm (2–12 in) long, each flower very small, greenish, creamy white or red, with five petals. The fruits are reddish, thin-fleshed drupes covered in varying levels of hairs at maturity and form dense clusters at branch tips, sometimes called sumac bobs.
+
+Sumacs propagate both by seed (spread by birds and other animals through their droppings), and by new shoots from rhizomes, forming large clonal colonies.[citation needed]
+
+The word sumac traces its etymology from Old French sumac (13th century), from Mediaeval Latin sumach, from Arabic سماق summāq, from Syriac ܣܘܡܩܐ summāqa meaning "red".
+
+The generic name Rhus derives from Ancient Greek ῥοῦς rhous referring to the type species R. coriaria, of unknown etymology; the suggestion that it is connected with the verb ῥέω rheō "to flow" is now rejected by scholars.[citation needed] The taxonomy of Rhus has a long history, with de Candolle proposing a subgeneric classification with 5 sections in 1825. At its largest circumscription, Rhus, with over 250 species, has been the largest genus in the family Anacardiaceae.
+
+Other authors used subgenera and placed some species in separate genera, hence the use of Rhus sensu lato and Rhus sensu stricto (s.s.). One classification uses two subgenera, Rhus (about 10 spp.) and Lobadium (about 25 spp.), while at the same time Cotinus, Duckera, Malosma, Metopium, Searsia and Toxicodendron segregated to create Rhus s.s.. Other genera that have been segregated include Actinocheita and Baronia. As defined, Rhus s.s. appears monophyletic by molecular phylogeny research. However, the subgenera do not appear to be monophyletic. The larger subgenus, Lobadium, has been divided further into sections, Lobadium, Terebinthifolia, and Styphonia (two subsections).
+
+As of November 2024, Plants of the World Online accepts 54 species.
+
+Asia, North Africa and southern Europe
+
+Australia, Pacific
+
+North America
+
+Species including the fragrant sumac (R. aromatica), the littleleaf sumac (R. microphylla), the smooth sumac (R. glabra), and the staghorn sumac (R. typhina) are grown for ornament, either as the wild types or as cultivars.
+
+The dried fruits of some species are ground to produce a tangy, crimson spice popular in many countries. Fruits are also used to make a traditional "pink lemonade" beverage by steeping them in water, straining to remove the hairs that may irritate the mouth or throat, sometimes adding sweeteners such as honey or sugar. Sumac's tart flavor comes from high amounts of malic acid.
+
+The fruits (drupes) of Rhus coriaria are ground into a reddish-purple powder used as a spice in many different cuisines to add a tart, lemony taste to salads or meat. In Arab cuisine, it is used as a garnish on meze dishes such as hummus and tashi, it is also commonly added to falafel. Syria uses the spice also, it is one of the main ingredients of Kubah Sumakieh in Aleppo of Syria, it is added to salads in the Levant, as well as being one of the main ingredients in the Palestinian dish musakhan. In Afghan, Armenian, Iraqi, Iranian and Mizrahi cuisines, sumac is added to rice and grilled meats. In Armenian, Azerbaijani, Central Asian, Syrian, Iraqi, Jordanian, Palestinian, Lebanese, Turkish and Kurdish cuisines, it is added to salads, and lahmajoun. Rhus coriaria is used in the Levantine spice mixture za'atar.
+
+In medieval Europe, primarily from the thirteenth to fifteenth centuries, sumac appeared in cookbooks frequently used by the affluent. One dish in particular called sumāqiyya, a stew made from sumac, was frequently rendered as "somacchia" by Europeans.
+
+In North America, the smooth sumac (R. glabra), three-leaf sumac (R. trilobata), and staghorn sumac (R. typhina) are sometimes used to make a beverage termed "sumac-ade", "Indian lemonade", or "rhus juice".[citation needed] This drink is made by soaking the drupes in cool water, rubbing them to extract the essence, straining the liquid through a cotton cloth, and sweetening it. Native Americans also use the leaves and drupes of these sumacs combined with tobacco in traditional smoking mixtures.
+
+The leaves and bark of most sumac species contain high levels of tannins and have been used in the manufacturing of leather by many cultures around the world. The Hebrew name og ha-bursaka'im means "tanner's sumac", as does the Latin name of R. coriaria. The leaves of certain sumacs yield tannin (mostly pyrogallol-type), a substance used in vegetable tanning. Notable sources include the leaves of R. coriaria, Chinese gall on R. chinensis, and wood and roots of R. pentaphylla. Leather tanned with sumac is flexible, light in weight, and light in color. One type of leather made with sumac tannins is morocco leather.
+
+The dyeing property of sumac needed to be considered when it was shipped as a fine floury substance in sacks as a light cargo accompanying heavy cargoes such as marble. Sumac was especially dangerous to marble: "When sumac dust settles on white marble, the result is not immediately apparent, but if it once becomes wet, or even damp, it becomes a powerful purple dye, which penetrates the marble to an extraordinary depth."
+
+Ibn Badis describes a formula for making red ink out of leeched sumac mixed with gum.
+
+Sumac-dye (黄櫨染, kōrozen) was used for only the outerwear of the Emperor of Japan, thus being one of the forbidden colors.
+
+Sumac was used as a treatment for several different ailments in medieval medicine, primarily in West, Central and South Asian countries (where sumac was more readily available than in Europe). An 11th-century shipwreck off the coast of Rhodes, excavated by archeologists in the 1970s, contained commercial quantities of sumac drupes. These could have been intended for use as medicine, as a culinary spice, or as a dye. A clinical study showed that dietary sumac decreases the blood pressure in patients with hypertension and can be used as adjunctive treatment.
+
+Some beekeepers use dried sumac bobs as a source of fuel for their smokers.
+
+Sumac stems also have a soft pith in the center that is easily removed to make them useful in traditional Native American pipemaking. They were commonly used as pipe stems in the northern United States.
+
+Dried sumac wood fluoresces under long-wave ultraviolet radiation.
+
+Some species formerly recognized in Rhus, such as poison ivy (Toxicodendron radicans, syn. Rhus toxicodendron), poison oak (Toxicodendron diversilobum, syn. Rhus diversiloba), and poison sumac (Toxicodendron vernix, syn. Rhus vernix), produce the allergen urushiol and can cause severe delayed hypersensitivity reactions. Poison sumac may be identified by its white drupes, which are quite different from the red drupes of true Rhus species.
+
+Mowing of sumac is not a good control measure, since the wood is springy, resulting in jagged, sharp-pointed stumps when mown. The plant will quickly recover with new growth after mowing. Goats have long been considered an efficient and quick removal method, as they eat the bark, which helps prevent new shoots. Sumac propagates by rhizome. Small shoots will be found growing near a more mature sumac tree via a shallow running root quite some distance from the primary tree. Thus, root pruning is a means of control without eliminating the plants altogether.[citation needed]

@@ -1,0 +1,107 @@
+title,url,source,word_count,status
+Mediterranean cuisine,https://en.wikipedia.org/wiki/Mediterranean_cuisine,wikipedia,3938,ok
+Mediterranean diet,https://en.wikipedia.org/wiki/Mediterranean_diet,wikipedia,1888,ok
+Greek cuisine,https://en.wikipedia.org/wiki/Greek_cuisine,wikipedia,1315,ok
+Italian cuisine,https://en.wikipedia.org/wiki/Italian_cuisine,wikipedia,11721,ok
+Turkish cuisine,https://en.wikipedia.org/wiki/Turkish_cuisine,wikipedia,4650,ok
+Lebanese cuisine,https://en.wikipedia.org/wiki/Lebanese_cuisine,wikipedia,1213,ok
+Moroccan cuisine,https://en.wikipedia.org/wiki/Moroccan_cuisine,wikipedia,1396,ok
+Spanish cuisine,https://en.wikipedia.org/wiki/Spanish_cuisine,wikipedia,4441,ok
+Egyptian cuisine,https://en.wikipedia.org/wiki/Egyptian_cuisine,wikipedia,5749,ok
+Tunisian cuisine,https://en.wikipedia.org/wiki/Tunisian_cuisine,wikipedia,1617,ok
+Israeli cuisine,https://en.wikipedia.org/wiki/Israeli_cuisine,wikipedia,9707,ok
+Algerian cuisine,https://en.wikipedia.org/wiki/Algerian_cuisine,wikipedia,2200,ok
+Cypriot cuisine,https://en.wikipedia.org/wiki/Cypriot_cuisine,wikipedia,2606,ok
+French cuisine,https://en.wikipedia.org/wiki/French_cuisine,wikipedia,7308,ok
+Catalan cuisine,https://en.wikipedia.org/wiki/Catalan_cuisine,wikipedia,834,ok
+Arancini,https://en.wikipedia.org/wiki/Arancini,wikipedia,481,ok
+Doner kebab,https://en.wikipedia.org/wiki/Doner_kebab,wikipedia,2439,ok
+Souvlaki,https://en.wikipedia.org/wiki/Souvlaki,wikipedia,775,ok
+Gyros,https://en.wikipedia.org/wiki/Gyros,wikipedia,692,ok
+Hummus,https://en.wikipedia.org/wiki/Hummus,wikipedia,1555,ok
+Falafel,https://en.wikipedia.org/wiki/Falafel,wikipedia,1210,ok
+Shawarma,https://en.wikipedia.org/wiki/Shawarma,wikipedia,666,ok
+Kebab,https://en.wikipedia.org/wiki/Kebab,wikipedia,3705,ok
+Moussaka,https://en.wikipedia.org/wiki/Moussaka,wikipedia,836,ok
+Paella,https://en.wikipedia.org/wiki/Paella,wikipedia,1736,ok
+Tagine,https://en.wikipedia.org/wiki/Tagine,wikipedia,1219,ok
+Couscous,https://en.wikipedia.org/wiki/Couscous,wikipedia,2054,ok
+Tabbouleh,https://en.wikipedia.org/wiki/Tabbouleh,wikipedia,366,ok
+Pita bread,https://en.wikipedia.org/wiki/Pita,wikipedia,1130,ok
+Baklava,https://en.wikipedia.org/wiki/Baklava,wikipedia,2673,ok
+Feta cheese,https://en.wikipedia.org/wiki/Feta,wikipedia,1947,ok
+Tzatziki,https://en.wikipedia.org/wiki/Tzatziki,wikipedia,1306,ok
+Baba ghanoush,https://en.wikipedia.org/wiki/Baba_ghanoush,wikipedia,572,ok
+Dolma,https://en.wikipedia.org/wiki/Dolma,wikipedia,3616,ok
+Fattoush,https://en.wikipedia.org/wiki/Fattoush,wikipedia,434,ok
+Shakshuka,https://en.wikipedia.org/wiki/Shakshouka,wikipedia,705,ok
+Risotto,https://en.wikipedia.org/wiki/Risotto,wikipedia,721,ok
+Pizza,https://en.wikipedia.org/wiki/Pizza,wikipedia,2463,ok
+Pasta,https://en.wikipedia.org/wiki/Pasta,wikipedia,4418,ok
+Gazpacho,https://en.wikipedia.org/wiki/Gazpacho,wikipedia,1008,ok
+Ratatouille,https://en.wikipedia.org/wiki/Ratatouille_(food),wikipedia,778,ok
+Bouillabaisse,https://en.wikipedia.org/wiki/Bouillabaisse,wikipedia,1105,ok
+Spanakopita,https://en.wikipedia.org/wiki/Spanakopita,wikipedia,545,ok
+Kibbeh,https://en.wikipedia.org/wiki/Kibbeh,wikipedia,1251,ok
+Lahmacun,https://en.wikipedia.org/wiki/Lahmacun,wikipedia,673,ok
+Meze,https://en.wikipedia.org/wiki/Meze,wikipedia,758,ok
+Mansaf,https://en.wikipedia.org/wiki/Mansaf,wikipedia,1597,ok
+Ful medames,https://en.wikipedia.org/wiki/Ful_medames,wikipedia,1035,ok
+Koshari,https://en.wikipedia.org/wiki/Kushari,wikipedia,609,ok
+Pastilla,https://en.wikipedia.org/wiki/Pastilla,wikipedia,920,ok
+Olive oil,https://en.wikipedia.org/wiki/Olive_oil,wikipedia,5078,ok
+Olives,https://en.wikipedia.org/wiki/Olive,wikipedia,8898,ok
+Za'atar,https://en.wikipedia.org/wiki/Za%27atar,wikipedia,1536,ok
+Tahini,https://en.wikipedia.org/wiki/Tahini,wikipedia,1528,ok
+Harissa,https://en.wikipedia.org/wiki/Harissa,wikipedia,574,ok
+Sumac,https://en.wikipedia.org/wiki/Sumac,wikipedia,1331,ok
+Saffron,https://en.wikipedia.org/wiki/Saffron,wikipedia,5130,ok
+Chickpea,https://en.wikipedia.org/wiki/Chickpea,wikipedia,3167,ok
+Lentil,https://en.wikipedia.org/wiki/Lentil,wikipedia,2795,ok
+Pomegranate,https://en.wikipedia.org/wiki/Pomegranate,wikipedia,4338,ok
+Halloumi,https://en.wikipedia.org/wiki/Halloumi,wikipedia,1208,ok
+Halal food,https://en.wikipedia.org/wiki/Halal,wikipedia,2307,ok
+Kosher food,https://en.wikipedia.org/wiki/Kosher_foods,wikipedia,3521,ok
+Cookbook: Mediterranean cuisines,https://en.wikibooks.org/wiki/Cookbook:Cuisines/Mediterranean,wikibooks,0,failed
+Cookbook: Hummus,https://en.wikibooks.org/wiki/Cookbook:Hummus,wikibooks,304,ok
+Cookbook: Falafel,https://en.wikibooks.org/wiki/Cookbook:Falafel,wikibooks,239,ok
+Cookbook: Tabbouleh,https://en.wikibooks.org/wiki/Cookbook:Tabbouleh,wikibooks,56,ok
+Cookbook: Tabbouleh I,https://en.wikibooks.org/wiki/Cookbook:Tabbouleh_I,wikibooks,187,ok
+Cookbook: Tabbouleh II,https://en.wikibooks.org/wiki/Cookbook:Tabbouleh_II,wikibooks,166,ok
+Cookbook: Tabbouleh III,https://en.wikibooks.org/wiki/Cookbook:Tabbouleh_III,wikibooks,226,ok
+Cookbook: Baba ghanoush,https://en.wikibooks.org/wiki/Cookbook:Baba_Ghanoush,wikibooks,0,failed
+Cookbook: Baklava,https://en.wikibooks.org/wiki/Cookbook:Baklava,wikibooks,49,ok
+Cookbook: Baklava I,https://en.wikibooks.org/wiki/Cookbook:Baklava_I,wikibooks,208,ok
+Cookbook: Baklava II,https://en.wikibooks.org/wiki/Cookbook:Baklava_II,wikibooks,351,ok
+Cookbook: Baklava Pistachio,https://en.wikibooks.org/wiki/Cookbook:Baklava_with_Pistachio_Nuts,wikibooks,455,ok
+Cookbook: Couscous,https://en.wikibooks.org/wiki/Cookbook:Couscous,wikibooks,720,ok
+Cookbook: Paella,https://en.wikibooks.org/wiki/Cookbook:Paella,wikibooks,356,ok
+Cookbook: Pizza dough,https://en.wikibooks.org/wiki/Cookbook:Pizza_Dough,wikibooks,582,ok
+Cookbook: Pasta,https://en.wikibooks.org/wiki/Cookbook:Pasta,wikibooks,942,ok
+Cookbook: Moussaka,https://en.wikibooks.org/wiki/Cookbook:Moussaka,wikibooks,67,ok
+Cookbook: Moussaka Bulgarian,https://en.wikibooks.org/wiki/Cookbook:Moussaka_(Bulgarian),wikibooks,178,ok
+Cookbook: Greek Moussaka,https://en.wikibooks.org/wiki/Cookbook:Greek_Moussaka,wikibooks,497,ok
+Cookbook: Tzatziki,https://en.wikibooks.org/wiki/Cookbook:Tzatziki,wikibooks,170,ok
+Cookbook: Shakshuka,https://en.wikibooks.org/wiki/Cookbook:Shakshouka,wikibooks,210,ok
+Cookbook: Tagine,https://en.wikibooks.org/wiki/Cookbook:Chicken_Tagine,wikibooks,0,failed
+Cookbook: Risotto,https://en.wikibooks.org/wiki/Cookbook:Risotto,wikibooks,327,ok
+Cookbook: Risotto Basic,https://en.wikibooks.org/wiki/Cookbook:Risotto_(Basic),wikibooks,1269,ok
+Cookbook: Risotto II,https://en.wikibooks.org/wiki/Cookbook:Risotto_II,wikibooks,223,ok
+Cookbook: Risotto ai Funghi,https://en.wikibooks.org/wiki/Cookbook:Risotto_ai_Funghi,wikibooks,689,ok
+Cookbook: Risotto alla Milanese,https://en.wikibooks.org/wiki/Cookbook:Risotto_alla_Milanese,wikibooks,327,ok
+Cookbook: Gazpacho,https://en.wikibooks.org/wiki/Cookbook:Gazpacho,wikibooks,313,ok
+Cookbook: Dolma,https://en.wikibooks.org/wiki/Cookbook:Dolma,wikibooks,503,ok
+Cookbook: Pita bread,https://en.wikibooks.org/wiki/Cookbook:Pita,wikibooks,265,ok
+Cookbook: Olive oil,https://en.wikibooks.org/wiki/Cookbook:Olive_Oil,wikibooks,554,ok
+Cookbook: Tahini,https://en.wikibooks.org/wiki/Cookbook:Tahini,wikibooks,181,ok
+Cookbook: Halvah,https://en.wikibooks.org/wiki/Cookbook:Halvah,wikibooks,379,ok
+Blog: Southern France and Monaco,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/14/1-france-and-monaco/,blog,2129,ok
+Blog: Turkey and Cyprus,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/20/4-turkey-and-cyprus/,blog,12694,ok
+Blog: North Africa,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/05/07/13-north-africa/,blog,12257,ok
+Blog: Former Yugoslavia,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/09/12/27-the-balkan-peninsula/,blog,2294,ok
+Blog: Greece,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/10/05/33-greece/,blog,1818,ok
+Blog: Southern Italy,https://aroundtheworldin80cuisinesblog.wordpress.com/2017/11/02/37-southern-italy/,blog,1832,ok
+Blog: Central Italy,https://aroundtheworldin80cuisinesblog.wordpress.com/2018/02/18/47-centralitaly/,blog,1361,ok
+Blog: Spain,https://aroundtheworldin80cuisinesblog.wordpress.com/2018/04/29/53-spain/,blog,2385,ok
+Blog: Fertile Crescent,https://aroundtheworldin80cuisinesblog.wordpress.com/2018/07/17/58-the-fertile-crescent/,blog,25178,ok
+Blog: Northern Italy,https://aroundtheworldin80cuisinesblog.wordpress.com/2018/10/14/69-northern-italy/,blog,2956,ok

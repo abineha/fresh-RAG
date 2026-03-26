@@ -1,0 +1,508 @@
+{
+  "results": [
+    {
+      "query_id": "0",
+      "query": "What are the main ingredients of hummus and where did the dish originate?",
+      "response": "Hummus is a Levantine dip, spread, or savoury dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. The standard garnish includes olive oil, a few whole chickpeas, parsley, and paprika. The earliest written mention of hummus comes from a 13th-century cookbook attributed to the Aleppine historian Ibn al-Adim from present-day Syria. Although multiple theories about its origin exist, evidence is insufficient to determine the precise location of invention; its basic ingredients have been combined and eaten in Egypt and the Levant for centuries.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Hummus is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. The standard garnish includes olive oil, a few whole chickpeas, parsley, and paprika.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "001",
+          "text": "The earliest mention of hummus was in a 13th century cookbook attributed to the historian Ibn al-Adim from Aleppo in present-day Syria.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "002",
+          "text": "Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is insufficient to determine the precise location or time of the invention of hummus. Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "003",
+          "text": "Commonly consumed in Levantine cuisine, it is usually eaten as a dip with pita bread. In the West, it is produced industrially and consumed as a snack or appetizer with crackers or vegetables.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        }
+      ]
+    },
+    {
+      "query_id": "1",
+      "query": "What is falafel made from and what is its country of origin?",
+      "response": "Falafel is a deep-fried ball or patty-shaped fritter made from ground fava beans, chickpeas, or both, mixed with herbs and spices before frying. It is of Egyptian origin, with the earliest written references from Egyptian sources dating to the 19th century. In Egypt and the Arabian Peninsula, falafel is most often made with fava beans, while in the Levant it is typically made with chickpeas. From Egypt the dish migrated northwards to the Levant and then spread across the wider Middle East.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. It is made from ground fava beans, chickpeas, or both, and mixed with herbs and spices before frying.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "001",
+          "text": "The origin of falafel is uncertain. The dish most likely originated in Egypt. It has been speculated that its history may go back to Pharaonic Egypt. However, the earliest written references to falafel from Egyptian sources date to the 19th century.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "002",
+          "text": "Falafel is a popular street food eaten throughout the Middle East. In Egypt and the Arabian Peninsula, it is most often made with fava beans, while in the Levant, it is typically made with chickpeas or sometimes a blend of both.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "003",
+          "text": "As Alexandria is a port city, it was possible to export the dish and its name to other areas in the Middle East. The dish later migrated northwards to the Levant, where chickpeas replaced the fava beans, and from there spread to other parts of the Middle East.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        }
+      ]
+    },
+    {
+      "query_id": "2",
+      "query": "How is couscous traditionally made and which countries consider it a staple food?",
+      "response": "Couscous is traditionally made from semolina, the hardest part of the durum wheat grain. The semolina is sprinkled with water and rolled by hand to form small pellets, then sprinkled with dry flour to keep them separate and sieved. This labour-intensive process continues until all the semolina has been formed into tiny granules. Traditionally, groups of people come together to make large batches over several days, which are dried in the sun and used for several months. Couscous is a staple food throughout the Maghrebi cuisines of Algeria, Tunisia, Mauritania, Morocco, and Libya.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Couscous is a staple food throughout the Maghrebi cuisines of Algeria, Tunisia, Mauritania, Morocco, and Libya.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "001",
+          "text": "Couscous is traditionally made from semolina, the hardest part of the grain of durum wheat, which resists the grinding of the millstone. The semolina is sprinkled with water and rolled with the hands to form small pellets, sprinkled with dry flour to keep them separate, and then sieved.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "002",
+          "text": "In the traditional method of preparing couscous, groups of people come together to make large batches over several days, which are then dried in the sun and used for several months. Handmade couscous may need to be rehydrated as it is prepared; this is achieved by a process of moistening and steaming over stew until the couscous reaches the desired light and fluffy consistency.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "003",
+          "text": "Traditionally, North Africans use a food steamer (called a taseksut in the Berber language, a kiskas in Arabic or a couscoussier in French). The base is a tall metal pot shaped like an oil jar, where the meat and vegetables are cooked as a stew. On top of the base, a steamer sits where the couscous is cooked, absorbing the flavours from the stew.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        }
+      ]
+    },
+    {
+      "query_id": "3",
+      "query": "What is a tagine and how is it traditionally cooked?",
+      "response": "A tagine (or tajine) is both a Maghrebi slow-cooked stew and the earthenware pot in which it is cooked. Algerian and Moroccan tagine dishes typically consist of sliced meat, poultry, or fish with vegetables or fruit, seasoned with spices such as ginger, cumin, turmeric, cinnamon, and saffron. The traditional tagine pot has two parts: a flat circular base and a large cone- or dome-shaped lid that traps steam and returns condensed liquid to the pot, meaning only a minimal amount of water is needed. It is traditionally cooked over hot charcoal.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "A tagine or tajine is a Maghrebi dish, and the earthenware pot in which it is cooked.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "001",
+          "text": "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit. Spices, nuts, and dried fruits are also used. Common spices include ginger, cumin, turmeric, cinnamon, and saffron.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "002",
+          "text": "The traditional tagine pottery, sometimes painted or glazed, consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking. The cover is designed to return all condensation to the bottom.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "003",
+          "text": "Tagine is traditionally cooked over hot charcoal, leaving an adequate space between the coals and the tagine pot to avoid having the temperature rise too quickly. Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        }
+      ]
+    },
+    {
+      "query_id": "4",
+      "query": "What are the three core elements traditionally associated with Mediterranean cuisine?",
+      "response": "The three core elements traditionally associated with Mediterranean cuisine are the olive, wheat, and the grape, yielding olive oil, bread and pasta, and wine respectively. The archaeologist Colin Renfrew calls this the 'Mediterranean triad'. Tunisian historian Mohamed Yassine Essid similarly defines the Mediterranean region by the presence of these basic products, arguing that the olive tree traces the very boundaries of the Mediterranean.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Many writers define the three core elements of the cuisine as the olive, wheat, and the grape, yielding olive oil, bread and pasta, and wine; other writers deny that the widely varied foods of the Mediterranean basin constitute a cuisine at all.",
+          "source": "wikipedia",
+          "title": "Mediterranean cuisine",
+          "url": "https://en.wikipedia.org/wiki/Mediterranean_cuisine"
+        },
+        {
+          "doc_id": "001",
+          "text": "Essid identifies the 'trinity' of basic ingredients of traditional Mediterranean cuisine as the olive, wheat, and the grape, yielding oil, bread, and wine respectively. The archaeologist Colin Renfrew calls this the 'Mediterranean triad'.",
+          "source": "wikipedia",
+          "title": "Mediterranean cuisine",
+          "url": "https://en.wikipedia.org/wiki/Mediterranean_cuisine"
+        },
+        {
+          "doc_id": "002",
+          "text": "The Tunisian historian Mohamed Yassine Essid similarly defines the region by the olive's presence, along with bread, wheat, and the grape as the 'basic products of Mediterranean folk cuisine': the olive tree, the emblematic tree on more than one account, traces the bounds of a frontier of landscapes and lives on either side of which the Mediterranean begins or ends.",
+          "source": "wikipedia",
+          "title": "Mediterranean cuisine",
+          "url": "https://en.wikipedia.org/wiki/Mediterranean_cuisine"
+        }
+      ]
+    },
+    {
+      "query_id": "5",
+      "query": "What is baklava and what are its main ingredients?",
+      "response": "Baklava is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey. It is common in cuisines of countries across West Asia, Southeast Europe, Central Asia, and North Africa. The nuts used vary by region: Turkish baklava is traditionally filled with pistachios, walnuts, or almonds; Greek baklava typically uses walnuts flavoured with cinnamon; Iranian baklava uses a combination of almonds, hazelnuts, or walnuts with saffron or cardamom; and Algerian baklava substitutes filo with a thin dough called malsouka and uses almonds.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Baklava is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "001",
+          "text": "Baklava is normally prepared in large pans. Many layers of filo dough, separated with melted butter and vegetable oil, are laid in the pan. A layer of chopped nuts—typically walnuts or pistachios, but hazelnuts and almonds are also sometimes used—is placed on top, then more layers of filo.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "002",
+          "text": "In Turkish cuisine, baklava is traditionally filled with pistachios, walnuts or almonds. In Greek cuisine, walnuts are more common than pistachios, and the dessert is flavored with cinnamon.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "003",
+          "text": "In most Algerian regions, Baklava is the centerpiece of any sweets table. The Algerian Baklava is distinct in that filo dough is not used. Instead, they use another type of thin dough called malsouka or warqa and instead of walnuts or pistachios they use almonds.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        }
+      ]
+    },
+    {
+      "query_id": "6",
+      "query": "What is tabbouleh and what are its key ingredients?",
+      "response": "Tabbouleh is a Levantine salad made of finely chopped parsley, soaked bulgur, tomatoes, mint, and onion, seasoned with olive oil, lemon juice, salt, and sweet pepper. It originally comes from the mountains of Lebanon and Syria and has become one of the most popular salads in the Middle East. It is traditionally served as part of a mezze in the Eastern Mediterranean. Traditional Levantine tabbouleh contains more herbs, mainly parsley, than bulgur, whereas Western adaptations tend to use more bulgur.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Tabbouleh is a Levantine salad of finely chopped parsley, soaked bulgur, tomatoes, mint, and onion, seasoned with olive oil, lemon juice, salt and sweet pepper.",
+          "source": "wikipedia",
+          "title": "Tabbouleh",
+          "url": "https://en.wikipedia.org/wiki/Tabbouleh"
+        },
+        {
+          "doc_id": "001",
+          "text": "Originally from the mountains of Lebanon and Syria, tabbouleh has become one of the most popular salads in the Middle East.",
+          "source": "wikipedia",
+          "title": "Tabbouleh",
+          "url": "https://en.wikipedia.org/wiki/Tabbouleh"
+        },
+        {
+          "doc_id": "002",
+          "text": "Tabbouleh is traditionally served as part of a mezze in the Eastern Mediterranean and the Arab world.",
+          "source": "wikipedia",
+          "title": "Tabbouleh",
+          "url": "https://en.wikipedia.org/wiki/Tabbouleh"
+        },
+        {
+          "doc_id": "003",
+          "text": "Traditional Levantine tabbouleh has more herbs (mainly parsley) than bulgur, whereas western adaptations contain more bulgur than parsley.",
+          "source": "wikipedia",
+          "title": "Tabbouleh",
+          "url": "https://en.wikipedia.org/wiki/Tabbouleh"
+        }
+      ]
+    },
+    {
+      "query_id": "7",
+      "query": "What is paella and where does it originate?",
+      "response": "Paella is a rice dish originally from the Valencian Community of Spain, regarded as one of that region's identifying symbols and one of the best-known dishes in Spanish cuisine. The dish takes its name from the wide, shallow traditional pan used to cook it over an open fire. There are three main versions: paella valenciana (with rabbit, chicken, duck, snails), paella de marisco (seafood), and paella mixta (mixed meat and seafood). Traditional paella valenciana consists of Valencian rice, olive oil, rabbit, chicken, saffron, tomato, flat green beans, and lima beans.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Paella is a rice dish originally from the Valencian Community. Paella is regarded as one of the community's identifying symbols. It is one of the best-known dishes in Spanish cuisine.",
+          "source": "wikipedia",
+          "title": "Paella",
+          "url": "https://en.wikipedia.org/wiki/Paella"
+        },
+        {
+          "doc_id": "001",
+          "text": "There are three versions of paella: paella valenciana, which includes rabbit, chicken, duck, snails; paella mixta, which includes livestock, and paella de marisco, which includes seafood; however, Valencians say that only the recipe for paella valenciana is the true paella.",
+          "source": "wikipedia",
+          "title": "Paella",
+          "url": "https://en.wikipedia.org/wiki/Paella"
+        },
+        {
+          "doc_id": "002",
+          "text": "The dish takes its name from the wide, shallow traditional pan used to cook the dish on an open fire, paella being the word for a frying pan in both Catalan and the Valencian language.",
+          "source": "wikipedia",
+          "title": "Paella",
+          "url": "https://en.wikipedia.org/wiki/Paella"
+        },
+        {
+          "doc_id": "003",
+          "text": "Paella valenciana is the traditional paella of the Valencia region, believed to be the original recipe, and consists of Valencian rice, olive oil, rabbit, chicken, duck, snails, saffron or a substitute, tomato, ferradura or flat green bean, lima beans, salt and water.",
+          "source": "wikipedia",
+          "title": "Paella",
+          "url": "https://en.wikipedia.org/wiki/Paella"
+        }
+      ]
+    },
+    {
+      "query_id": "8",
+      "query": "How does the preparation and use of couscous differ between Tunisia and Egypt?",
+      "response": "In Tunisia, couscous is typically spicy, made with harissa sauce, and served with vegetables and meat such as lamb, fish, seafood, beef, and sometimes camel. Fish couscous is a Tunisian specialty. In contrast, Egyptian couscous is traditionally prepared and consumed as a sweet dish, served for breakfast, as a light evening meal, or as dessert. Common toppings in Egypt include sugar, cinnamon, grated coconut, raisins, and assorted nuts such as almonds, walnuts, or hazelnuts—a notable departure from the savoury North African tradition.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "In Tunisia, couscous is usually spicy, made with harissa sauce, and served commonly with vegetables and meat, including lamb, fish, seafood, beef, and sometimes (in southern regions) camel. Fish couscous is a Tunisian specialty and can also be made with octopus, squid or other seafood in a hot, red, spicy sauce.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "001",
+          "text": "In Egypt, couscous is traditionally prepared and consumed as a sweet dish, differing notably from the savory couscous dishes commonly associated with other North African cuisines. It is typically served for breakfast, as a light evening meal, or as a dessert.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "002",
+          "text": "Common toppings include sugar (white, brown, or powdered), cinnamon, grated coconut, raisins, and assorted nuts such as almonds, walnuts, or hazelnuts. In some variations, sweetened condensed milk may also be used.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        }
+      ]
+    },
+    {
+      "query_id": "9",
+      "query": "Why is falafel's identification as an Israeli national dish considered controversial?",
+      "response": "The adoption of chickpea-based falafel into Israeli cuisine is contentious because falafel is of Egyptian origin and has long been central to Palestinian and wider Arab cuisine. Critics describe the claiming of falafel as an Israeli national dish as cultural appropriation and 'gastronationalism'. Palestinians and other Arabs have criticised the designation. The controversy is an example of how food can become a site of nationalist contestation.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "The adoption of the chickpea version of falafel into Israeli cuisine and its identification as an Israeli national dish is contentious, and has led to accusations of cultural appropriation and gastronationalism.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "001",
+          "text": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "002",
+          "text": "The chickpea version of the falafel has been adopted into Israeli cuisine, where it now features prominently and has been called a national dish of Israel, a designation Palestinians and other Arabs have criticized.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        },
+        {
+          "doc_id": "003",
+          "text": "Arguments over the relative importance of the dish in various cuisines is an example of gastronationalism. In particular, discussion centers around the adoption of the dish into Israeli cuisine as an example of cultural appropriation.",
+          "source": "wikipedia",
+          "title": "Falafel",
+          "url": "https://en.wikipedia.org/wiki/Falafel"
+        }
+      ]
+    },
+    {
+      "query_id": "10",
+      "query": "What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?",
+      "response": "In December 2020, Algeria, Mauritania, Morocco, and Tunisia jointly obtained official recognition for the knowledge, know-how, and practices pertaining to the production and consumption of couscous on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. The joint submission by the four countries was praised as an 'example of international cooperation', highlighting how a shared culinary heritage can bring nations together rather than divide them.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "In 2020, couscous was added to UNESCO's Intangible Cultural Heritage list.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "001",
+          "text": "In December 2020, Algeria, Mauritania, Morocco, and Tunisia obtained official recognition for the knowledge, know-how, and practices pertaining to the production and consumption of couscous on the Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        },
+        {
+          "doc_id": "002",
+          "text": "The joint submission by the four countries was hailed as an 'example of international cooperation.'",
+          "source": "wikipedia",
+          "title": "Couscous",
+          "url": "https://en.wikipedia.org/wiki/Couscous"
+        }
+      ]
+    },
+    {
+      "query_id": "11",
+      "query": "What distinguishes Moroccan tagine from Tunisian tagine?",
+      "response": "Moroccan tagine is a slow-cooked stew of meat, poultry, or fish with vegetables or fruit, cooked in a distinctive conical earthenware pot that traps steam and returns moisture to the dish. Tunisian 'tagine', however, is an entirely different preparation more akin to a French quiche or Italian frittata. The Tunisian version is a baked egg dish: a ragout of finely cut meat and spices is enriched with starch, cheese, and eggs, then baked in a deep pie dish until firm on both sides and sliced into squares to serve.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit. Spices, nuts, and dried fruits are also used. Common spices include ginger, cumin, turmeric, cinnamon, and saffron.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "001",
+          "text": "What Tunisians refer to as a 'tagine' is very different from other forms of the dish. Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "002",
+          "text": "Then a starch such as cannellini beans, chickpeas, breadcrumbs or cubed potatoes, is added to thicken the juices. When the meat is tender, it is combined with chosen ingredients such as fresh parsley, dried mint, saffron, or sun-dried tomatoes. Next, the stew is enriched with cheese and eggs. Finally, this egg and stew are baked in a deep pie dish until top and bottom are crisply cooked and the eggs are just set.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        },
+        {
+          "doc_id": "003",
+          "text": "When the tagine is ready, it is turned out onto a plate and sliced into squares, accompanied by wedges of lemon.",
+          "source": "wikipedia",
+          "title": "Tagine",
+          "url": "https://en.wikipedia.org/wiki/Tagine"
+        }
+      ]
+    },
+    {
+      "query_id": "12",
+      "query": "What are the key characteristics of Greek cuisine?",
+      "response": "Greek cuisine is founded on the Mediterranean triad of wheat, olive oil, and wine. It makes extensive use of vegetables, olive oil, grains, fish, and meat including pork, poultry, lamb, rabbit, and goat. Olive oil is the most characteristic ingredient, used in most dishes. Key flavourings include oregano, mint, garlic, onion, dill, and cumin. A great variety of cheeses are used, including feta, kasseri, and graviera. The cuisine continues traditions from Ancient Greek and Byzantine cooking while also incorporating Turkish, Italian, and Middle Eastern influences.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "Greek cuisine is the cuisine of Greece and the Greek diaspora. In common with many other cuisines of the Mediterranean, it is founded on the triad of wheat, olive oil, and wine. It uses vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat.",
+          "source": "wikipedia",
+          "title": "Greek cuisine",
+          "url": "https://en.wikipedia.org/wiki/Greek_cuisine"
+        },
+        {
+          "doc_id": "001",
+          "text": "The most characteristic and ancient element of Greek cuisine is olive oil, which is used in most dishes. It is produced from the olive trees prominent throughout the region, and adds to the distinctive taste of Greek food.",
+          "source": "wikipedia",
+          "title": "Greek cuisine",
+          "url": "https://en.wikipedia.org/wiki/Greek_cuisine"
+        },
+        {
+          "doc_id": "002",
+          "text": "Greek cuisine uses some flavorings more often than other Mediterranean cuisines do, namely oregano, mint, garlic, onion, dill, cumin, and bay laurel leaves.",
+          "source": "wikipedia",
+          "title": "Greek cuisine",
+          "url": "https://en.wikipedia.org/wiki/Greek_cuisine"
+        },
+        {
+          "doc_id": "003",
+          "text": "It continues traditions from Ancient Greek and Byzantine cuisine, while incorporating Turkish, Middle Eastern, Balkan, and Italian influences.",
+          "source": "wikipedia",
+          "title": "Greek cuisine",
+          "url": "https://en.wikipedia.org/wiki/Greek_cuisine"
+        }
+      ]
+    },
+    {
+      "query_id": "13",
+      "query": "What is the history and origin of baklava?",
+      "response": "The precise origin of baklava is disputed, with three main theories: the Ancient Greek placenta cake, the Arabic lauzinaj (almond paste wrapped in thin pastry), and the Central Asian Turkic tradition of layered breads. An archaic version is said to have been prepared in the Byzantine Empire, while the Turkish version was likely developed in the imperial kitchens of the Topkapı Palace in Constantinople. The earliest known reference to baklava by name is in a 15th-century poem by the mystic Kaygusuz Abdal. A Syrian recipe introduced to the Turkish city of Gaziantep in 1871 became the basis of Gaziantep baklava, the first Turkish product to receive a Protected Geographical Indication from the European Commission.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "The three main proposals for the roots of baklava are the Greek placenta cake (a Persian inspired recipe), lauzinaj, and the Central Asian Turkic tradition of layered breads.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "001",
+          "text": "The earliest known reference to baklava is in a poem by the 15th century mystic Kaygusuz Abdal.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "002",
+          "text": "Although the history of baklava is not well documented, an archaic version of baklava is said to have been prepared in the Byzantine empire, while its Turkish version was probably developed in the imperial kitchens of the Topkapı Palace in Constantinople (modern Istanbul).",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        },
+        {
+          "doc_id": "003",
+          "text": "In 2008, the Turkish patent office registered a geographical indication for Antep Baklava, and in 2013, Antep Baklavası or Gaziantep Baklavası was registered as a Protected Geographical Indication by the European Commission. Gaziantep baklava is the first Turkish product to receive a protected designation from the European Commission.",
+          "source": "wikipedia",
+          "title": "Baklava",
+          "url": "https://en.wikipedia.org/wiki/Baklava"
+        }
+      ]
+    },
+    {
+      "query_id": "14",
+      "query": "What ownership dispute exists over hummus between Lebanon and Israel?",
+      "response": "Hummus has been the subject of a significant cultural ownership dispute between Lebanon and Israel. In 2008, the Association of Lebanese Industrialists petitioned for protected geographical status from the European Commission, claiming hummus as a uniquely Lebanese food. Meanwhile, hummus is often regarded as an unofficial national dish of Israel, which Lebanon and Palestinians describe as cultural appropriation. The two countries have also competed for the Guinness World Record for the largest dish of hummus; as of 2021, Lebanon held the record with a dish prepared by 300 cooks near Beirut, weighing approximately 10,450 kilograms.",
+      "retrieved_context": [
+        {
+          "doc_id": "000",
+          "text": "In October 2008, the Association of Lebanese Industrialists petitioned the Lebanese Ministry of Economy and Trade to request protected status from the European Commission for hummus as a uniquely Lebanese food, similar to the Protected Geographical Status rights held over regional food items by various European Union countries.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "001",
+          "text": "Hummus is often seen as an unofficial 'national dish' of Israel, reflecting its huge popularity and significance among the entire Israeli population, which Israel's critics describe as an appropriation of Lebanese, Palestinian or Arab culture.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "002",
+          "text": "Lebanon and Israel's chefs have been engaged in a competition over the largest dish of hummus, as validated by the Guinness World Record, as a form of contestation of 'ownership'. The 'title' has gone back and forth between Israel (2008), Lebanon (2009), Israel (January 2010), and, as of 2021, Lebanon (May 2010).",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        },
+        {
+          "doc_id": "003",
+          "text": "The winning dish, cooked by 300 cooks in the village of al-Fanar, near Beirut, weighed approximately 10,450 kilograms (23,040 lb), more than double the weight of the Israeli-Arab previous record.",
+          "source": "wikipedia",
+          "title": "Hummus",
+          "url": "https://en.wikipedia.org/wiki/Hummus"
+        }
+      ]
+    }
+  ]
+}

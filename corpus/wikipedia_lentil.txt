@@ -1,0 +1,96 @@
+TITLE:      Lentil
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Lentil
+SCRAPED:    2026-03-06
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+The lentil (Vicia lens or Lens culinaris) is an annual legume grown for its lens-shaped edible seeds or pulses, also called lentils. It is about 40 cm (16 in) tall, and the seeds grow in pods, usually with two seeds in each.
+
+Lentil seeds are used around the world for culinary purposes, most commonly in stews or soups. In cuisines of the Indian subcontinent, where lentils are a staple, split lentils (often with their hulls removed) known as dal are often cooked into a thick curry that is usually eaten with rice or roti.
+
+The English word "lentil" ultimately derives from the Latin lens ('lentil'). The Latin word is of classical Roman or Latin origin and may be the source of the prominent Roman family name Lentulus, just as the family name "Cicero" was derived from the chickpea, Cicer arietinum, and "Fabia" (as in Quintus Fabius Maximus) from the fava bean (Vicia faba).
+
+The genus Vicia is part of the subfamily Faboideae which is contained in the flowering plant family Fabaceae or commonly known as legume or bean family, of the order Fabales in the kingdom Plantae.
+
+The former genus Lens, now considered a section of genus Vicia, consisted of the cultivated L. culinaris and six related wild taxa. As members of genus Lens, these six are Lens orientalis, Lens tomentosus, Lens lamottei, Lens odemensis, Lens ervoides, and Lens nigricans. The seven members are often referred to as "taxa" instead of "species" and/or "subspecies", as while it is broadly agreed there are seven of them, whether they constitute distinct species is not broadly agreed on. Among the wild taxa, L. orientalis is considered to be the progenitor of the cultivated lentil L. culinaris. Of the taxa, L. culinaris and L. orientalis are most often considered subspecies, and so are often also classified as L. culinaris subsp. culinaris and L. culinaris subsp. orientalis respectively. Following reassignment to genus Vicia, they may also be referred to as Vicia lens subsp. culinaris and Vicia lens subsp. orientalis.
+
+Lentil is hypogeal, which means the cotyledons of the germinating seed stay in the ground and inside the seed coat. Therefore, it is less vulnerable to frost, wind erosion, or insect attack.
+
+The plant is a diploid, annual, bushy herb of erect, semierect, or spreading and compact growth and normally varies from 30 to 50 centimetres (12 to 20 in) in height. It has many hairy branches and its stem is slender and angular. The rachis bears 10 to 15 leaflets in five to eight pairs. The leaves are alternate, of oblong-linear and obtuse shape and from yellowish green to dark bluish green in colour. In general, the upper leaves are converted into tendrils, whereas the lower leaves are mucronate. If stipules are present, they are small. The flowers, one to four in number, are small, white, pink, purple, pale purple, or pale blue in colour. They arise from the axils of the leaves, on a slender footstalk almost as long as the leaves. The pods are oblong, slightly inflated, and about 1.5 centimetres (5⁄8 in) long. Normally, each of them contains two seeds, about 0.5 centimetres (1⁄4 in) in diameter, in the characteristic lens shape. The seeds can also be mottled and speckled. The several cultivated varieties of lentil differ in size, hairiness, and colour of the leaves, flowers, and seeds.
+
+Lentils are self-pollinating. The flowering begins from the lowermost buds and gradually moves upward, so-called acropetal flowering. About two weeks are needed for all the flowers to open on the single branch. At the end of the second day and on the third day after the opening of the flowers, they close completely and the colour begins to fade. After three to four days, the setting of the pods takes place.
+
+Lentil may be classified for market based on an array of seed qualities. These qualities may include the size, shape ("round" or "lens"), seed coat colour and pattern, seed coat thickness, and internal cotyledon colour. The parameters for market type or classification name may also vary according to region. Additionally, when sold, lentil may be further classified according to whether it is hulled (seed coat removed) or unhulled, and if hulled, whether the cotyledon inside is split or left whole.
+
+Lentil seed coat colour can be broadly grouped into tan, grey, green, brown, clear or black, the first four of which will slowly turn brown over time. Black seed coat, which can present solid black (almost purple) or slightly patchy, acts like a pattern, masking the "ground" colour (tan, grey, green or brown) beneath, while clear coats lack pigmentation altogether. Seed coat colour is also influenced by the colour of the cotyledon, though this does not usually affect market classification.
+
+Seed coat patterning is usually selected against in most market types with the exception of Puy or "French green" lentil, which has "marbled" patterning. As well as "marbled" (which comes in two genetic variants termed Marbled-1 and Marbled-2), coats may be "spotted", "dotted", "mottled", or show complex/mixed patterns. Seed coat colour is determined by the genotype of the seed parent, rather than the genetics of the plant the seed will become.
+
+Common cotyledon colours are an orange-red colour and a light yellow, usually just called "red" (occasionally "orange") and "yellow" respectively. Three other colours, a brown-yellow, a light green, and a dark green have also been documented.
+
+Red lentil varieties are defined by their red cotyledon, and moderate to thin seed coat. Red lentil varieties tend to be smaller than those of their green/brown counterparts, with large red lentil varieties meeting a similar size to small green lentil varieties. As the seed coat of red lentil is often removed, colour and pattern aren't usually selected for, though in recent years Australian red lentil varieties have been standardised for grey seed coats to allow for cultivars to be mixed. Australia is the largest producer of red lentil.
+
+Green and brown lentil varieties have yellow cotyledon, usually moderate or thin, and green or brown seed coats. Canada is the largest producer of green lentil. These lentils are sometimes referred to by notable historic cultivars instead of by size, especially in North America: for example, small green lentil may be referred to as Eston-types, large green lentils as Laird-types, and large brown lentil as Brewer-types. These lentils rarely hold their shape when cooked, and so are often used in soups or stews.
+
+Black lentil
+
+Regional types
+
+Other
+
+In 2023, world production of dry lentils was 7 million tonnes, led by Australia, Canada, and India, which together accounted for 72% of the total (table).
+
+The cultivated lentil Vicia lens subsp. lens was derived from its wild subspecies V. lens subsp. orientalis, although other species may also have contributed some genes, according to Jonathan Sauer (Historical Geography of Crop Plants, 2017). Unlike their wild ancestors, domesticated lentil crops have indehiscent pods and non-dormant seeds.
+
+Lentil was domesticated in the Fertile Crescent of the Near East and then spread to Europe and North Africa and the Indo-Gangetic plain. The primary center of diversity for the domestic Vicia lens as well as its wild progenitor V. lens ssp. lamottei is considered to be the Middle East. The oldest known carbonized remains of lentil from Greece's Franchthi Cave are dated to 11,000 BC. In archaeobotanical excavations carbonized remains of lentil seeds have been recovered from widely dispersed places such as Tell Ramad in Syria (6250–5950 BC), Aceramic Beidha in Jordan, Hacilar in Turkey (5800–5000 BC), Tepe Sabz (Ita. Tepe Sabz) in Iran (5500–5000 BC) and Argissa-Magula Tessaly in Greece (6000–5000 BC), among other places. Lentils were part of the ancient Israelite diet, served roasted or prepared as a soup/stew, as indicated by several biblical passages. Archaeological excavations at Tel Beit Shemesh have uncovered lentil remains dating from the Iron Age.
+
+Lentils can grow on various soil types, from sand to clay loam, growing best in deep sandy loam soils with moderate fertility. A soil pH around 7 would be the best. Lentils do not tolerate flooding or water-logged conditions.
+
+Lentils improve the physical properties of soils and increase the yield of succeeding cereal crops. Biological nitrogen fixation or other rotational effects could be the reason for higher yields after lentils.
+
+The conditions under which lentils are grown differ across different growing regions. In the temperate climates lentils are planted in the winter and spring under low temperatures and vegetative growth occurs in later spring and the summer. Rainfall during this time is not limited. In the subtropics, lentils are planted under relatively high temperatures at the end of the rainy season, and vegetative growth occurs on the residual soil moisture in the summer season. Rainfall during this time is limited. In West Asia and North Africa, some lentils are planted as a winter crop before snowfall. Plant growth occurs during the time of snow melting. Under such cultivation, seed yields are often much higher.
+
+The lentil requires a firm, smooth seedbed with most of the previous crop residues incorporated. For the seed placement and for later harvesting it is important that the surface is not uneven with large clods, stones, or protruding crop residue. It is also important that the soil be made friable and weed-free, so that seeding can be done at a uniform depth.
+
+The plant densities for lentils vary between genotypes, seed size, planting time and growing conditions, and also from region to region. In South Asia, a seed rate of 30 to 40 kilograms per hectare (27 to 36 pounds per acre) is recommended. In West Asian countries, a higher seed rate is recommended, and also leads to a higher yield. The seeds should be sown 3 to 4 centimetres (1+1⁄4 to 1+1⁄2 in) deep. In agriculturally mechanized countries, lentils are planted using grain drills, but many other areas still hand broadcast.
+
+In intercropping systems – a practice commonly used in lentil cultivation – herbicides may be needed to assure crop health. Like many other legume crops, lentils can fix atmospheric nitrogen in the soil with specific rhizobia.[citation needed] Lentils grow well under low fertilizer input conditions, although phosphorus, nitrogen, potassium, and sulfur may be used for nutrient-poor soils.
+
+Below is a list of the most common lentil diseases.
+
+A combination of gravity, screens and air flow is used to clean and sort lentils by shape and density. After destoning, they may be separated by a color sorter and then packaged.
+
+A major part of the world's red lentil production undergoes a secondary processing step. These lentils are dehulled, split and polished. In the Indian subcontinent, this process is called dal milling. The moisture content of the lentils prior to dehulling is crucial to guarantee a good dehulling efficiency. The hull of lentils usually accounts for 6 to 7 percent of the total seed weight, which is lower than most legumes. Lentil flour can be produced by milling the seeds, like cereals.
+
+Lentils can be eaten soaked, germinated, fried, baked or boiled – the most common preparation method. The seeds require a cooking time of 10 to 40 minutes, depending on the variety; small varieties with the husk removed, such as the common red lentil, require shorter cooking times (and unlike most legumes don't require soaking). Most varieties have a distinctive, earthy flavor. Lentils with husks remain whole with moderate cooking, while those without husks tend to disintegrate into a thick purée, which may enable various dishes. The composition of lentils leads to a high emulsifying capacity which can be even increased by dough fermentation in bread making.
+
+Lentils are used worldwide in many different dishes. Lentil dishes are most widespread throughout South Asia, the Mediterranean regions, West Asia, and Latin America. 
+
+In the Indian subcontinent, Fiji, Mauritius, Singapore and the Caribbean, lentil curry is part of the everyday diet, eaten with both rice and roti. Boiled lentils and lentil stock are used to thicken most vegetarian curries. They are also used as stuffing in dal parathas and puri for breakfast or snacks. Lentils are also used in many regional varieties of sweets. Lentil flour is used to prepare several different bread varieties, such as papadam.
+
+They are frequently combined with rice, which has a similar cooking time. A lentil and rice dish is referred to in Levantine countries as mujaddara or mejadra. In Iran, rice and lentil is served with fried raisin; this dish is called lentil rice (adas polo). Rice and lentils are also cooked together in khichdi, a common dish in the Indian subcontinent (India and Pakistan); another dish, kushari, made in Egypt, is considered a national dish.
+
+Lentils and pasta are another common combination in Middle Eastern cuisine, found in countries like Israel, Palestine, Syria, Egypt, Lebanon, among others.
+
+Lentils are used to prepare an inexpensive and nutritious soup throughout Europe and North and South America, sometimes combined with chicken or pork. In Western countries, cooked lentils are often used in salads. In Italy, the traditional dish for New Year's Eve is Cotechino served with lentils.
+
+Lentils are commonly eaten in Ethiopia in a stew-like dish called misir, or misir wot, one of the dishes people eat with Ethiopia's national food, injera flatbread.
+
+Lentils were a chief part of the diet of ancient Iranians, who consumed lentils daily in the form of a stew poured over rice.
+
+Boiled lentils are 70% water, 20% carbohydrates, 9% protein, and 0.4% fat (table). In a reference amount of 100 grams (3+1⁄2 ounces), cooked lentils (boiled; variety unspecified) provide 114 calories, and are a rich source (20% or more of the Daily Value, DV) of folate (45% DV), copper (28% DV), and manganese (21% DV). They are a moderate source (10-19% DV) of thiamine, pantothenic acid, vitamin B6, iron, and phosphorus, with other minerals in moderate content (table).
+
+The low levels of readily digestible starch (5 percent) and high levels of slowly digested starch make lentils of potential value to people with diabetes. The remaining 65% of the starch is a resistant starch classified as RS1. A minimum of 10% in starch from lentils escapes digestion and absorption in the small intestine (therefore called "resistant starch"). Additional resistant starch is synthesized from gelatinized starch, during cooling, after lentils are cooked.
+
+Lentils also have antinutrient factors, such as trypsin inhibitors and a relatively high phytate content. Trypsin is an enzyme involved in protein digestion, and phytates reduce the bioavailability of dietary minerals. The phytates can be reduced by prolonged soaking and fermentation or sprouting. Cooking nearly completely removes the trypsin inhibitor activity; sprouting is also effective.
+
+Although lentils have been an important crop for centuries, lentil breeding and genetic research have a relatively short history compared to that of many other crops. Since the inception of The International Center for Agriculture Research in the Dry Areas (ICARDA) breeding programme in 1977 significant gains have been made. It supplies landraces and breeding lines for countries around the world, supplemented by other programmes in both developing (e.g. India) and developed (e.g. Australia and Canada) countries. In recent years, such collaborations among breeders and agronomists are becoming increasingly important.
+
+The focus lies on high yielding and stable cultivars for diverse environments to match the demand of a growing population. In particular, progress in quantity and quality as well as in the resistance to disease and abiotic stresses are the major breeding aims. Several varieties have been developed applying conventional breeding methodologies. Serious genetic improvement for yield has been made, however, the full potential of production and productivity could not yet be tapped due to several biotic and abiotic stresses.
+
+Wild Lens species are a significant source of genetic variation for improving the relatively narrow genetic base of this crop. The wild species possess many diverse traits including disease resistances and abiotic stress tolerances. The above-mentioned L. nigricans and L. orientalis possess morphological similarities to the cultivated L. culinaris. But only L. culinaris and L. culinaris subsp. orientalis are crossable and produce fully fertile seed. Between the different related species hybridisation barriers exist. According to their inter-crossability with Lens taxa can be divided into three gene pools:
+
+Crosses generally fail between members of different gene pools. However, plant growth regulators and/or embryo rescue allows the growth of viable hybrids between groups. Even if crosses are successful, many undesired genes may be introduced as well in addition to the desired ones. This can be resolved by using a backcrossing programme. Thus, mutagenesis is crucial to create new and desirable varieties. According to Yadav et al. other biotechnology techniques which may impact on lentil breeding are micro-propagation using meristamatic explants, callus culture and regeneration, protoplast culture and doubled haploid production.
+
+There is a proposed revision of the gene pools using SNP phylogeny.

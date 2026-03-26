@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query_id": "0",
+      "query": "How much is the döner kebap industry worth annually in Germany?"
+    },
+    {
+      "query_id": "1",
+      "query": "When were arancini thought to have first originated and where?"
+    },
+    {
+      "query_id": "2",
+      "query": "What is the purpose of adding lemon juice to baklava syrup?"
+    },
+    {
+      "query_id": "3",
+      "query": "What is halloumi cheese made from and what is its national significance?"
+    },
+    {
+      "query_id": "4",
+      "query": "What is the oldest wine in continuous production and where is it from?"
+    }
+  ]
+}

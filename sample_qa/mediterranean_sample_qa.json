@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "source": "Around the world in 80 cuisines",
+      "questions": [
+        {
+          "question": "How much is the döner kebap industry worth annually in Germany?",
+          "answer": "The döner kebap industry in Germany is worth 3.5 billion euros per year."
+        },
+        {
+          "question": "When were arancini thought to have first originated and where?",
+          "answer": "Arancini are thought to have originated during the 10th century in Sicily."
+        }
+      ]
+    },
+    {
+      "source": "Wikibooks Turkey Recipes (Mediterranean)",
+      "questions": [
+        {
+          "question": "What is the purpose of adding lemon juice to baklava syrup?",
+          "answer": "The lemon is an important ingredient in the syrup as it keeps it from crystallizing while cooling."
+        }
+      ]
+    },
+    {
+      "source": "Wikipedia - Cyprus",
+      "questions": [
+        {
+          "question": "What is halloumi cheese made from and what is its national significance?",
+          "answer": "Halloumi is a semi-hard white-brined cheese with elastic texture, made from a mixture of goat and sheep milk, and it is the national cheese of Cyprus."
+        },
+        {
+          "question": "What is the oldest wine in continuous production and where is it from?",
+          "answer": "Commandaria, the oldest wine in continuous production, is a popular dessert wine from Cyprus."
+        }
+      ]
+    }
+  ]
+}

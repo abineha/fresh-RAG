@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "source": "Around the world in 80 cuisines",
+      "questions": [
+        {
+          "question": "What ingredients are traditionally included in Kabuli pulao alongside the rice?",
+          "answer": "The traditional ingredients in Kabuli pulao are raisins, onion, garlic, carrots, almonds, pistachios, lamb, and a spiced syrup made with sugar, lamb stock, garam masala and cardamom."
+        }
+      ]
+    },
+    {
+      "source": "Wikipedia",
+      "questions": [
+        {
+          "question": "What cooking techniques and vegetables did the Portuguese and British introduce to the Indian subcontinent during their rule?",
+          "answer": "The Portuguese and British introduced baking techniques and a variety of New World vegetables, including maize, tomato, potato, sweet potatoes, peanuts, squash, and chilli."
+        },
+        {
+          "question": "What is the historical origin of Halwa in the region in Kerala?",
+          "answer": "Halwa originated from the Gujarathi community in Calicut."
+        }
+      ]
+    },
+    {
+      "source": "Wikibooks",
+      "questions": [
+        {
+          "question": "What is upma?",
+          "answer": "Upma is a wholesome Indian dish made of rava (cream of wheat)."
+        },
+        {
+          "question": "What is ghevar usually served with?",
+          "answer": "Usually ghevar is served with piping hot rabri, a variety of very thick sweetened milk."
+        }
+      ]
+    }
+  ]
+}

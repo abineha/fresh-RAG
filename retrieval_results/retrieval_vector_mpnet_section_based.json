@@ -1,0 +1,512 @@
+[
+  {
+    "query_id": "0",
+    "query": "What are the main ingredients of hummus and where did the dish originate?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_hummus_000",
+        "rank": 1,
+        "score": 0.744389
+      },
+      {
+        "chunk_id": "wikipedia_hummus_001",
+        "rank": 2,
+        "score": 0.714926
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__hummus_000",
+        "rank": 3,
+        "score": 0.646586
+      },
+      {
+        "chunk_id": "wikipedia_hummus_002",
+        "rank": 4,
+        "score": 0.641477
+      },
+      {
+        "chunk_id": "wikipedia_chickpea_004",
+        "rank": 5,
+        "score": 0.561625
+      }
+    ]
+  },
+  {
+    "query_id": "1",
+    "query": "What is falafel made from and what is its country of origin?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_falafel_000",
+        "rank": 1,
+        "score": 0.701484
+      },
+      {
+        "chunk_id": "wikipedia_falafel_002",
+        "rank": 2,
+        "score": 0.654904
+      },
+      {
+        "chunk_id": "wikipedia_falafel_001",
+        "rank": 3,
+        "score": 0.641606
+      },
+      {
+        "chunk_id": "wikipedia_ful_medames_001",
+        "rank": 4,
+        "score": 0.587155
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__falafel_000",
+        "rank": 5,
+        "score": 0.570763
+      }
+    ]
+  },
+  {
+    "query_id": "2",
+    "query": "How is couscous traditionally made and which countries consider it a staple food?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_couscous_003",
+        "rank": 1,
+        "score": 0.754613
+      },
+      {
+        "chunk_id": "wikipedia_couscous_002",
+        "rank": 2,
+        "score": 0.751175
+      },
+      {
+        "chunk_id": "wikipedia_couscous_001",
+        "rank": 3,
+        "score": 0.745471
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__couscous_000",
+        "rank": 4,
+        "score": 0.724847
+      },
+      {
+        "chunk_id": "wikipedia_couscous_000",
+        "rank": 5,
+        "score": 0.707752
+      }
+    ]
+  },
+  {
+    "query_id": "3",
+    "query": "What is a tagine and how is it traditionally cooked?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_tagine_002",
+        "rank": 1,
+        "score": 0.750344
+      },
+      {
+        "chunk_id": "wikipedia_tagine_001",
+        "rank": 2,
+        "score": 0.742454
+      },
+      {
+        "chunk_id": "wikipedia_tagine_000",
+        "rank": 3,
+        "score": 0.713024
+      },
+      {
+        "chunk_id": "blog_blog__north_africa_001",
+        "rank": 4,
+        "score": 0.635252
+      },
+      {
+        "chunk_id": "wikipedia_kibbeh_001",
+        "rank": 5,
+        "score": 0.495155
+      }
+    ]
+  },
+  {
+    "query_id": "4",
+    "query": "What are the three core elements traditionally associated with Mediterranean cuisine?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_001",
+        "rank": 1,
+        "score": 0.734179
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_000",
+        "rank": 2,
+        "score": 0.722179
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_004",
+        "rank": 3,
+        "score": 0.701225
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_003",
+        "rank": 4,
+        "score": 0.633653
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_007",
+        "rank": 5,
+        "score": 0.624122
+      }
+    ]
+  },
+  {
+    "query_id": "5",
+    "query": "What is baklava and what are its main ingredients?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_baklava_003",
+        "rank": 1,
+        "score": 0.714173
+      },
+      {
+        "chunk_id": "wikipedia_baklava_004",
+        "rank": 2,
+        "score": 0.709893
+      },
+      {
+        "chunk_id": "wikipedia_baklava_002",
+        "rank": 3,
+        "score": 0.6927
+      },
+      {
+        "chunk_id": "wikipedia_baklava_000",
+        "rank": 4,
+        "score": 0.683835
+      },
+      {
+        "chunk_id": "wikipedia_baklava_005",
+        "rank": 5,
+        "score": 0.681666
+      }
+    ]
+  },
+  {
+    "query_id": "6",
+    "query": "What is tabbouleh and what are its key ingredients?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_tabbouleh_000",
+        "rank": 1,
+        "score": 0.687659
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__tabbouleh_000",
+        "rank": 2,
+        "score": 0.65075
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__tabbouleh_iii_000",
+        "rank": 3,
+        "score": 0.637335
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__tabbouleh_i_000",
+        "rank": 4,
+        "score": 0.62918
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__tabbouleh_ii_000",
+        "rank": 5,
+        "score": 0.617284
+      }
+    ]
+  },
+  {
+    "query_id": "7",
+    "query": "What is paella and where does it originate?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_paella_000",
+        "rank": 1,
+        "score": 0.733383
+      },
+      {
+        "chunk_id": "wikipedia_paella_001",
+        "rank": 2,
+        "score": 0.721453
+      },
+      {
+        "chunk_id": "wikipedia_paella_003",
+        "rank": 3,
+        "score": 0.662613
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__paella_000",
+        "rank": 4,
+        "score": 0.660576
+      },
+      {
+        "chunk_id": "blog_blog__spanish_cuisine_003",
+        "rank": 5,
+        "score": 0.660352
+      }
+    ]
+  },
+  {
+    "query_id": "8",
+    "query": "How does the preparation and use of couscous differ between Tunisia and Egypt?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_tunisian_cuisine_002",
+        "rank": 1,
+        "score": 0.73742
+      },
+      {
+        "chunk_id": "wikipedia_couscous_003",
+        "rank": 2,
+        "score": 0.711758
+      },
+      {
+        "chunk_id": "wikipedia_couscous_002",
+        "rank": 3,
+        "score": 0.692677
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__couscous_000",
+        "rank": 4,
+        "score": 0.68398
+      },
+      {
+        "chunk_id": "wikipedia_couscous_000",
+        "rank": 5,
+        "score": 0.660146
+      }
+    ]
+  },
+  {
+    "query_id": "9",
+    "query": "Why is falafel's identification as an Israeli national dish considered controversial?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_israeli_cuisine_020",
+        "rank": 1,
+        "score": 0.843174
+      },
+      {
+        "chunk_id": "wikipedia_falafel_000",
+        "rank": 2,
+        "score": 0.691569
+      },
+      {
+        "chunk_id": "wikipedia_falafel_001",
+        "rank": 3,
+        "score": 0.690202
+      },
+      {
+        "chunk_id": "wikipedia_israeli_cuisine_016",
+        "rank": 4,
+        "score": 0.676242
+      },
+      {
+        "chunk_id": "wikipedia_falafel_002",
+        "rank": 5,
+        "score": 0.672833
+      }
+    ]
+  },
+  {
+    "query_id": "10",
+    "query": "What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_couscous_002",
+        "rank": 1,
+        "score": 0.651798
+      },
+      {
+        "chunk_id": "wikipedia_couscous_000",
+        "rank": 2,
+        "score": 0.592839
+      },
+      {
+        "chunk_id": "wikipedia_tunisian_cuisine_002",
+        "rank": 3,
+        "score": 0.588954
+      },
+      {
+        "chunk_id": "wikipedia_couscous_001",
+        "rank": 4,
+        "score": 0.580481
+      },
+      {
+        "chunk_id": "wikipedia_couscous_003",
+        "rank": 5,
+        "score": 0.540504
+      }
+    ]
+  },
+  {
+    "query_id": "11",
+    "query": "What distinguishes Moroccan tagine from Tunisian tagine?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_tagine_002",
+        "rank": 1,
+        "score": 0.713416
+      },
+      {
+        "chunk_id": "wikipedia_tagine_000",
+        "rank": 2,
+        "score": 0.612531
+      },
+      {
+        "chunk_id": "wikipedia_tunisian_cuisine_000",
+        "rank": 3,
+        "score": 0.605859
+      },
+      {
+        "chunk_id": "wikipedia_tunisian_cuisine_001",
+        "rank": 4,
+        "score": 0.602597
+      },
+      {
+        "chunk_id": "wikipedia_moroccan_cuisine_000",
+        "rank": 5,
+        "score": 0.585426
+      }
+    ]
+  },
+  {
+    "query_id": "12",
+    "query": "What are the key characteristics of Greek cuisine?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_greek_cuisine_000",
+        "rank": 1,
+        "score": 0.717726
+      },
+      {
+        "chunk_id": "wikipedia_greek_cuisine_001",
+        "rank": 2,
+        "score": 0.690889
+      },
+      {
+        "chunk_id": "wikipedia_greek_cuisine_002",
+        "rank": 3,
+        "score": 0.690362
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_cuisine_006",
+        "rank": 4,
+        "score": 0.641963
+      },
+      {
+        "chunk_id": "blog_blog__greece_004",
+        "rank": 5,
+        "score": 0.603131
+      }
+    ]
+  },
+  {
+    "query_id": "13",
+    "query": "What is the history and origin of baklava?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_baklava_000",
+        "rank": 1,
+        "score": 0.823029
+      },
+      {
+        "chunk_id": "wikipedia_baklava_001",
+        "rank": 2,
+        "score": 0.763051
+      },
+      {
+        "chunk_id": "wikipedia_baklava_002",
+        "rank": 3,
+        "score": 0.742317
+      },
+      {
+        "chunk_id": "wikipedia_baklava_003",
+        "rank": 4,
+        "score": 0.708732
+      },
+      {
+        "chunk_id": "wikipedia_baklava_004",
+        "rank": 5,
+        "score": 0.668725
+      }
+    ]
+  },
+  {
+    "query_id": "14",
+    "query": "What ownership dispute exists over hummus between Lebanon and Israel?",
+    "method": "vector",
+    "model": "all-mpnet-base-v2",
+    "chunking": "section_based",
+    "retrieved": [
+      {
+        "chunk_id": "wikipedia_hummus_002",
+        "rank": 1,
+        "score": 0.653562
+      },
+      {
+        "chunk_id": "wikipedia_hummus_001",
+        "rank": 2,
+        "score": 0.591682
+      },
+      {
+        "chunk_id": "wikipedia_israeli_cuisine_020",
+        "rank": 3,
+        "score": 0.580952
+      },
+      {
+        "chunk_id": "wikipedia_israeli_cuisine_006",
+        "rank": 4,
+        "score": 0.542195
+      },
+      {
+        "chunk_id": "wikipedia_israeli_cuisine_017",
+        "rank": 5,
+        "score": 0.537521
+      }
+    ]
+  }
+]

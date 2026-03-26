@@ -1,0 +1,10 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "model_key": "minilm",
+  "strategy": "section_based",
+  "dimension": 384,
+  "num_chunks": 507,
+  "embed_time_s": 21.51,
+  "truncated_count": 467,
+  "max_seq_length": 256
+}

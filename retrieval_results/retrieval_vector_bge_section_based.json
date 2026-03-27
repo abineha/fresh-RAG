@@ -63,7 +63,7 @@
       {
         "chunk_id": "wikipedia_ful_medames_000",
         "rank": 5,
-        "score": 0.669594
+        "score": 0.669593
       }
     ]
   },
@@ -129,9 +129,9 @@
         "score": 0.768337
       },
       {
-        "chunk_id": "wikipedia_moroccan_cuisine_001",
+        "chunk_id": "blog_category__north_africa_001",
         "rank": 5,
-        "score": 0.685919
+        "score": 0.767631
       }
     ]
   },
@@ -197,9 +197,9 @@
         "score": 0.728043
       },
       {
-        "chunk_id": "wikipedia_baklava_005",
+        "chunk_id": "wikipedia_ottoman_cuisine_002",
         "rank": 5,
-        "score": 0.709131
+        "score": 0.710884
       }
     ]
   },
@@ -260,14 +260,14 @@
         "score": 0.769379
       },
       {
-        "chunk_id": "wikipedia_paella_003",
+        "chunk_id": "wikibooks_cookbook__paella_valenciana_000",
         "rank": 4,
-        "score": 0.721462
+        "score": 0.732156
       },
       {
-        "chunk_id": "blog_blog__spanish_cuisine_003",
+        "chunk_id": "wikibooks_cookbook__paella_roja_000",
         "rank": 5,
-        "score": 0.712949
+        "score": 0.726606
       }
     ]
   },
@@ -349,7 +349,7 @@
       {
         "chunk_id": "wikipedia_couscous_002",
         "rank": 1,
-        "score": 0.701744
+        "score": 0.701743
       },
       {
         "chunk_id": "wikipedia_couscous_003",
@@ -401,9 +401,9 @@
         "score": 0.696232
       },
       {
-        "chunk_id": "blog_blog__north_africa_001",
+        "chunk_id": "blog_category__north_africa_001",
         "rank": 5,
-        "score": 0.678644
+        "score": 0.679743
       }
     ]
   },
@@ -427,7 +427,7 @@
       {
         "chunk_id": "wikipedia_greek_cuisine_002",
         "rank": 3,
-        "score": 0.756704
+        "score": 0.756705
       },
       {
         "chunk_id": "wikipedia_mediterranean_cuisine_006",
@@ -459,19 +459,19 @@
         "score": 0.777706
       },
       {
-        "chunk_id": "wikipedia_baklava_002",
+        "chunk_id": "wikipedia_ottoman_cuisine_002",
         "rank": 3,
-        "score": 0.723342
+        "score": 0.756177
+      },
+      {
+        "chunk_id": "wikipedia_baklava_002",
+        "rank": 4,
+        "score": 0.723341
       },
       {
         "chunk_id": "wikipedia_baklava_003",
-        "rank": 4,
-        "score": 0.705562
-      },
-      {
-        "chunk_id": "wikipedia_baklava_004",
         "rank": 5,
-        "score": 0.697309
+        "score": 0.705562
       }
     ]
   },

@@ -1,0 +1,10 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "model_key": "bgem3",
+  "strategy": "section_based",
+  "dimension": 1024,
+  "num_chunks": 946,
+  "embed_time_s": 256.93,
+  "truncated_count": 0,
+  "max_seq_length": 8192
+}

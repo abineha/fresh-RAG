@@ -19,7 +19,7 @@
       {
         "chunk_id": "wikipedia_hummus_002",
         "rank": 3,
-        "score": 0.030886
+        "score": 0.030679
       },
       {
         "chunk_id": "wikipedia_hummus_004",
@@ -29,7 +29,7 @@
       {
         "chunk_id": "wikipedia_hummus_007",
         "rank": 5,
-        "score": 0.028405
+        "score": 0.028219
       }
     ]
   },
@@ -43,27 +43,27 @@
       {
         "chunk_id": "wikipedia_falafel_000",
         "rank": 1,
-        "score": 0.032522
-      },
-      {
-        "chunk_id": "wikipedia_falafel_004",
-        "rank": 2,
-        "score": 0.031754
+        "score": 0.032787
       },
       {
         "chunk_id": "wikipedia_falafel_001",
+        "rank": 2,
+        "score": 0.032002
+      },
+      {
+        "chunk_id": "wikipedia_falafel_004",
         "rank": 3,
-        "score": 0.031746
+        "score": 0.031514
       },
       {
         "chunk_id": "wikipedia_falafel_002",
         "rank": 4,
-        "score": 0.030536
+        "score": 0.030303
       },
       {
         "chunk_id": "wikipedia_falafel_005",
         "rank": 5,
-        "score": 0.029324
+        "score": 0.030118
       }
     ]
   },
@@ -87,7 +87,7 @@
       {
         "chunk_id": "wikipedia_couscous_007",
         "rank": 3,
-        "score": 0.030798
+        "score": 0.030579
       },
       {
         "chunk_id": "wikibooks_cookbook__couscous_000",
@@ -95,9 +95,9 @@
         "score": 0.030331
       },
       {
-        "chunk_id": "wikibooks_cookbook__couscous_003",
+        "chunk_id": "wikipedia_couscous_009",
         "rank": 5,
-        "score": 0.029643
+        "score": 0.02967
       }
     ]
   },
@@ -109,29 +109,29 @@
     "chunking": "fixed_200",
     "retrieved": [
       {
-        "chunk_id": "wikipedia_tagine_005",
+        "chunk_id": "wikipedia_tagine_006",
         "rank": 1,
         "score": 0.032522
       },
       {
-        "chunk_id": "wikipedia_tagine_006",
+        "chunk_id": "wikipedia_tagine_005",
         "rank": 2,
-        "score": 0.032266
-      },
-      {
-        "chunk_id": "wikipedia_tagine_001",
-        "rank": 3,
-        "score": 0.031054
+        "score": 0.032522
       },
       {
         "chunk_id": "wikipedia_tagine_000",
-        "rank": 4,
-        "score": 0.030777
+        "rank": 3,
+        "score": 0.031025
       },
       {
         "chunk_id": "wikipedia_tagine_003",
+        "rank": 4,
+        "score": 0.03101
+      },
+      {
+        "chunk_id": "wikipedia_tagine_007",
         "rank": 5,
-        "score": 0.030769
+        "score": 0.030331
       }
     ]
   },
@@ -155,17 +155,17 @@
       {
         "chunk_id": "wikipedia_mediterranean_cuisine_003",
         "rank": 3,
-        "score": 0.031498
-      },
-      {
-        "chunk_id": "wikipedia_mediterranean_diet_001",
-        "rank": 4,
-        "score": 0.029387
+        "score": 0.031258
       },
       {
         "chunk_id": "wikipedia_mediterranean_cuisine_002",
+        "rank": 4,
+        "score": 0.029877
+      },
+      {
+        "chunk_id": "wikipedia_mediterranean_diet_001",
         "rank": 5,
-        "score": 0.028898
+        "score": 0.029387
       }
     ]
   },
@@ -179,7 +179,7 @@
       {
         "chunk_id": "wikipedia_baklava_015",
         "rank": 1,
-        "score": 0.031025
+        "score": 0.030579
       },
       {
         "chunk_id": "wikipedia_baklava_012",
@@ -187,14 +187,14 @@
         "score": 0.03055
       },
       {
-        "chunk_id": "wikipedia_baklava_013",
+        "chunk_id": "wikipedia_baklava_014",
         "rank": 3,
-        "score": 0.03009
+        "score": 0.030282
       },
       {
-        "chunk_id": "wikipedia_baklava_014",
+        "chunk_id": "wikipedia_baklava_013",
         "rank": 4,
-        "score": 0.029907
+        "score": 0.03009
       },
       {
         "chunk_id": "wikipedia_baklava_001",
@@ -213,27 +213,27 @@
       {
         "chunk_id": "wikipedia_tabbouleh_000",
         "rank": 1,
-        "score": 0.030679
+        "score": 0.030886
       },
       {
         "chunk_id": "wikipedia_tabbouleh_001",
         "rank": 2,
-        "score": 0.030622
-      },
-      {
-        "chunk_id": "wikibooks_cookbook__tabbouleh_000",
-        "rank": 3,
-        "score": 0.028309
+        "score": 0.030835
       },
       {
         "chunk_id": "wikipedia_lebanese_cuisine_003",
-        "rank": 4,
+        "rank": 3,
         "score": 0.016393
       },
       {
-        "chunk_id": "wikipedia_mediterranean_cuisine_009",
-        "rank": 5,
+        "chunk_id": "blog_category__fertile_crescent_002",
+        "rank": 4,
         "score": 0.016129
+      },
+      {
+        "chunk_id": "wikibooks_cookbook__tabbouleh_i_000",
+        "rank": 5,
+        "score": 0.015873
       }
     ]
   },
@@ -252,22 +252,22 @@
       {
         "chunk_id": "wikipedia_paella_004",
         "rank": 2,
-        "score": 0.032018
+        "score": 0.031754
       },
       {
         "chunk_id": "wikipedia_paella_003",
         "rank": 3,
-        "score": 0.030415
+        "score": 0.029643
       },
       {
         "chunk_id": "wikibooks_cookbook__paella_000",
         "rank": 4,
-        "score": 0.030077
+        "score": 0.029631
       },
       {
-        "chunk_id": "wikipedia_paella_007",
+        "chunk_id": "blog_blog__spain_010",
         "rank": 5,
-        "score": 0.029236
+        "score": 0.028543
       }
     ]
   },
@@ -281,27 +281,27 @@
       {
         "chunk_id": "wikipedia_couscous_007",
         "rank": 1,
-        "score": 0.031746
+        "score": 0.032002
       },
       {
         "chunk_id": "wikipedia_couscous_008",
         "rank": 2,
-        "score": 0.031319
+        "score": 0.030679
       },
       {
-        "chunk_id": "wikipedia_couscous_009",
+        "chunk_id": "wikipedia_maghrebi_cuisine_000",
         "rank": 3,
-        "score": 0.029469
-      },
-      {
-        "chunk_id": "wikibooks_cookbook__couscous_001",
-        "rank": 4,
-        "score": 0.029139
+        "score": 0.028958
       },
       {
         "chunk_id": "wikipedia_tunisian_cuisine_006",
-        "rank": 5,
+        "rank": 4,
         "score": 0.028787
+      },
+      {
+        "chunk_id": "wikipedia_couscous_009",
+        "rank": 5,
+        "score": 0.028543
       }
     ]
   },
@@ -330,12 +330,12 @@
       {
         "chunk_id": "wikipedia_falafel_003",
         "rank": 4,
-        "score": 0.030415
+        "score": 0.029828
       },
       {
         "chunk_id": "wikipedia_israeli_cuisine_000",
         "rank": 5,
-        "score": 0.028595
+        "score": 0.029199
       }
     ]
   },
@@ -386,24 +386,24 @@
         "score": 0.032266
       },
       {
-        "chunk_id": "wikipedia_tagine_005",
+        "chunk_id": "wikipedia_arab_cuisine_023",
         "rank": 2,
-        "score": 0.031778
+        "score": 0.031514
+      },
+      {
+        "chunk_id": "wikipedia_tagine_005",
+        "rank": 3,
+        "score": 0.031319
       },
       {
         "chunk_id": "wikipedia_tunisian_cuisine_009",
-        "rank": 3,
-        "score": 0.031498
+        "rank": 4,
+        "score": 0.03125
       },
       {
         "chunk_id": "wikipedia_tunisian_cuisine_008",
-        "rank": 4,
-        "score": 0.030622
-      },
-      {
-        "chunk_id": "wikipedia_tagine_006",
         "rank": 5,
-        "score": 0.030415
+        "score": 0.030159
       }
     ]
   },
@@ -415,29 +415,29 @@
     "chunking": "fixed_200",
     "retrieved": [
       {
-        "chunk_id": "wikipedia_greek_cuisine_000",
+        "chunk_id": "blog_category__greece_033",
         "rank": 1,
-        "score": 0.016393
+        "score": 0.028259
       },
       {
-        "chunk_id": "blog_blog__north_africa_033",
+        "chunk_id": "wikipedia_greek_cuisine_000",
         "rank": 2,
         "score": 0.016393
       },
       {
-        "chunk_id": "wikipedia_greek_cuisine_003",
+        "chunk_id": "blog_category__southern_italy_033",
         "rank": 3,
-        "score": 0.016129
+        "score": 0.016393
       },
       {
-        "chunk_id": "blog_blog__turkey_and_cyprus_013",
+        "chunk_id": "wikipedia_greek_cuisine_003",
         "rank": 4,
         "score": 0.016129
       },
       {
-        "chunk_id": "wikipedia_greek_cuisine_002",
+        "chunk_id": "blog_category__turkey_and_cyprus_033",
         "rank": 5,
-        "score": 0.015873
+        "score": 0.016129
       }
     ]
   },
@@ -451,7 +451,7 @@
       {
         "chunk_id": "wikipedia_baklava_002",
         "rank": 1,
-        "score": 0.031514
+        "score": 0.031281
       },
       {
         "chunk_id": "wikipedia_baklava_000",
@@ -495,17 +495,17 @@
       {
         "chunk_id": "wikipedia_hummus_008",
         "rank": 3,
-        "score": 0.031099
+        "score": 0.030282
       },
       {
         "chunk_id": "wikipedia_hummus_004",
         "rank": 4,
-        "score": 0.02971
+        "score": 0.029139
       },
       {
         "chunk_id": "wikipedia_hummus_003",
         "rank": 5,
-        "score": 0.02967
+        "score": 0.028718
       }
     ]
   }

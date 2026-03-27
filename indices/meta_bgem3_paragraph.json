@@ -1,0 +1,10 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "model_key": "bgem3",
+  "strategy": "paragraph",
+  "dimension": 1024,
+  "num_chunks": 4904,
+  "embed_time_s": 315.08,
+  "truncated_count": 0,
+  "max_seq_length": 8192
+}

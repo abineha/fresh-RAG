@@ -184,7 +184,7 @@ st.sidebar.markdown(
     "**Defaults = best config from evaluation:**  \n"
     "Vector + mpnet + section_based (MRR 1.0)  \n"
     "Structured prompt (ROUGE-L 0.25)",
-    help="Based on evaluation across 6 retrieval and 3 generation experiments",
+    help="Based on evaluation across 10 retrieval and 3 generation experiments",
 )
 st.sidebar.caption(f"LLM: {LLM_MODEL_NAME}")
 st.sidebar.caption(f"Generation: temp={GENERATION_CONFIG['temperature']}, "
@@ -386,8 +386,8 @@ def run_evaluation(generated_results, config, resources, gold_file_path):
 # ---------------------------------------------------------------
 st.title("Mediterranean Cuisine RAG System")
 
-tab_query, tab_benchmark, tab_eval, tab_about = st.tabs(
-    ["Single Query", "Benchmark", "Evaluation", "About"]
+tab_query, tab_benchmark, tab_eval, tab_explore, tab_about = st.tabs(
+    ["Single Query", "Benchmark", "Evaluation", "Exploration Results", "About"]
 )
 
 # ---------------------------------------------------------------
@@ -639,43 +639,124 @@ with tab_eval:
         })
         st.dataframe(df, width="stretch")
 
-    # Also show pre-computed results if available
-    eval_file = os.path.join("evaluation_results", "evaluation_results.json")
-    if os.path.exists(eval_file):
-        with st.expander("View Pre-computed Evaluation Results"):
-            with open(eval_file, encoding="utf-8") as f:
-                precomputed = json.load(f)
-
-            if precomputed.get("retrieval_evaluation"):
-                st.subheader("Retrieval Comparison (Pre-computed)")
-                import pandas as pd
-                rows = []
-                for r in precomputed["retrieval_evaluation"]:
-                    rows.append({
-                        "Method": r["method"],
-                        "Model": r["model"],
-                        "Chunking": r["chunking"],
-                        "P@5": r["precision_at_5"],
-                        "R@5": r["recall_at_5"],
-                        "MRR": r["mrr"],
-                    })
-                st.dataframe(pd.DataFrame(rows), width="stretch")
-
-            if precomputed.get("generation_evaluation"):
-                st.subheader("Generation Comparison (Pre-computed)")
-                rows = []
-                for r in precomputed["generation_evaluation"]:
-                    rows.append({
-                        "Strategy": r["strategy"],
-                        "ROUGE-L": r["rouge_l"],
-                        "BERTScore F1": r["bert_score_f1"],
-                        "Faithfulness": r["faithfulness"],
-                        "Avg Time/q": f"{r['avg_time_per_query']}s",
-                    })
-                st.dataframe(pd.DataFrame(rows), width="stretch")
+    # Link to exploration tab for full comparison
+    st.caption("See the **Exploration Results** tab for the full comparison across all 10 retrieval and 3 generation experiments.")
 
 # ---------------------------------------------------------------
-# TAB 4: About
+# TAB 4: Exploration Results
+# ---------------------------------------------------------------
+with tab_explore:
+    st.header("Pipeline Exploration Results")
+    st.write(
+        "Summary of all configurations tested during development. "
+        "The **best pipeline** is highlighted."
+    )
+
+    eval_file = os.path.join("evaluation_results", "evaluation_results.json")
+    if os.path.exists(eval_file):
+        import pandas as pd
+
+        with open(eval_file, encoding="utf-8") as f:
+            precomputed = json.load(f)
+
+        # --- Retrieval comparison ---
+        if precomputed.get("retrieval_evaluation"):
+            st.subheader("Retrieval: 10 Experiments")
+            rows = []
+            for r in precomputed["retrieval_evaluation"]:
+                rows.append({
+                    "Method": r["method"],
+                    "Model": r["model"],
+                    "Chunking": r["chunking"],
+                    "P@5": r["precision_at_5"],
+                    "R@5": r["recall_at_5"],
+                    "MRR": r["mrr"],
+                })
+            df_ret = pd.DataFrame(rows)
+
+            # Highlight best row
+            def highlight_best(row):
+                is_best = (
+                    row["Method"] == "Vector"
+                    and row["Model"] == "mpnet"
+                    and row["Chunking"] == "section_based"
+                )
+                return [
+                    "background-color: #EAF2D7; font-weight: bold" if is_best else ""
+                    for _ in row
+                ]
+
+            st.dataframe(
+                df_ret.style.apply(highlight_best, axis=1).format(
+                    {"P@5": "{:.4f}", "R@5": "{:.4f}", "MRR": "{:.4f}"}
+                ),
+                use_container_width=True,
+            )
+
+            st.info(
+                "**Best retrieval:** Vector + mpnet + section_based — "
+                "MRR 1.0 (perfect first-hit), Recall@5 0.983"
+            )
+
+        # --- Generation comparison ---
+        if precomputed.get("generation_evaluation"):
+            st.subheader("Generation: 3 Prompt Strategies")
+            rows = []
+            for r in precomputed["generation_evaluation"]:
+                rows.append({
+                    "Strategy": r["strategy"],
+                    "ROUGE-L": r["rouge_l"],
+                    "BERTScore F1": r["bert_score_f1"],
+                    "Faithfulness": r["faithfulness"],
+                    "Avg Time/q (s)": r["avg_time_per_query"],
+                })
+            df_gen = pd.DataFrame(rows)
+
+            def highlight_structured(row):
+                is_best = row["Strategy"] == "structured"
+                return [
+                    "background-color: #EAF2D7; font-weight: bold" if is_best else ""
+                    for _ in row
+                ]
+
+            st.dataframe(
+                df_gen.style.apply(highlight_structured, axis=1).format({
+                    "ROUGE-L": "{:.4f}",
+                    "BERTScore F1": "{:.4f}",
+                    "Faithfulness": "{:.4f}",
+                    "Avg Time/q (s)": "{:.1f}",
+                }),
+                use_container_width=True,
+            )
+
+            st.info(
+                "**Best generation:** Structured prompting — "
+                "highest faithfulness (0.64), highest ROUGE-L (0.25), fastest (17.4s/q)"
+            )
+
+        # --- Key findings ---
+        st.subheader("Key Findings")
+        st.markdown("""
+- **Section-based chunking** (avg 380 words) dominates — enough context for retrieval and generation
+- **Paragraph chunking** (avg 75 words) underperforms — chunks too small to carry sufficient context
+- **Hybrid RRF did not help** — BM25 noise dragged down the fusion vs pure vector
+- **BGE-M3** (1024d, 8192 tokens) matched mpnet but at 6x compute cost — not justified
+- **Few-shot prompting** underperformed — examples consumed context and confused the small 0.5B model
+- **BM25** was weakest — keyword matching fails on semantic queries like "history and origin of baklava"
+        """)
+
+        # --- Winner box ---
+        st.success(
+            "**Winner: Vector + mpnet + section_based + structured prompting**\n\n"
+            "P@5=0.653 | R@5=0.983 | MRR=1.000 | ROUGE-L=0.246 | Faithfulness=0.640"
+        )
+    else:
+        st.warning(
+            "No pre-computed results found. Run `python evaluator.py` first."
+        )
+
+# ---------------------------------------------------------------
+# TAB 5: About
 # ---------------------------------------------------------------
 with tab_about:
     st.header("About This System")

@@ -1,0 +1,1147 @@
+
+============================================================
+  VECTOR | all-mpnet-base-v2 | section_based
+============================================================
+  Loaded FAISS index: 946 vectors (indices/faiss_mpnet_section_based.bin)
+  Loaded model: all-mpnet-base-v2
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.7444] wikipedia_hummus_000  (Hummus / General, 490w)
+    2. [0.7149] wikipedia_hummus_001  (Hummus / General, 494w)
+    3. [0.6466] wikibooks_cookbook__hummus_000  (Cookbook: Hummus / Techniques, 186w)
+    4. [0.6415] wikipedia_hummus_002  (Hummus / General, 554w)
+    5. [0.6205] wikibooks_cookbook__hummus_greek_000  (Cookbook: Hummus Greek / Procedure, 247w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.7015] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [0.6549] wikipedia_falafel_002  (Falafel / General, 224w)
+    3. [0.6416] wikipedia_falafel_001  (Falafel / General, 488w)
+    4. [0.5872] wikipedia_ful_medames_001  (Ful medames / General, 547w)
+    5. [0.5708] wikibooks_cookbook__falafel_000  (Cookbook: Falafel / Procedure, 154w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.7546] wikipedia_couscous_003  (Couscous / General, 479w)
+    2. [0.7512] wikipedia_couscous_002  (Couscous / General, 465w)
+    3. [0.7455] wikipedia_couscous_001  (Couscous / General, 464w)
+    4. [0.7248] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+    5. [0.7078] wikipedia_couscous_000  (Couscous / General, 485w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.7503] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.7425] wikipedia_tagine_001  (Tagine / General, 356w)
+    3. [0.7130] wikipedia_tagine_000  (Tagine / General, 446w)
+    4. [0.6353] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+    5. [0.6341] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.7342] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 463w)
+    2. [0.7222] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 497w)
+    3. [0.7012] wikipedia_mediterranean_cuisine_004  (Mediterranean cuisine / General, 408w)
+    4. [0.6337] wikipedia_mediterranean_cuisine_003  (Mediterranean cuisine / General, 446w)
+    5. [0.6241] wikipedia_mediterranean_cuisine_007  (Mediterranean cuisine / General, 475w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.7142] wikipedia_baklava_003  (Baklava / General, 470w)
+    2. [0.7099] wikipedia_baklava_004  (Baklava / General, 441w)
+    3. [0.6927] wikipedia_baklava_002  (Baklava / General, 424w)
+    4. [0.6838] wikipedia_baklava_000  (Baklava / General, 485w)
+    5. [0.6817] wikipedia_baklava_005  (Baklava / General, 364w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.6877] wikipedia_tabbouleh_000  (Tabbouleh / General, 349w)
+    2. [0.6508] wikibooks_cookbook__tabbouleh_000  (Cookbook: Tabbouleh / Introduction, 18w)
+    3. [0.6373] wikibooks_cookbook__tabbouleh_iii_000  (Cookbook: Tabbouleh III / Procedure, 164w)
+    4. [0.6292] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / Procedure, 121w)
+    5. [0.6173] wikibooks_cookbook__tabbouleh_ii_000  (Cookbook: Tabbouleh II / Notes, tips, and variations, 98w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.7334] wikipedia_paella_000  (Paella / General, 498w)
+    2. [0.7215] wikipedia_paella_001  (Paella / General, 425w)
+    3. [0.6626] wikipedia_paella_003  (Paella / General, 339w)
+    4. [0.6606] wikibooks_cookbook__paella_000  (Cookbook: Paella / Introduction, 275w)
+    5. [0.6604] blog_blog__spanish_cuisine_003  (Blog: Spanish cuisine / Paella, 478w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.7374] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    2. [0.7118] wikipedia_couscous_003  (Couscous / General, 479w)
+    3. [0.6927] wikipedia_couscous_002  (Couscous / General, 465w)
+    4. [0.6840] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+    5. [0.6601] wikipedia_couscous_000  (Couscous / General, 485w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.8432] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    2. [0.6916] wikipedia_falafel_000  (Falafel / General, 481w)
+    3. [0.6902] wikipedia_falafel_001  (Falafel / General, 488w)
+    4. [0.6762] wikipedia_israeli_cuisine_016  (Israeli cuisine / General, 497w)
+    5. [0.6728] wikipedia_falafel_002  (Falafel / General, 224w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.6518] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.5928] wikipedia_couscous_000  (Couscous / General, 485w)
+    3. [0.5890] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    4. [0.5805] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.5405] wikipedia_couscous_003  (Couscous / General, 479w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.7134] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.6125] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [0.6059] wikipedia_tunisian_cuisine_000  (Tunisian cuisine / General, 487w)
+    4. [0.6026] wikipedia_tunisian_cuisine_001  (Tunisian cuisine / General, 492w)
+    5. [0.5854] wikipedia_moroccan_cuisine_000  (Moroccan cuisine / General, 464w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7177] wikipedia_greek_cuisine_000  (Greek cuisine / General, 401w)
+    2. [0.6909] wikipedia_greek_cuisine_001  (Greek cuisine / General, 495w)
+    3. [0.6904] wikipedia_greek_cuisine_002  (Greek cuisine / General, 401w)
+    4. [0.6420] wikipedia_mediterranean_cuisine_006  (Mediterranean cuisine / General, 468w)
+    5. [0.6031] blog_blog__greece_004  (Blog: Greece / Moussaka, 305w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.8230] wikipedia_baklava_000  (Baklava / General, 485w)
+    2. [0.7631] wikipedia_baklava_001  (Baklava / General, 472w)
+    3. [0.7423] wikipedia_baklava_002  (Baklava / General, 424w)
+    4. [0.7087] wikipedia_baklava_003  (Baklava / General, 470w)
+    5. [0.6687] wikipedia_baklava_004  (Baklava / General, 441w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.6536] wikipedia_hummus_002  (Hummus / General, 554w)
+    2. [0.5917] wikipedia_hummus_001  (Hummus / General, 494w)
+    3. [0.5810] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    4. [0.5422] wikipedia_israeli_cuisine_006  (Israeli cuisine / General, 451w)
+    5. [0.5400] wikipedia_palestinian_cuisine_000  (Palestinian cuisine / General, 447w)
+  Saved results: retrieval_results/retrieval_vector_mpnet_section_based.json
+
+============================================================
+  BM25 | none | section_based
+============================================================
+  Built BM25 index: 946 documents (chunks.json)
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [27.6105] wikipedia_hummus_001  (Hummus / General, 494w)
+    2. [25.6258] wikipedia_palestinian_cuisine_001  (Palestinian cuisine / General, 472w)
+    3. [24.6051] wikipedia_palestinian_cuisine_005  (Palestinian cuisine / General, 473w)
+    4. [24.1516] blog_blog__southern_italy_002  (Blog: Southern Italy / Pizza (part 1), 500w)
+    5. [24.1516] blog_category__southern_italy_002  (Category: Southern Italy / Pizza (part 1), 500w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [27.1888] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [27.1038] blog_blog__fertile_crescent_000  (Blog: Fertile Crescent / The Fertile Crescent, 559w)
+    3. [27.1038] blog_category__fertile_crescent_000  (Category: Fertile Crescent / Leave a comment, 559w)
+    4. [26.8664] blog_blog__northern_italy_000  (Blog: Northern Italy / Northern Italy, 201w)
+    5. [26.8664] blog_category__northern_italy_000  (Category: Northern Italy / Northern Italy, 201w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [26.8099] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [25.7459] wikibooks_cookbook__couscous_002  (Cookbook: Couscous / Preparation, 274w)
+    3. [25.0828] wikipedia_couscous_003  (Couscous / General, 479w)
+    4. [24.0510] wikipedia_bulgur_000  (Bulgur / General, 544w)
+    5. [23.7517] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [27.4493] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [26.4542] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [24.3768] wikipedia_tagine_001  (Tagine / General, 356w)
+    4. [23.7648] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+    5. [23.7648] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [23.6898] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 497w)
+    2. [19.1069] wikipedia_bouillabaisse_000  (Bouillabaisse / General, 396w)
+    3. [17.4787] wikipedia_libyan_cuisine_001  (Libyan cuisine / General, 359w)
+    4. [17.0988] wikipedia_olive_oil_000  (Olive oil / General, 392w)
+    5. [16.4944] wikipedia_albanian_cuisine_001  (Albanian cuisine / General, 490w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [21.0746] wikipedia_lebanese_cuisine_001  (Lebanese cuisine / General, 440w)
+    2. [19.5952] wikipedia_baklava_000  (Baklava / General, 485w)
+    3. [18.2114] wikipedia_baklava_005  (Baklava / General, 364w)
+    4. [17.7878] wikipedia_baklava_004  (Baklava / General, 441w)
+    5. [17.7508] wikipedia_montenegrin_cuisine_000  (Montenegrin cuisine / General, 358w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [16.0341] wikipedia_arab_cuisine_007  (Arab cuisine / General, 407w)
+    2. [16.0096] wikipedia_lebanese_cuisine_001  (Lebanese cuisine / General, 440w)
+    3. [15.2928] wikipedia_tabbouleh_000  (Tabbouleh / General, 349w)
+    4. [15.0021] blog_blog__turkey_and_cyprus_006  (Blog: Turkey and Cyprus / About, 467w)
+    5. [14.9616] blog_blog__north_africa_015  (Blog: North Africa / About, 465w)
+
+  Q7: What is paella and where does it originate?
+    1. [17.1127] blog_category__spain_003  (Category: Spain / Paella, 478w)
+    2. [17.1127] blog_blog__spain_003  (Blog: Spain / Paella, 478w)
+    3. [17.1077] blog_blog__spanish_cuisine_003  (Blog: Spanish cuisine / Paella, 478w)
+    4. [16.9860] wikipedia_paella_001  (Paella / General, 425w)
+    5. [16.3538] wikipedia_paella_000  (Paella / General, 498w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [27.8201] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [25.1456] wikipedia_maghrebi_cuisine_000  (Maghrebi cuisine / General, 279w)
+    3. [23.5191] wikipedia_tunisian_cuisine_001  (Tunisian cuisine / General, 492w)
+    4. [23.1026] wikibooks_cookbook__couscous_002  (Cookbook: Couscous / Preparation, 274w)
+    5. [22.7944] wikipedia_couscous_004  (Couscous / General, 144w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [19.8262] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [16.5806] wikipedia_falafel_002  (Falafel / General, 224w)
+    3. [15.9353] wikipedia_israeli_cuisine_004  (Israeli cuisine / General, 490w)
+    4. [15.5654] wikipedia_israeli_cuisine_005  (Israeli cuisine / General, 483w)
+    5. [14.9309] wikipedia_knafeh_002  (Knafeh / General, 473w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [36.6371] wikipedia_couscous_000  (Couscous / General, 485w)
+    2. [35.0868] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    3. [31.0878] wikipedia_couscous_002  (Couscous / General, 465w)
+    4. [28.8975] wikipedia_dolma_003  (Dolma / General, 441w)
+    5. [28.7154] wikipedia_mansaf_001  (Mansaf / General, 448w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [25.2392] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [17.5625] wikipedia_arab_cuisine_007  (Arab cuisine / General, 407w)
+    3. [16.2485] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+    4. [16.2485] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+    5. [16.1485] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [17.7875] wikipedia_olive_oil_002  (Olive oil / General, 491w)
+    2. [16.9521] blog_blog__north_africa_015  (Blog: North Africa / About, 465w)
+    3. [16.9521] blog_blog__fertile_crescent_018  (Blog: Fertile Crescent / About, 465w)
+    4. [16.9230] blog_blog__turkey_and_cyprus_006  (Blog: Turkey and Cyprus / About, 467w)
+    5. [16.9192] wikipedia_lebanese_cuisine_001  (Lebanese cuisine / General, 440w)
+
+  Q13: What is the history and origin of baklava?
+    1. [19.9292] blog_category__northern_italy_000  (Category: Northern Italy / Northern Italy, 201w)
+    2. [19.9292] blog_blog__northern_italy_000  (Blog: Northern Italy / Northern Italy, 201w)
+    3. [19.6152] wikipedia_olives_002  (Olives / General, 430w)
+    4. [19.4866] blog_blog__turkey_and_cyprus_019  (Blog: Turkey and Cyprus / Pira caldo and sopa paraguaya, 511w)
+    5. [19.0772] wikipedia_tapas_000  (Tapas / General, 360w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [29.1287] wikipedia_hummus_002  (Hummus / General, 554w)
+    2. [13.5233] blog_category__fertile_crescent_001  (Category: Fertile Crescent / Fertile Crescent platter, 576w)
+    3. [13.5233] blog_blog__fertile_crescent_001  (Blog: Fertile Crescent / Fertile Crescent platter, 576w)
+    4. [12.6316] wikipedia_dolma_007  (Dolma / General, 378w)
+    5. [11.5570] wikipedia_lebanese_cuisine_001  (Lebanese cuisine / General, 440w)
+  Saved results: retrieval_results/retrieval_bm25_none_section_based.json
+
+============================================================
+  HYBRID | all-mpnet-base-v2 | section_based
+============================================================
+  Loaded FAISS index: 946 vectors (indices/faiss_mpnet_section_based.bin)
+  Loaded model: all-mpnet-base-v2
+  Built BM25 index: 946 documents (chunks.json)
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.0325] wikipedia_hummus_001  (Hummus / General, 494w)
+    2. [0.0311] wikipedia_hummus_000  (Hummus / General, 490w)
+    3. [0.0284] wikipedia_hummus_002  (Hummus / General, 554w)
+    4. [0.0283] wikipedia_chickpea_004  (Chickpea / General, 490w)
+    5. [0.0282] wikipedia_israeli_cuisine_005  (Israeli cuisine / General, 483w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.0328] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [0.0310] wikipedia_falafel_001  (Falafel / General, 488w)
+    3. [0.0293] wikipedia_falafel_002  (Falafel / General, 224w)
+    4. [0.0290] wikipedia_israeli_cuisine_016  (Israeli cuisine / General, 497w)
+    5. [0.0258] wikipedia_israeli_cuisine_017  (Israeli cuisine / General, 462w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.0325] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.0323] wikipedia_couscous_003  (Couscous / General, 479w)
+    3. [0.0311] wikibooks_cookbook__couscous_002  (Cookbook: Couscous / Preparation, 274w)
+    4. [0.0310] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.0310] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.0328] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.0320] wikipedia_tagine_001  (Tagine / General, 356w)
+    3. [0.0320] wikipedia_tagine_000  (Tagine / General, 446w)
+    4. [0.0310] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+    5. [0.0310] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.0325] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 497w)
+    2. [0.0307] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 463w)
+    3. [0.0292] wikipedia_mediterranean_diet_000  (Mediterranean diet / General, 494w)
+    4. [0.0161] wikipedia_bouillabaisse_000  (Bouillabaisse / General, 396w)
+    5. [0.0159] wikipedia_mediterranean_cuisine_004  (Mediterranean cuisine / General, 408w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.0318] wikipedia_baklava_004  (Baklava / General, 441w)
+    2. [0.0318] wikipedia_baklava_000  (Baklava / General, 485w)
+    3. [0.0313] wikipedia_baklava_005  (Baklava / General, 364w)
+    4. [0.0311] wikipedia_baklava_003  (Baklava / General, 470w)
+    5. [0.0310] wikipedia_baklava_002  (Baklava / General, 424w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.0323] wikipedia_tabbouleh_000  (Tabbouleh / General, 349w)
+    2. [0.0301] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / Procedure, 121w)
+    3. [0.0164] wikipedia_arab_cuisine_007  (Arab cuisine / General, 407w)
+    4. [0.0161] wikibooks_cookbook__tabbouleh_000  (Cookbook: Tabbouleh / Introduction, 18w)
+    5. [0.0161] wikipedia_lebanese_cuisine_001  (Lebanese cuisine / General, 440w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.0318] wikipedia_paella_000  (Paella / General, 498w)
+    2. [0.0318] wikipedia_paella_001  (Paella / General, 425w)
+    3. [0.0313] blog_blog__spanish_cuisine_003  (Blog: Spanish cuisine / Paella, 478w)
+    4. [0.0311] blog_category__spain_003  (Category: Spain / Paella, 478w)
+    5. [0.0311] blog_blog__spain_003  (Blog: Spain / Paella, 478w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.0323] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.0311] wikipedia_maghrebi_cuisine_000  (Maghrebi cuisine / General, 279w)
+    3. [0.0292] wikipedia_tunisian_cuisine_001  (Tunisian cuisine / General, 492w)
+    4. [0.0292] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.0290] wikibooks_cookbook__algerian_couscous_001  (Cookbook: Algerian Couscous / Procedure, 420w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.0325] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [0.0315] wikipedia_falafel_002  (Falafel / General, 224w)
+    3. [0.0310] wikipedia_falafel_001  (Falafel / General, 488w)
+    4. [0.0299] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    5. [0.0298] wikipedia_israeli_cuisine_004  (Israeli cuisine / General, 490w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.0325] wikipedia_couscous_000  (Couscous / General, 485w)
+    2. [0.0323] wikipedia_couscous_002  (Couscous / General, 465w)
+    3. [0.0320] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    4. [0.0156] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.0156] wikipedia_dolma_003  (Dolma / General, 441w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.0328] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.0311] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [0.0308] wikipedia_arab_cuisine_007  (Arab cuisine / General, 407w)
+    4. [0.0303] wikipedia_moroccan_cuisine_001  (Moroccan cuisine / General, 430w)
+    5. [0.0298] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.0283] blog_category__greece_013  (Category: Greece / About, 494w)
+    2. [0.0164] wikipedia_greek_cuisine_000  (Greek cuisine / General, 401w)
+    3. [0.0164] wikipedia_olive_oil_002  (Olive oil / General, 491w)
+    4. [0.0161] wikipedia_greek_cuisine_001  (Greek cuisine / General, 495w)
+    5. [0.0161] blog_blog__north_africa_015  (Blog: North Africa / About, 465w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.0291] wikipedia_baklava_001  (Baklava / General, 472w)
+    2. [0.0289] wikipedia_baklava_000  (Baklava / General, 485w)
+    3. [0.0164] blog_category__northern_italy_000  (Category: Northern Italy / Northern Italy, 201w)
+    4. [0.0161] blog_blog__northern_italy_000  (Blog: Northern Italy / Northern Italy, 201w)
+    5. [0.0159] wikipedia_baklava_002  (Baklava / General, 424w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.0328] wikipedia_hummus_002  (Hummus / General, 554w)
+    2. [0.0313] wikipedia_hummus_001  (Hummus / General, 494w)
+    3. [0.0290] wikipedia_hummus_000  (Hummus / General, 490w)
+    4. [0.0161] blog_category__fertile_crescent_001  (Category: Fertile Crescent / Fertile Crescent platter, 576w)
+    5. [0.0159] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+  Saved results: retrieval_results/retrieval_hybrid_mpnet_section_based.json
+
+============================================================
+  VECTOR | all-mpnet-base-v2 | fixed_200
+============================================================
+  Loaded FAISS index: 2340 vectors (indices/faiss_mpnet_fixed_200.bin)
+  Loaded model: all-mpnet-base-v2
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.7512] wikipedia_hummus_002  (Hummus / General, 200w)
+    2. [0.7508] wikipedia_hummus_000  (Hummus / General, 200w)
+    3. [0.7465] wikipedia_hummus_003  (Hummus / General, 200w)
+    4. [0.6900] wikipedia_hummus_004  (Hummus / General, 200w)
+    5. [0.6875] wikipedia_hummus_001  (Hummus / General, 200w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.6948] wikipedia_falafel_000  (Falafel / General, 200w)
+    2. [0.6927] wikipedia_falafel_004  (Falafel / General, 200w)
+    3. [0.6889] wikipedia_falafel_001  (Falafel / General, 200w)
+    4. [0.6866] wikipedia_falafel_005  (Falafel / General, 200w)
+    5. [0.6415] wikipedia_falafel_003  (Falafel / General, 200w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.8012] wikipedia_couscous_004  (Couscous / General, 200w)
+    2. [0.7651] wikipedia_couscous_008  (Couscous / General, 200w)
+    3. [0.7560] wikipedia_couscous_007  (Couscous / General, 200w)
+    4. [0.7529] wikipedia_couscous_010  (Couscous / General, 200w)
+    5. [0.7523] wikipedia_couscous_006  (Couscous / General, 200w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.7888] wikipedia_tagine_006  (Tagine / General, 200w)
+    2. [0.7684] wikipedia_tagine_005  (Tagine / General, 200w)
+    3. [0.7615] wikipedia_tagine_004  (Tagine / General, 200w)
+    4. [0.7545] wikipedia_tagine_007  (Tagine / General, 152w)
+    5. [0.7511] wikipedia_tagine_003  (Tagine / General, 200w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.7520] wikipedia_mediterranean_cuisine_004  (Mediterranean cuisine / General, 200w)
+    2. [0.7506] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 200w)
+    3. [0.7044] wikipedia_mediterranean_cuisine_003  (Mediterranean cuisine / General, 200w)
+    4. [0.6961] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 200w)
+    5. [0.6858] wikipedia_mediterranean_cuisine_002  (Mediterranean cuisine / General, 200w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.7521] wikipedia_baklava_014  (Baklava / General, 200w)
+    2. [0.7463] wikipedia_baklava_010  (Baklava / General, 200w)
+    3. [0.7215] wikipedia_baklava_015  (Baklava / General, 200w)
+    4. [0.7160] wikipedia_baklava_012  (Baklava / General, 200w)
+    5. [0.7115] wikipedia_baklava_011  (Baklava / General, 200w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.6879] wikipedia_tabbouleh_000  (Tabbouleh / General, 200w)
+    2. [0.6762] wikipedia_tabbouleh_001  (Tabbouleh / General, 199w)
+    3. [0.6629] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / General, 172w)
+    4. [0.6330] wikibooks_cookbook__tabbouleh_iii_000  (Cookbook: Tabbouleh III / General, 205w)
+    5. [0.6326] wikibooks_cookbook__tabbouleh_ii_000  (Cookbook: Tabbouleh II / General, 142w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.7444] wikipedia_paella_000  (Paella / General, 200w)
+    2. [0.7349] wikipedia_paella_003  (Paella / General, 200w)
+    3. [0.7166] wikipedia_paella_001  (Paella / General, 200w)
+    4. [0.6875] wikipedia_paella_004  (Paella / General, 200w)
+    5. [0.6755] wikipedia_paella_002  (Paella / General, 200w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.7579] wikipedia_couscous_008  (Couscous / General, 200w)
+    2. [0.7194] wikipedia_tunisian_cuisine_006  (Tunisian cuisine / General, 200w)
+    3. [0.7075] wikipedia_couscous_007  (Couscous / General, 200w)
+    4. [0.7042] wikipedia_tunisian_cuisine_007  (Tunisian cuisine / General, 200w)
+    5. [0.6919] wikipedia_couscous_009  (Couscous / General, 200w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.7618] wikipedia_israeli_cuisine_063  (Israeli cuisine / General, 239w)
+    2. [0.7085] wikipedia_falafel_003  (Falafel / General, 200w)
+    3. [0.7023] wikipedia_israeli_cuisine_014  (Israeli cuisine / General, 200w)
+    4. [0.6976] wikipedia_falafel_001  (Falafel / General, 200w)
+    5. [0.6888] wikipedia_falafel_000  (Falafel / General, 200w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.6795] wikipedia_couscous_007  (Couscous / General, 200w)
+    2. [0.6507] wikipedia_tunisian_cuisine_007  (Tunisian cuisine / General, 200w)
+    3. [0.6064] wikipedia_couscous_000  (Couscous / General, 200w)
+    4. [0.5842] wikipedia_couscous_008  (Couscous / General, 200w)
+    5. [0.5833] wikipedia_couscous_003  (Couscous / General, 200w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.6889] wikipedia_tagine_005  (Tagine / General, 200w)
+    2. [0.6712] wikipedia_tagine_006  (Tagine / General, 200w)
+    3. [0.6494] wikipedia_tagine_007  (Tagine / General, 152w)
+    4. [0.6177] wikipedia_tunisian_cuisine_009  (Tunisian cuisine / General, 249w)
+    5. [0.6119] wikipedia_arab_cuisine_023  (Arab cuisine / General, 200w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7408] wikipedia_greek_cuisine_000  (Greek cuisine / General, 200w)
+    2. [0.7090] wikipedia_greek_cuisine_003  (Greek cuisine / General, 200w)
+    3. [0.6998] wikipedia_greek_cuisine_002  (Greek cuisine / General, 200w)
+    4. [0.6863] wikipedia_greek_cuisine_007  (Greek cuisine / General, 247w)
+    5. [0.6852] wikipedia_greek_cuisine_004  (Greek cuisine / General, 200w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.8272] wikipedia_baklava_000  (Baklava / General, 200w)
+    2. [0.8072] wikipedia_baklava_002  (Baklava / General, 200w)
+    3. [0.7994] wikipedia_baklava_001  (Baklava / General, 200w)
+    4. [0.7449] wikipedia_baklava_006  (Baklava / General, 200w)
+    5. [0.7276] wikipedia_baklava_005  (Baklava / General, 200w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.7179] wikipedia_hummus_008  (Hummus / General, 200w)
+    2. [0.6893] wikipedia_hummus_009  (Hummus / General, 188w)
+    3. [0.6788] wikipedia_hummus_007  (Hummus / General, 200w)
+    4. [0.6065] wikipedia_hummus_004  (Hummus / General, 200w)
+    5. [0.5791] wikipedia_hummus_003  (Hummus / General, 200w)
+  Saved results: retrieval_results/retrieval_vector_mpnet_fixed_200.json
+
+============================================================
+  HYBRID | all-mpnet-base-v2 | fixed_200
+============================================================
+  Loaded FAISS index: 2340 vectors (indices/faiss_mpnet_fixed_200.bin)
+  Loaded model: all-mpnet-base-v2
+  Built BM25 index: 2340 documents (chunks_fixed_200.json)
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.0317] wikipedia_hummus_003  (Hummus / General, 200w)
+    2. [0.0315] wikipedia_hummus_005  (Hummus / General, 200w)
+    3. [0.0307] wikipedia_hummus_002  (Hummus / General, 200w)
+    4. [0.0306] wikipedia_hummus_004  (Hummus / General, 200w)
+    5. [0.0282] wikipedia_hummus_007  (Hummus / General, 200w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.0328] wikipedia_falafel_000  (Falafel / General, 200w)
+    2. [0.0320] wikipedia_falafel_001  (Falafel / General, 200w)
+    3. [0.0315] wikipedia_falafel_004  (Falafel / General, 200w)
+    4. [0.0303] wikipedia_falafel_002  (Falafel / General, 200w)
+    5. [0.0301] wikipedia_falafel_005  (Falafel / General, 200w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.0325] wikipedia_couscous_008  (Couscous / General, 200w)
+    2. [0.0315] wikipedia_couscous_010  (Couscous / General, 200w)
+    3. [0.0306] wikipedia_couscous_007  (Couscous / General, 200w)
+    4. [0.0303] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / General, 200w)
+    5. [0.0297] wikipedia_couscous_009  (Couscous / General, 200w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.0325] wikipedia_tagine_006  (Tagine / General, 200w)
+    2. [0.0325] wikipedia_tagine_005  (Tagine / General, 200w)
+    3. [0.0310] wikipedia_tagine_000  (Tagine / General, 200w)
+    4. [0.0310] wikipedia_tagine_003  (Tagine / General, 200w)
+    5. [0.0303] wikipedia_tagine_007  (Tagine / General, 152w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.0325] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 200w)
+    2. [0.0318] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 200w)
+    3. [0.0313] wikipedia_mediterranean_cuisine_003  (Mediterranean cuisine / General, 200w)
+    4. [0.0299] wikipedia_mediterranean_cuisine_002  (Mediterranean cuisine / General, 200w)
+    5. [0.0294] wikipedia_mediterranean_diet_001  (Mediterranean diet / General, 200w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.0306] wikipedia_baklava_015  (Baklava / General, 200w)
+    2. [0.0306] wikipedia_baklava_012  (Baklava / General, 200w)
+    3. [0.0303] wikipedia_baklava_014  (Baklava / General, 200w)
+    4. [0.0301] wikipedia_baklava_013  (Baklava / General, 200w)
+    5. [0.0297] wikipedia_baklava_001  (Baklava / General, 200w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.0309] wikipedia_tabbouleh_000  (Tabbouleh / General, 200w)
+    2. [0.0308] wikipedia_tabbouleh_001  (Tabbouleh / General, 199w)
+    3. [0.0164] wikipedia_lebanese_cuisine_003  (Lebanese cuisine / General, 200w)
+    4. [0.0161] blog_category__fertile_crescent_002  (Category: Fertile Crescent / General, 200w)
+    5. [0.0159] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / General, 172w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.0323] wikipedia_paella_000  (Paella / General, 200w)
+    2. [0.0318] wikipedia_paella_004  (Paella / General, 200w)
+    3. [0.0296] wikipedia_paella_003  (Paella / General, 200w)
+    4. [0.0296] wikibooks_cookbook__paella_000  (Cookbook: Paella / General, 200w)
+    5. [0.0285] blog_blog__spain_010  (Blog: Spain / General, 200w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.0320] wikipedia_couscous_007  (Couscous / General, 200w)
+    2. [0.0307] wikipedia_couscous_008  (Couscous / General, 200w)
+    3. [0.0290] wikipedia_maghrebi_cuisine_000  (Maghrebi cuisine / General, 279w)
+    4. [0.0288] wikipedia_tunisian_cuisine_006  (Tunisian cuisine / General, 200w)
+    5. [0.0285] wikipedia_couscous_009  (Couscous / General, 200w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.0318] wikipedia_falafel_000  (Falafel / General, 200w)
+    2. [0.0318] wikipedia_falafel_001  (Falafel / General, 200w)
+    3. [0.0317] wikipedia_israeli_cuisine_014  (Israeli cuisine / General, 200w)
+    4. [0.0298] wikipedia_falafel_003  (Falafel / General, 200w)
+    5. [0.0292] wikipedia_israeli_cuisine_000  (Israeli cuisine / General, 200w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.0323] wikipedia_couscous_000  (Couscous / General, 200w)
+    2. [0.0323] wikipedia_tunisian_cuisine_007  (Tunisian cuisine / General, 200w)
+    3. [0.0320] wikipedia_couscous_007  (Couscous / General, 200w)
+    4. [0.0296] wikipedia_tunisian_cuisine_008  (Tunisian cuisine / General, 200w)
+    5. [0.0156] wikipedia_couscous_008  (Couscous / General, 200w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.0323] wikipedia_tagine_007  (Tagine / General, 152w)
+    2. [0.0315] wikipedia_arab_cuisine_023  (Arab cuisine / General, 200w)
+    3. [0.0313] wikipedia_tagine_005  (Tagine / General, 200w)
+    4. [0.0312] wikipedia_tunisian_cuisine_009  (Tunisian cuisine / General, 249w)
+    5. [0.0302] wikipedia_tunisian_cuisine_008  (Tunisian cuisine / General, 200w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.0283] blog_category__greece_033  (Category: Greece / General, 200w)
+    2. [0.0164] wikipedia_greek_cuisine_000  (Greek cuisine / General, 200w)
+    3. [0.0164] blog_category__southern_italy_033  (Category: Southern Italy / General, 200w)
+    4. [0.0161] wikipedia_greek_cuisine_003  (Greek cuisine / General, 200w)
+    5. [0.0161] blog_category__turkey_and_cyprus_033  (Category: Turkey and Cyprus / General, 200w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.0313] wikipedia_baklava_002  (Baklava / General, 200w)
+    2. [0.0164] wikipedia_baklava_000  (Baklava / General, 200w)
+    3. [0.0164] wikipedia_olives_007  (Olives / General, 200w)
+    4. [0.0161] blog_blog__turkey_and_cyprus_048  (Blog: Turkey and Cyprus / General, 200w)
+    5. [0.0159] wikipedia_baklava_001  (Baklava / General, 200w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.0323] wikipedia_hummus_007  (Hummus / General, 200w)
+    2. [0.0323] wikipedia_hummus_009  (Hummus / General, 188w)
+    3. [0.0303] wikipedia_hummus_008  (Hummus / General, 200w)
+    4. [0.0291] wikipedia_hummus_004  (Hummus / General, 200w)
+    5. [0.0287] wikipedia_hummus_003  (Hummus / General, 200w)
+  Saved results: retrieval_results/retrieval_hybrid_mpnet_fixed_200.json
+
+============================================================
+  VECTOR | BAAI/bge-small-en-v1.5 | section_based
+============================================================
+  Loaded FAISS index: 946 vectors (indices/faiss_bge_section_based.bin)
+  Loaded model: BAAI/bge-small-en-v1.5
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.8083] wikipedia_hummus_001  (Hummus / General, 494w)
+    2. [0.7618] wikipedia_hummus_000  (Hummus / General, 490w)
+    3. [0.7314] wikibooks_cookbook__hummus_000  (Cookbook: Hummus / Techniques, 186w)
+    4. [0.7182] wikipedia_hummus_002  (Hummus / General, 554w)
+    5. [0.7099] wikipedia_israeli_cuisine_006  (Israeli cuisine / General, 451w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.7518] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [0.7217] wikipedia_falafel_001  (Falafel / General, 488w)
+    3. [0.7055] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    4. [0.6746] wikipedia_falafel_002  (Falafel / General, 224w)
+    5. [0.6696] wikipedia_ful_medames_000  (Ful medames / General, 470w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.8271] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.8105] wikipedia_couscous_003  (Couscous / General, 479w)
+    3. [0.8047] wikipedia_couscous_000  (Couscous / General, 485w)
+    4. [0.7958] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+    5. [0.7922] wikipedia_couscous_001  (Couscous / General, 464w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.8295] wikipedia_tagine_001  (Tagine / General, 356w)
+    2. [0.7855] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [0.7780] wikipedia_tagine_002  (Tagine / General, 400w)
+    4. [0.7683] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+    5. [0.7676] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.8121] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 497w)
+    2. [0.8019] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 463w)
+    3. [0.7820] wikipedia_mediterranean_cuisine_004  (Mediterranean cuisine / General, 408w)
+    4. [0.7492] wikipedia_mediterranean_cuisine_002  (Mediterranean cuisine / General, 474w)
+    5. [0.7393] wikipedia_mediterranean_cuisine_006  (Mediterranean cuisine / General, 468w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.7774] wikipedia_baklava_000  (Baklava / General, 485w)
+    2. [0.7452] wikibooks_cookbook__baklava_ii_000  (Cookbook: Baklava II / Procedure, 286w)
+    3. [0.7352] wikipedia_baklava_004  (Baklava / General, 441w)
+    4. [0.7280] wikipedia_baklava_003  (Baklava / General, 470w)
+    5. [0.7109] wikipedia_ottoman_cuisine_002  (Ottoman cuisine / General, 450w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.7696] wikipedia_tabbouleh_000  (Tabbouleh / General, 349w)
+    2. [0.7576] wikibooks_cookbook__tabbouleh_000  (Cookbook: Tabbouleh / Introduction, 18w)
+    3. [0.6966] wikibooks_cookbook__tabbouleh_ii_000  (Cookbook: Tabbouleh II / Notes, tips, and variations, 98w)
+    4. [0.6672] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / Procedure, 121w)
+    5. [0.6544] wikipedia_israeli_cuisine_005  (Israeli cuisine / General, 483w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.8154] wikipedia_paella_000  (Paella / General, 498w)
+    2. [0.7903] wikipedia_paella_001  (Paella / General, 425w)
+    3. [0.7694] wikibooks_cookbook__paella_000  (Cookbook: Paella / Introduction, 275w)
+    4. [0.7322] wikibooks_cookbook__paella_valenciana_000  (Cookbook: Paella Valenciana / Large serving spoon, 164w)
+    5. [0.7266] wikibooks_cookbook__paella_roja_000  (Cookbook: Paella Roja / 225 grams (½ pound) chicken wings, 112w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.8105] wikipedia_couscous_003  (Couscous / General, 479w)
+    2. [0.8095] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    3. [0.8045] wikipedia_couscous_002  (Couscous / General, 465w)
+    4. [0.7864] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.7832] wikibooks_cookbook__couscous_000  (Cookbook: Couscous / Algerian couscous, 209w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.8344] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    2. [0.7615] wikipedia_falafel_000  (Falafel / General, 481w)
+    3. [0.7538] wikipedia_falafel_001  (Falafel / General, 488w)
+    4. [0.7146] blog_blog__north_africa_003  (Blog: North Africa / Ful medames and koshari, 426w)
+    5. [0.7138] wikipedia_israeli_cuisine_016  (Israeli cuisine / General, 497w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.7017] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.6883] wikipedia_couscous_003  (Couscous / General, 479w)
+    3. [0.6841] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    4. [0.6815] wikipedia_couscous_000  (Couscous / General, 485w)
+    5. [0.6756] wikipedia_couscous_001  (Couscous / General, 464w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.8111] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.7140] wikipedia_tunisian_cuisine_000  (Tunisian cuisine / General, 487w)
+    3. [0.7031] wikipedia_tagine_000  (Tagine / General, 446w)
+    4. [0.6962] wikipedia_moroccan_cuisine_001  (Moroccan cuisine / General, 430w)
+    5. [0.6797] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7889] wikipedia_greek_cuisine_001  (Greek cuisine / General, 495w)
+    2. [0.7789] wikipedia_greek_cuisine_000  (Greek cuisine / General, 401w)
+    3. [0.7567] wikipedia_greek_cuisine_002  (Greek cuisine / General, 401w)
+    4. [0.7166] wikipedia_mediterranean_cuisine_006  (Mediterranean cuisine / General, 468w)
+    5. [0.7131] blog_blog__greek_cuisine_000  (Blog: Greek cuisine / Greece, 422w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.8397] wikipedia_baklava_000  (Baklava / General, 485w)
+    2. [0.7777] wikipedia_baklava_001  (Baklava / General, 472w)
+    3. [0.7562] wikipedia_ottoman_cuisine_002  (Ottoman cuisine / General, 450w)
+    4. [0.7233] wikipedia_baklava_002  (Baklava / General, 424w)
+    5. [0.7056] wikipedia_baklava_003  (Baklava / General, 470w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.7147] wikipedia_hummus_002  (Hummus / General, 554w)
+    2. [0.6888] wikipedia_hummus_001  (Hummus / General, 494w)
+    3. [0.6822] wikipedia_israeli_cuisine_006  (Israeli cuisine / General, 451w)
+    4. [0.6648] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    5. [0.6599] wikipedia_hummus_000  (Hummus / General, 490w)
+  Saved results: retrieval_results/retrieval_vector_bge_section_based.json
+
+============================================================
+  VECTOR | BAAI/bge-m3 | section_based
+============================================================
+  Loaded FAISS index: 946 vectors (indices/faiss_bgem3_section_based.bin)
+  Loaded model: BAAI/bge-m3
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.7170] wikipedia_hummus_000  (Hummus / General, 490w)
+    2. [0.6968] wikibooks_cookbook__hummus_greek_000  (Cookbook: Hummus Greek / Procedure, 247w)
+    3. [0.6844] wikipedia_hummus_001  (Hummus / General, 494w)
+    4. [0.6703] wikibooks_cookbook__hummus_000  (Cookbook: Hummus / Techniques, 186w)
+    5. [0.6286] wikibooks_cookbook__hummus_greek_001  (Cookbook: Hummus Greek / Notes, tips, and variations, 171w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.7210] wikipedia_falafel_000  (Falafel / General, 481w)
+    2. [0.6792] wikipedia_falafel_001  (Falafel / General, 488w)
+    3. [0.6642] wikipedia_falafel_002  (Falafel / General, 224w)
+    4. [0.6517] wikibooks_cookbook__falafel_000  (Cookbook: Falafel / Procedure, 154w)
+    5. [0.6178] wikipedia_mediterranean_cuisine_005  (Mediterranean cuisine / General, 373w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.7079] wikipedia_couscous_002  (Couscous / General, 465w)
+    2. [0.6878] wikibooks_cookbook__couscous_002  (Cookbook: Couscous / Preparation, 274w)
+    3. [0.6870] wikipedia_couscous_003  (Couscous / General, 479w)
+    4. [0.6792] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.6617] wikipedia_couscous_000  (Couscous / General, 485w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.7164] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.7106] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [0.7079] wikipedia_tagine_001  (Tagine / General, 356w)
+    4. [0.6757] blog_category__north_africa_001  (Category: North Africa / Tagine and kemia (part 1), 500w)
+    5. [0.6716] blog_blog__north_africa_001  (Blog: North Africa / Tagine and kemia (part 1), 500w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.6719] wikipedia_mediterranean_cuisine_000  (Mediterranean cuisine / General, 497w)
+    2. [0.6715] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 463w)
+    3. [0.6421] wikipedia_mediterranean_cuisine_004  (Mediterranean cuisine / General, 408w)
+    4. [0.6353] wikipedia_mediterranean_cuisine_008  (Mediterranean cuisine / General, 316w)
+    5. [0.6310] wikipedia_greek_cuisine_000  (Greek cuisine / General, 401w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.6906] wikipedia_baklava_000  (Baklava / General, 485w)
+    2. [0.6846] wikibooks_cookbook__baklava_ii_000  (Cookbook: Baklava II / Procedure, 286w)
+    3. [0.6670] wikipedia_baklava_004  (Baklava / General, 441w)
+    4. [0.6625] wikipedia_baklava_003  (Baklava / General, 470w)
+    5. [0.6367] wikipedia_baklava_002  (Baklava / General, 424w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.7048] wikipedia_tabbouleh_000  (Tabbouleh / General, 349w)
+    2. [0.6654] wikibooks_cookbook__tabbouleh_ii_000  (Cookbook: Tabbouleh II / Notes, tips, and variations, 98w)
+    3. [0.6583] wikibooks_cookbook__tabbouleh_i_000  (Cookbook: Tabbouleh I / Procedure, 121w)
+    4. [0.6531] wikibooks_cookbook__tabbouleh_000  (Cookbook: Tabbouleh / Introduction, 18w)
+    5. [0.6168] blog_blog__fertile_crescent_001  (Blog: Fertile Crescent / Fertile Crescent platter, 576w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.7081] wikipedia_paella_000  (Paella / General, 498w)
+    2. [0.6973] wikipedia_paella_001  (Paella / General, 425w)
+    3. [0.6858] wikibooks_cookbook__paella_000  (Cookbook: Paella / Introduction, 275w)
+    4. [0.6803] blog_category__spain_003  (Category: Spain / Paella, 478w)
+    5. [0.6760] blog_blog__spain_003  (Blog: Spain / Paella, 478w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.7183] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    2. [0.7128] wikipedia_couscous_003  (Couscous / General, 479w)
+    3. [0.6932] wikipedia_couscous_002  (Couscous / General, 465w)
+    4. [0.6760] wikipedia_couscous_001  (Couscous / General, 464w)
+    5. [0.6444] wikipedia_maghrebi_cuisine_000  (Maghrebi cuisine / General, 279w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.7430] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    2. [0.6533] wikipedia_falafel_000  (Falafel / General, 481w)
+    3. [0.6472] wikipedia_israeli_cuisine_016  (Israeli cuisine / General, 497w)
+    4. [0.6395] wikipedia_falafel_001  (Falafel / General, 488w)
+    5. [0.6139] wikipedia_falafel_002  (Falafel / General, 224w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.6420] wikipedia_couscous_000  (Couscous / General, 485w)
+    2. [0.6107] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+    3. [0.6011] wikipedia_couscous_001  (Couscous / General, 464w)
+    4. [0.5998] wikipedia_couscous_002  (Couscous / General, 465w)
+    5. [0.5812] wikipedia_couscous_003  (Couscous / General, 479w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.6645] wikipedia_tagine_002  (Tagine / General, 400w)
+    2. [0.6426] wikipedia_tagine_000  (Tagine / General, 446w)
+    3. [0.5935] wikipedia_maghrebi_cuisine_000  (Maghrebi cuisine / General, 279w)
+    4. [0.5901] wikipedia_moroccan_cuisine_001  (Moroccan cuisine / General, 430w)
+    5. [0.5674] wikipedia_tunisian_cuisine_002  (Tunisian cuisine / General, 496w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7119] wikipedia_greek_cuisine_000  (Greek cuisine / General, 401w)
+    2. [0.7008] wikipedia_greek_cuisine_001  (Greek cuisine / General, 495w)
+    3. [0.6747] wikipedia_greek_cuisine_002  (Greek cuisine / General, 401w)
+    4. [0.6596] wikipedia_mediterranean_cuisine_006  (Mediterranean cuisine / General, 468w)
+    5. [0.6477] blog_blog__greek_cuisine_000  (Blog: Greek cuisine / Greece, 422w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.7409] wikipedia_baklava_000  (Baklava / General, 485w)
+    2. [0.6746] wikipedia_baklava_001  (Baklava / General, 472w)
+    3. [0.6649] wikipedia_baklava_002  (Baklava / General, 424w)
+    4. [0.6449] wikipedia_baklava_003  (Baklava / General, 470w)
+    5. [0.6273] wikipedia_baklava_004  (Baklava / General, 441w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.6731] wikipedia_hummus_002  (Hummus / General, 554w)
+    2. [0.5687] wikipedia_hummus_000  (Hummus / General, 490w)
+    3. [0.5486] wikipedia_israeli_cuisine_005  (Israeli cuisine / General, 483w)
+    4. [0.5480] wikipedia_israeli_cuisine_020  (Israeli cuisine / General, 159w)
+    5. [0.5465] wikipedia_israeli_cuisine_006  (Israeli cuisine / General, 451w)
+  Saved results: retrieval_results/retrieval_vector_bgem3_section_based.json
+
+============================================================
+  VECTOR | all-mpnet-base-v2 | paragraph
+============================================================
+  Loaded FAISS index: 4904 vectors (indices/faiss_mpnet_paragraph.bin)
+  Loaded model: all-mpnet-base-v2
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.7562] wikipedia_hummus_006  (Hummus / General, 85w)
+    2. [0.7433] wikipedia_hummus_007  (Hummus / General, 136w)
+    3. [0.7422] wikipedia_hummus_000  (Hummus / General, 52w)
+    4. [0.7347] wikipedia_hummus_010  (Hummus / General, 60w)
+    5. [0.6983] wikipedia_hummus_022  (Hummus / General, 85w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.7342] wikipedia_falafel_016  (Falafel / General, 79w)
+    2. [0.7184] wikipedia_falafel_000  (Falafel / General, 45w)
+    3. [0.7039] wikipedia_falafel_002  (Falafel / General, 41w)
+    4. [0.6958] wikipedia_middle_eastern_cuisine_025  (Middle Eastern cuisine / General, 64w)
+    5. [0.6883] wikipedia_falafel_006  (Falafel / General, 63w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.7586] wikipedia_couscous_001  (Couscous / General, 42w)
+    2. [0.7556] wikipedia_couscous_023  (Couscous / General, 48w)
+    3. [0.7458] wikipedia_couscous_015  (Couscous / General, 106w)
+    4. [0.7378] wikipedia_couscous_012  (Couscous / General, 163w)
+    5. [0.7304] wikipedia_couscous_010  (Couscous / General, 72w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.7929] wikipedia_tagine_018  (Tagine / General, 73w)
+    2. [0.7828] wikipedia_tagine_008  (Tagine / General, 53w)
+    3. [0.7764] wikipedia_tagine_015  (Tagine / General, 78w)
+    4. [0.7464] wikipedia_tagine_013  (Tagine / General, 121w)
+    5. [0.7420] wikipedia_tagine_003  (Tagine / General, 74w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.7900] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 60w)
+    2. [0.7893] wikipedia_mediterranean_cuisine_012  (Mediterranean cuisine / General, 33w)
+    3. [0.7441] wikipedia_mediterranean_cuisine_010  (Mediterranean cuisine / General, 136w)
+    4. [0.7416] wikipedia_mediterranean_cuisine_057  (Mediterranean cuisine / General, 49w)
+    5. [0.7144] wikipedia_mediterranean_cuisine_009  (Mediterranean cuisine / General, 78w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.7731] wikipedia_baklava_000  (Baklava / General, 26w)
+    2. [0.7390] wikipedia_baklava_026  (Baklava / General, 65w)
+    3. [0.7377] wikipedia_israeli_cuisine_127  (Israeli cuisine / General, 37w)
+    4. [0.7274] wikipedia_baklava_030  (Baklava / General, 146w)
+    5. [0.7274] wikipedia_baklava_017  (Baklava / General, 66w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.7099] wikipedia_israeli_cuisine_039  (Israeli cuisine / General, 42w)
+    2. [0.6959] wikipedia_tabbouleh_004  (Tabbouleh / General, 29w)
+    3. [0.6750] wikipedia_tabbouleh_003  (Tabbouleh / General, 81w)
+    4. [0.6738] wikipedia_tabbouleh_000  (Tabbouleh / General, 46w)
+    5. [0.6562] wikipedia_tabbouleh_005  (Tabbouleh / General, 77w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.7896] wikipedia_paella_000  (Paella / General, 40w)
+    2. [0.7696] wikipedia_paella_003  (Paella / General, 34w)
+    3. [0.7564] wikipedia_paella_006  (Paella / General, 49w)
+    4. [0.7424] wikipedia_paella_014  (Paella / General, 75w)
+    5. [0.7259] wikipedia_paella_008  (Paella / General, 39w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.7449] wikipedia_tunisian_cuisine_017  (Tunisian cuisine / General, 102w)
+    2. [0.7028] wikipedia_couscous_019  (Couscous / General, 101w)
+    3. [0.7024] wikipedia_couscous_020  (Couscous / General, 73w)
+    4. [0.6929] wikipedia_couscous_023  (Couscous / General, 48w)
+    5. [0.6869] wikipedia_couscous_017  (Couscous / General, 64w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.8332] wikipedia_israeli_cuisine_206  (Israeli cuisine / General, 145w)
+    2. [0.8260] wikipedia_falafel_021  (Falafel / General, 69w)
+    3. [0.8235] wikipedia_falafel_003  (Falafel / General, 31w)
+    4. [0.8155] wikipedia_israeli_cuisine_207  (Israeli cuisine / General, 47w)
+    5. [0.7196] wikipedia_falafel_012  (Falafel / General, 28w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.8027] wikipedia_couscous_016  (Couscous / General, 53w)
+    2. [0.7917] wikipedia_tunisian_cuisine_020  (Tunisian cuisine / General, 34w)
+    3. [0.5858] wikipedia_couscous_001  (Couscous / General, 42w)
+    4. [0.5796] wikipedia_moroccan_cuisine_004  (Moroccan cuisine / General, 21w)
+    5. [0.5575] wikipedia_couscous_010  (Couscous / General, 72w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.7204] wikipedia_tagine_014  (Tagine / General, 147w)
+    2. [0.6718] wikipedia_moroccan_cuisine_011  (Moroccan cuisine / General, 79w)
+    3. [0.6550] wikipedia_tagine_017  (Tagine / General, 60w)
+    4. [0.6506] wikipedia_tunisian_cuisine_022  (Tunisian cuisine / General, 52w)
+    5. [0.6283] wikipedia_tagine_013  (Tagine / General, 121w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7357] wikipedia_greek_cuisine_000  (Greek cuisine / General, 114w)
+    2. [0.7090] wikipedia_greek_cuisine_002  (Greek cuisine / General, 82w)
+    3. [0.7078] wikipedia_greek_cuisine_001  (Greek cuisine / General, 31w)
+    4. [0.7033] wikipedia_greek_cuisine_013  (Greek cuisine / General, 24w)
+    5. [0.6992] wikipedia_greek_cuisine_005  (Greek cuisine / General, 112w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.8049] wikipedia_ottoman_cuisine_019  (Ottoman cuisine / General, 73w)
+    2. [0.8024] wikipedia_baklava_004  (Baklava / General, 67w)
+    3. [0.7900] wikipedia_baklava_007  (Baklava / General, 67w)
+    4. [0.7861] wikipedia_baklava_006  (Baklava / General, 93w)
+    5. [0.7819] wikipedia_baklava_008  (Baklava / General, 68w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.7048] wikipedia_hummus_023  (Hummus / General, 65w)
+    2. [0.6697] wikipedia_hummus_024  (Hummus / General, 63w)
+    3. [0.6560] wikipedia_hummus_021  (Hummus / General, 142w)
+    4. [0.6447] wikipedia_hummus_025  (Hummus / General, 82w)
+    5. [0.6283] wikipedia_hummus_022  (Hummus / General, 85w)
+  Saved results: retrieval_results/retrieval_vector_mpnet_paragraph.json
+
+============================================================
+  VECTOR | BAAI/bge-m3 | paragraph
+============================================================
+  Loaded FAISS index: 4904 vectors (indices/faiss_bgem3_paragraph.bin)
+  Loaded model: BAAI/bge-m3
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.7419] wikipedia_hummus_006  (Hummus / General, 85w)
+    2. [0.6942] wikipedia_hummus_000  (Hummus / General, 52w)
+    3. [0.6850] wikipedia_hummus_007  (Hummus / General, 136w)
+    4. [0.6766] wikibooks_cookbook__hummus_greek_000  (Cookbook: Hummus Greek / General, 17w)
+    5. [0.6710] wikipedia_hummus_015  (Hummus / General, 20w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.7129] wikipedia_falafel_000  (Falafel / General, 45w)
+    2. [0.6863] wikipedia_falafel_016  (Falafel / General, 79w)
+    3. [0.6861] wikipedia_middle_eastern_cuisine_025  (Middle Eastern cuisine / General, 64w)
+    4. [0.6699] wikipedia_falafel_002  (Falafel / General, 41w)
+    5. [0.6698] wikibooks_cookbook__falafel_000  (Cookbook: Falafel / General, 40w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.7287] wikibooks_cookbook__couscous_007  (Cookbook: Couscous / General, 70w)
+    2. [0.6737] wikipedia_couscous_015  (Couscous / General, 106w)
+    3. [0.6637] wikipedia_couscous_001  (Couscous / General, 42w)
+    4. [0.6554] wikipedia_couscous_000  (Couscous / General, 55w)
+    5. [0.6471] wikipedia_israeli_cuisine_066  (Israeli cuisine / General, 53w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.7024] wikipedia_tagine_013  (Tagine / General, 121w)
+    2. [0.7012] wikipedia_tagine_018  (Tagine / General, 73w)
+    3. [0.6923] blog_category__north_africa_002  (Category: North Africa / General, 166w)
+    4. [0.6876] blog_blog__north_africa_002  (Blog: North Africa / General, 166w)
+    5. [0.6839] wikipedia_tagine_000  (Tagine / General, 32w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.7306] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 60w)
+    2. [0.7150] wikipedia_mediterranean_cuisine_012  (Mediterranean cuisine / General, 33w)
+    3. [0.6608] wikipedia_mediterranean_cuisine_009  (Mediterranean cuisine / General, 78w)
+    4. [0.6543] wikipedia_mediterranean_cuisine_008  (Mediterranean cuisine / General, 29w)
+    5. [0.6477] wikipedia_mediterranean_cuisine_031  (Mediterranean cuisine / General, 142w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.6728] wikibooks_cookbook__baklava_ii_000  (Cookbook: Baklava II / General, 20w)
+    2. [0.6682] wikipedia_baklava_000  (Baklava / General, 26w)
+    3. [0.6641] wikipedia_israeli_cuisine_127  (Israeli cuisine / General, 37w)
+    4. [0.6639] wikipedia_baklava_026  (Baklava / General, 65w)
+    5. [0.6627] wikipedia_baklava_017  (Baklava / General, 66w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.7303] wikipedia_israeli_cuisine_039  (Israeli cuisine / General, 42w)
+    2. [0.6867] wikipedia_tabbouleh_000  (Tabbouleh / General, 46w)
+    3. [0.6765] wikipedia_tabbouleh_004  (Tabbouleh / General, 29w)
+    4. [0.6710] wikipedia_tabbouleh_003  (Tabbouleh / General, 81w)
+    5. [0.6510] wikibooks_cookbook__tabbouleh_000  (Cookbook: Tabbouleh / General, 18w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.7076] blog_blog__spain_012  (Blog: Spain / General, 138w)
+    2. [0.7069] wikipedia_paella_000  (Paella / General, 40w)
+    3. [0.7061] blog_blog__spanish_cuisine_012  (Blog: Spanish cuisine / General, 138w)
+    4. [0.7061] blog_category__spain_012  (Category: Spain / General, 138w)
+    5. [0.6949] wikipedia_paella_003  (Paella / General, 34w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.7066] wikipedia_couscous_019  (Couscous / General, 101w)
+    2. [0.6849] wikipedia_tunisian_cuisine_017  (Tunisian cuisine / General, 102w)
+    3. [0.6839] wikipedia_couscous_020  (Couscous / General, 73w)
+    4. [0.6447] blog_blog__north_africa_006  (Blog: North Africa / General, 136w)
+    5. [0.6418] blog_category__north_africa_006  (Category: North Africa / General, 136w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.7569] wikipedia_falafel_003  (Falafel / General, 31w)
+    2. [0.7315] wikipedia_israeli_cuisine_206  (Israeli cuisine / General, 145w)
+    3. [0.7103] wikipedia_falafel_021  (Falafel / General, 69w)
+    4. [0.7051] wikipedia_israeli_cuisine_034  (Israeli cuisine / General, 80w)
+    5. [0.6583] wikipedia_falafel_012  (Falafel / General, 28w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.7577] wikipedia_tunisian_cuisine_020  (Tunisian cuisine / General, 34w)
+    2. [0.7080] wikipedia_couscous_016  (Couscous / General, 53w)
+    3. [0.5676] wikipedia_couscous_001  (Couscous / General, 42w)
+    4. [0.5613] wikipedia_mediterranean_cuisine_032  (Mediterranean cuisine / General, 65w)
+    5. [0.5597] wikipedia_couscous_007  (Couscous / General, 76w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.6586] wikipedia_tunisian_cuisine_022  (Tunisian cuisine / General, 52w)
+    2. [0.6465] wikipedia_tagine_014  (Tagine / General, 147w)
+    3. [0.6204] wikipedia_tagine_013  (Tagine / General, 121w)
+    4. [0.5940] wikipedia_tagine_017  (Tagine / General, 60w)
+    5. [0.5929] wikipedia_moroccan_cuisine_011  (Moroccan cuisine / General, 79w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.7113] wikipedia_greek_cuisine_000  (Greek cuisine / General, 114w)
+    2. [0.7022] wikipedia_greek_cuisine_002  (Greek cuisine / General, 82w)
+    3. [0.6759] wikipedia_greek_cuisine_001  (Greek cuisine / General, 31w)
+    4. [0.6719] wikipedia_greek_cuisine_005  (Greek cuisine / General, 112w)
+    5. [0.6589] wikipedia_mediterranean_cuisine_039  (Mediterranean cuisine / General, 123w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.7040] wikipedia_baklava_004  (Baklava / General, 67w)
+    2. [0.6654] wikipedia_baklava_003  (Baklava / General, 133w)
+    3. [0.6646] wikipedia_baklava_002  (Baklava / General, 48w)
+    4. [0.6629] wikipedia_baklava_008  (Baklava / General, 68w)
+    5. [0.6572] wikipedia_baklava_001  (Baklava / General, 53w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.7212] wikipedia_hummus_025  (Hummus / General, 82w)
+    2. [0.6609] wikipedia_hummus_021  (Hummus / General, 142w)
+    3. [0.5981] wikipedia_hummus_023  (Hummus / General, 65w)
+    4. [0.5838] wikipedia_hummus_024  (Hummus / General, 63w)
+    5. [0.5740] wikipedia_hummus_011  (Hummus / General, 87w)
+  Saved results: retrieval_results/retrieval_vector_bgem3_paragraph.json
+
+============================================================
+  HYBRID | BAAI/bge-m3 | paragraph
+============================================================
+  Loaded FAISS index: 4904 vectors (indices/faiss_bgem3_paragraph.bin)
+  Loaded model: BAAI/bge-m3
+  Built BM25 index: 4904 documents (chunks_paragraph.json)
+
+  Running 15 benchmark queries...
+
+  Q0: What are the main ingredients of hummus and where did the dish originate?
+    1. [0.0311] wikipedia_hummus_010  (Hummus / General, 60w)
+    2. [0.0302] wikipedia_hummus_007  (Hummus / General, 136w)
+    3. [0.0301] wikipedia_hummus_015  (Hummus / General, 20w)
+    4. [0.0292] wikipedia_hummus_011  (Hummus / General, 87w)
+    5. [0.0257] wikipedia_hummus_017  (Hummus / General, 80w)
+
+  Q1: What is falafel made from and what is its country of origin?
+    1. [0.0318] wikipedia_falafel_016  (Falafel / General, 79w)
+    2. [0.0308] wikipedia_falafel_002  (Falafel / General, 41w)
+    3. [0.0305] wikipedia_falafel_000  (Falafel / General, 45w)
+    4. [0.0164] wikipedia_lebanese_cuisine_007  (Lebanese cuisine / General, 83w)
+    5. [0.0161] blog_blog__northern_italy_000  (Blog: Northern Italy / General, 150w)
+
+  Q2: How is couscous traditionally made and which countries consider it a staple food?
+    1. [0.0328] wikibooks_cookbook__couscous_007  (Cookbook: Couscous / General, 70w)
+    2. [0.0310] wikipedia_couscous_001  (Couscous / General, 42w)
+    3. [0.0308] wikibooks_cookbook__algerian_couscous_000  (Cookbook: Algerian Couscous / General, 56w)
+    4. [0.0303] wikipedia_couscous_019  (Couscous / General, 101w)
+    5. [0.0302] wikipedia_couscous_018  (Couscous / General, 38w)
+
+  Q3: What is a tagine and how is it traditionally cooked?
+    1. [0.0318] wikipedia_tagine_000  (Tagine / General, 32w)
+    2. [0.0318] wikipedia_tagine_018  (Tagine / General, 73w)
+    3. [0.0310] wikipedia_tagine_011  (Tagine / General, 122w)
+    4. [0.0309] wikipedia_tagine_013  (Tagine / General, 121w)
+    5. [0.0303] wikipedia_tagine_015  (Tagine / General, 78w)
+
+  Q4: What are the three core elements traditionally associated with Mediterranean cuisine?
+    1. [0.0328] wikipedia_mediterranean_cuisine_001  (Mediterranean cuisine / General, 60w)
+    2. [0.0299] wikipedia_mediterranean_cuisine_003  (Mediterranean cuisine / General, 83w)
+    3. [0.0298] wikipedia_mediterranean_cuisine_009  (Mediterranean cuisine / General, 78w)
+    4. [0.0284] wikipedia_mediterranean_diet_023  (Mediterranean diet / General, 73w)
+    5. [0.0284] wikipedia_mediterranean_diet_003  (Mediterranean diet / General, 63w)
+
+  Q5: What is baklava and what are its main ingredients?
+    1. [0.0298] wikipedia_baklava_004  (Baklava / General, 67w)
+    2. [0.0288] wikipedia_baklava_028  (Baklava / General, 69w)
+    3. [0.0275] wikipedia_baklava_033  (Baklava / General, 94w)
+    4. [0.0261] wikipedia_baklava_025  (Baklava / General, 38w)
+    5. [0.0164] wikibooks_cookbook__baklava_ii_000  (Cookbook: Baklava II / General, 20w)
+
+  Q6: What is tabbouleh and what are its key ingredients?
+    1. [0.0294] wikipedia_tabbouleh_001  (Tabbouleh / General, 39w)
+    2. [0.0164] wikipedia_israeli_cuisine_039  (Israeli cuisine / General, 42w)
+    3. [0.0164] wikipedia_lebanese_cuisine_007  (Lebanese cuisine / General, 83w)
+    4. [0.0161] wikipedia_tabbouleh_000  (Tabbouleh / General, 46w)
+    5. [0.0161] blog_blog__fertile_crescent_003  (Blog: Fertile Crescent / General, 156w)
+
+  Q7: What is paella and where does it originate?
+    1. [0.0328] blog_blog__spain_012  (Blog: Spain / General, 138w)
+    2. [0.0318] blog_category__spain_012  (Category: Spain / General, 138w)
+    3. [0.0317] blog_blog__spanish_cuisine_012  (Blog: Spanish cuisine / General, 138w)
+    4. [0.0294] wikipedia_paella_016  (Paella / General, 44w)
+    5. [0.0161] wikipedia_paella_000  (Paella / General, 40w)
+
+  Q8: How does the preparation and use of couscous differ between Tunisia and Egypt?
+    1. [0.0305] wikipedia_couscous_016  (Couscous / General, 53w)
+    2. [0.0297] blog_blog__north_africa_006  (Blog: North Africa / General, 136w)
+    3. [0.0297] blog_category__north_africa_006  (Category: North Africa / General, 136w)
+    4. [0.0280] wikipedia_couscous_007  (Couscous / General, 76w)
+    5. [0.0262] wikipedia_couscous_001  (Couscous / General, 42w)
+
+  Q9: Why is falafel's identification as an Israeli national dish considered controversial?
+    1. [0.0328] wikipedia_falafel_003  (Falafel / General, 31w)
+    2. [0.0320] wikipedia_falafel_021  (Falafel / General, 69w)
+    3. [0.0312] wikipedia_israeli_cuisine_034  (Israeli cuisine / General, 80w)
+    4. [0.0303] wikipedia_falafel_012  (Falafel / General, 28w)
+    5. [0.0278] wikipedia_mansaf_001  (Mansaf / General, 74w)
+
+  Q10: What is the cultural significance of couscous being added to UNESCO's Intangible Cultural Heritage list?
+    1. [0.0328] wikipedia_tunisian_cuisine_020  (Tunisian cuisine / General, 34w)
+    2. [0.0320] wikipedia_couscous_016  (Couscous / General, 53w)
+    3. [0.0293] wikipedia_greek_cuisine_010  (Greek cuisine / General, 17w)
+    4. [0.0275] wikipedia_mediterranean_diet_003  (Mediterranean diet / General, 63w)
+    5. [0.0159] wikipedia_couscous_001  (Couscous / General, 42w)
+
+  Q11: What distinguishes Moroccan tagine from Tunisian tagine?
+    1. [0.0325] wikipedia_tunisian_cuisine_022  (Tunisian cuisine / General, 52w)
+    2. [0.0315] wikipedia_tagine_017  (Tagine / General, 60w)
+    3. [0.0313] wikipedia_tagine_018  (Tagine / General, 73w)
+    4. [0.0310] wikipedia_tagine_013  (Tagine / General, 121w)
+    5. [0.0310] wikipedia_moroccan_cuisine_011  (Moroccan cuisine / General, 79w)
+
+  Q12: What are the key characteristics of Greek cuisine?
+    1. [0.0281] wikipedia_greek_cuisine_005  (Greek cuisine / General, 112w)
+    2. [0.0267] wikipedia_greek_cuisine_004  (Greek cuisine / General, 86w)
+    3. [0.0164] wikipedia_greek_cuisine_000  (Greek cuisine / General, 114w)
+    4. [0.0164] wikipedia_balkan_cuisine_000  (Balkan cuisine / General, 125w)
+    5. [0.0161] wikipedia_greek_cuisine_002  (Greek cuisine / General, 82w)
+
+  Q13: What is the history and origin of baklava?
+    1. [0.0164] wikipedia_baklava_004  (Baklava / General, 67w)
+    2. [0.0164] blog_blog__turkey_and_cyprus_059  (Blog: Turkey and Cyprus / General, 163w)
+    3. [0.0161] wikipedia_baklava_003  (Baklava / General, 133w)
+    4. [0.0161] wikipedia_pastilla_003  (Pastilla / General, 70w)
+    5. [0.0159] wikipedia_baklava_002  (Baklava / General, 48w)
+
+  Q14: What ownership dispute exists over hummus between Lebanon and Israel?
+    1. [0.0325] wikipedia_hummus_025  (Hummus / General, 82w)
+    2. [0.0325] wikipedia_hummus_021  (Hummus / General, 142w)
+    3. [0.0301] wikipedia_hummus_024  (Hummus / General, 63w)
+    4. [0.0298] wikipedia_hummus_023  (Hummus / General, 65w)
+    5. [0.0159] wikipedia_lebanese_cuisine_007  (Lebanese cuisine / General, 83w)
+  Saved results: retrieval_results/retrieval_hybrid_bgem3_paragraph.json
+
+============================================================
+  ALL EXPERIMENTS COMPLETE
+  Results saved to retrieval_results/
+============================================================

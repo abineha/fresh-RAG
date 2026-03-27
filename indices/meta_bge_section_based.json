@@ -4,7 +4,7 @@
   "strategy": "section_based",
   "dimension": 384,
   "num_chunks": 946,
-  "embed_time_s": 232.71,
+  "embed_time_s": 15.96,
   "truncated_count": 609,
   "max_seq_length": 512
 }

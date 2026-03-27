@@ -536,19 +536,12 @@ def chunk_sentence_based(docs: list[dict],
 
 PARA_MAX_CHARS       = 1000
 PARA_MIN_CHARS       = 100
-PARA_MIN_WORDS       = 25    # also enforce a minimum word count to filter noise
-PARA_OVERLAP_SENTS   = 1     # sentences to carry over between split chunks
-
-
-def _para_ok(text: str, min_chars: int, min_words: int) -> bool:
-    """Check if a paragraph/chunk meets both minimum character and word thresholds."""
-    return len(text) >= min_chars and len(text.split()) >= min_words
+PARA_OVERLAP_SENTS   = 1   # sentences to carry over between split chunks
 
 
 def chunk_paragraph(docs: list[dict],
                     max_chars: int = PARA_MAX_CHARS,
                     min_chars: int = PARA_MIN_CHARS,
-                    min_words: int = PARA_MIN_WORDS,
                     overlap: int = PARA_OVERLAP_SENTS) -> list[dict]:
     """Strategy D: paragraph-based chunking with heading preservation
     and sentence overlap for long-paragraph splits."""
@@ -570,8 +563,8 @@ def chunk_paragraph(docs: list[dict],
 
         for para in paragraphs:
             if len(para) <= max_chars:
-                # Paragraph fits — keep if long enough (both chars and words)
-                if _para_ok(para, min_chars, min_words):
+                # Paragraph fits — keep if long enough
+                if len(para) >= min_chars:
                     text = make_chunk_text(para, source, title, "General")
                     all_chunks.append({
                         "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",
@@ -595,7 +588,7 @@ def chunk_paragraph(docs: list[dict],
                         current_chunk = (current_chunk + " " + sentence).strip() \
                                         if current_chunk else sentence
                     else:
-                        if _para_ok(current_chunk, min_chars, min_words):
+                        if len(current_chunk) >= min_chars:
                             text = make_chunk_text(current_chunk, source, title, "General")
                             all_chunks.append({
                                 "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",
@@ -615,7 +608,7 @@ def chunk_paragraph(docs: list[dict],
                         current_chunk = " ".join(overlap_buffer + [sentence])
 
                 # Flush remaining
-                if _para_ok(current_chunk, min_chars, min_words):
+                if len(current_chunk) >= min_chars:
                     text = make_chunk_text(current_chunk, source, title, "General")
                     all_chunks.append({
                         "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",

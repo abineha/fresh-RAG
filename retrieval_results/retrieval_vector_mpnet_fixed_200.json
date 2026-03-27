@@ -53,7 +53,7 @@
       {
         "chunk_id": "wikipedia_falafel_001",
         "rank": 3,
-        "score": 0.688892
+        "score": 0.688893
       },
       {
         "chunk_id": "wikipedia_falafel_005",
@@ -92,12 +92,12 @@
       {
         "chunk_id": "wikipedia_couscous_010",
         "rank": 4,
-        "score": 0.75286
+        "score": 0.752861
       },
       {
         "chunk_id": "wikipedia_couscous_006",
         "rank": 5,
-        "score": 0.752282
+        "score": 0.752283
       }
     ]
   },
@@ -291,7 +291,7 @@
       {
         "chunk_id": "wikipedia_couscous_007",
         "rank": 3,
-        "score": 0.707496
+        "score": 0.707495
       },
       {
         "chunk_id": "wikipedia_tunisian_cuisine_007",
@@ -364,12 +364,12 @@
       {
         "chunk_id": "wikipedia_couscous_008",
         "rank": 4,
-        "score": 0.5842
+        "score": 0.584201
       },
       {
         "chunk_id": "wikipedia_couscous_003",
         "rank": 5,
-        "score": 0.58332
+        "score": 0.583321
       }
     ]
   },
@@ -401,9 +401,9 @@
         "score": 0.617695
       },
       {
-        "chunk_id": "wikipedia_tagine_001",
+        "chunk_id": "wikipedia_arab_cuisine_023",
         "rank": 5,
-        "score": 0.611634
+        "score": 0.611907
       }
     ]
   },
@@ -495,7 +495,7 @@
       {
         "chunk_id": "wikipedia_hummus_007",
         "rank": 3,
-        "score": 0.678849
+        "score": 0.678848
       },
       {
         "chunk_id": "wikipedia_hummus_004",

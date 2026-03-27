@@ -3,8 +3,8 @@
   "model_key": "minilm",
   "strategy": "section_based",
   "dimension": 384,
-  "num_chunks": 507,
-  "embed_time_s": 21.51,
-  "truncated_count": 467,
+  "num_chunks": 946,
+  "embed_time_s": 47.25,
+  "truncated_count": 847,
   "max_seq_length": 256
 }

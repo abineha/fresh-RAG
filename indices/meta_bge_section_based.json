@@ -3,8 +3,8 @@
   "model_key": "bge",
   "strategy": "section_based",
   "dimension": 384,
-  "num_chunks": 507,
-  "embed_time_s": 2434.18,
-  "truncated_count": 369,
+  "num_chunks": 946,
+  "embed_time_s": 232.71,
+  "truncated_count": 609,
   "max_seq_length": 512
 }

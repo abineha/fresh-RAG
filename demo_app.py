@@ -20,7 +20,7 @@ import numpy as np
 # IMPORT PIPELINE MODULES
 # ---------------------------------------------------------------
 from retriever import (
-    MODELS, CHUNK_FILES, BGE_QUERY_PREFIX,
+    MODELS, CHUNK_FILES, BGE_QUERY_PREFIX, BGEM3_QUERY_PREFIX,
     load_chunks as retriever_load_chunks,
     retrieve_vector, retrieve_bm25, retrieve_hybrid,
 )
@@ -690,8 +690,8 @@ with tab_about:
 
     | Component | Description |
     |-----------|-------------|
-    | **Chunking** | 4 strategies: section-based, fixed-200, fixed-500, sentence-based |
-    | **Embedding** | 3 models: MiniLM, MPNet, BGE via SentenceTransformers + FAISS |
+    | **Chunking** | 5 strategies: section-based, fixed-200, fixed-500, sentence-based, paragraph |
+    | **Embedding** | 4 models: MiniLM, MPNet, BGE-small, BGE-M3 via SentenceTransformers + FAISS |
     | **Retrieval** | Vector (cosine similarity), BM25 (keyword), Hybrid RRF fusion |
     | **Generation** | Qwen2.5-0.5B-Instruct with zero-shot, few-shot, structured prompts |
     | **Evaluation** | Precision@5, Recall@5, MRR, ROUGE-L, BERTScore, Faithfulness |

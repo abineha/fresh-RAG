@@ -1,0 +1,15 @@
+TITLE:      Mediterranean Diet Pyramid
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Mediterranean_Diet_Pyramid
+SCRAPED:    2026-03-26
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+The Mediterranean Diet Pyramid is a nutrition guide that was developed by the Oldways Preservation Trust, the Harvard School of Public Health, and the World Health Organization in 1993. It summarizes the Mediterranean Diet pattern of eating, suggesting the types and frequency of foods that should be enjoyed every day.
+
+The diet is closely tied to areas of olive oil cultivation in the Mediterranean region.
+The pyramid, structured in light of current nutrition research and representing a healthy Mediterranean diet, is based on the dietary patterns of Crete, Greece and southern Italy circa 1960 at a time when the rates of chronic disease were among the lowest in the world, and adult life expectancy was among the highest, even though medical services were limited. These findings were established in large part by scientist Ancel Keys.
+
+The pyramid is divided into daily, weekly, and monthly frequencies, but does not recommend serving sizes.
+
+Research suggests that the Mediterranean diet consumption pattern promotes good health and longevity. Studies linking the Mediterranean diet and decreased risk of illnesses such as lung disease and Alzheimer's disease, as well as protection against allergies and asthma have been published.

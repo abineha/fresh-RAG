@@ -31,6 +31,7 @@ CHUNK_FILES = {
     "fixed_200":      "chunks_fixed_200.json",
     "fixed_500":      "chunks_fixed_500.json",
     "sentence_based": "chunks_sentence.json",
+    "paragraph":      "chunks_paragraph.json",
 }
 
 DEFAULT_RETRIEVAL_FILE = "retrieval_results/retrieval_hybrid_mpnet_section_based.json"

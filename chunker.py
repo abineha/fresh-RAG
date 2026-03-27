@@ -6,15 +6,18 @@ Deliverable 2: Chunking
 Reads individual corpus files from corpus/, cleans them,
 splits into retrieval-ready chunks, and writes chunks.json.
 
-Supports three strategies:
+Supports four strategies:
   A) section_based  — respects document structure (primary)
   B) fixed_size     — fixed N-word chunks with overlap
   C) sentence_based — groups sentences to ~300 words
+  D) paragraph      — splits at paragraph boundaries with sentence overlap
 
 Usage:
     python chunker.py                           # default: section_based
     python chunker.py --strategy fixed_size --chunk-size 300
     python chunker.py --strategy sentence_based
+    python chunker.py --strategy paragraph
+    python chunker.py --strategy all            # run all strategies
 """
 
 import os
@@ -514,6 +517,115 @@ def chunk_sentence_based(docs: list[dict],
 
 
 # --------------------------------------------------------------
+# STRATEGY D: PARAGRAPH-BASED CHUNKING
+# --------------------------------------------------------------
+# Split documents at paragraph boundaries (\n\n), preserve headings,
+# sentence overlap, then enforce a max character limit.
+#
+# Why paragraph-based:
+# - Wikipedia articles have clear paragraph structure with logical topics
+# - Blog posts are written in natural narrative paragraphs
+# - Wikibooks recipes have natural sections (ingredients, procedure, notes)
+# - Splitting at paragraphs preserves semantic coherence better than fixed size
+#
+# Max size limit prevents very long paragraphs from becoming chunks too large
+# for the embedding model or LLM context window.
+# Too short → dropped (most likely noise)
+# Too long  → split into multiple chunks with sentence overlap (nothing lost)
+# Just right → kept as one chunk
+
+PARA_MAX_CHARS       = 1000
+PARA_MIN_CHARS       = 100
+PARA_OVERLAP_SENTS   = 1   # sentences to carry over between split chunks
+
+
+def chunk_paragraph(docs: list[dict],
+                    max_chars: int = PARA_MAX_CHARS,
+                    min_chars: int = PARA_MIN_CHARS,
+                    overlap: int = PARA_OVERLAP_SENTS) -> list[dict]:
+    """Strategy D: paragraph-based chunking with heading preservation
+    and sentence overlap for long-paragraph splits."""
+    all_chunks = []
+
+    for doc in docs:
+        title  = doc["title"]
+        source = doc["source"]
+        url    = doc["url"]
+        body   = doc["body"]
+
+        cleaned = clean_body(body, source)
+        if not cleaned or len(cleaned.split()) < 20:
+            continue
+
+        paragraphs = [p.strip() for p in re.split(r"\n{2,}", cleaned) if p.strip()]
+        slug = slugify(title)
+        chunk_idx = 0
+
+        for para in paragraphs:
+            if len(para) <= max_chars:
+                # Paragraph fits — keep if long enough
+                if len(para) >= min_chars:
+                    text = make_chunk_text(para, source, title, "General")
+                    all_chunks.append({
+                        "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",
+                        "doc_title":      title,
+                        "source":         source,
+                        "url":            url,
+                        "section":        "General",
+                        "text":           text,
+                        "word_count":     len(para.split()),
+                        "chunk_strategy": "paragraph",
+                    })
+                    chunk_idx += 1
+            else:
+                # Paragraph too long — split at sentence boundaries with overlap
+                sentences = re.split(r"(?<=[.!?])\s+", para)
+                current_chunk = ""
+                overlap_buffer = []
+
+                for sentence in sentences:
+                    if len(current_chunk) + len(sentence) + 1 <= max_chars:
+                        current_chunk = (current_chunk + " " + sentence).strip() \
+                                        if current_chunk else sentence
+                    else:
+                        if len(current_chunk) >= min_chars:
+                            text = make_chunk_text(current_chunk, source, title, "General")
+                            all_chunks.append({
+                                "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",
+                                "doc_title":      title,
+                                "source":         source,
+                                "url":            url,
+                                "section":        "General",
+                                "text":           text,
+                                "word_count":     len(current_chunk.split()),
+                                "chunk_strategy": "paragraph",
+                            })
+                            chunk_idx += 1
+                            # Carry last N sentences into next chunk
+                            overlap_buffer = re.split(
+                                r"(?<=[.!?])\s+", current_chunk
+                            )[-overlap:]
+                        current_chunk = " ".join(overlap_buffer + [sentence])
+
+                # Flush remaining
+                if len(current_chunk) >= min_chars:
+                    text = make_chunk_text(current_chunk, source, title, "General")
+                    all_chunks.append({
+                        "chunk_id":       f"{source}_{slug}_{chunk_idx:03d}",
+                        "doc_title":      title,
+                        "source":         source,
+                        "url":            url,
+                        "section":        "General",
+                        "text":           text,
+                        "word_count":     len(current_chunk.split()),
+                        "chunk_strategy": "paragraph",
+                    })
+                    chunk_idx += 1
+
+    return all_chunks
+
+
+# --------------------------------------------------------------
 # SUMMARY + OUTPUT
 # --------------------------------------------------------------
 
@@ -553,7 +665,7 @@ def write_chunks(chunks: list[dict], filepath: str):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Chunk the Mediterranean cuisine corpus")
     parser.add_argument("--strategy", default="section_based",
-                        choices=["section_based", "fixed_size", "sentence_based", "all"],
+                        choices=["section_based", "fixed_size", "sentence_based", "paragraph", "all"],
                         help="Chunking strategy to use")
     parser.add_argument("--chunk-size", type=int, default=300,
                         help="Chunk size in words (for fixed_size strategy)")
@@ -577,6 +689,7 @@ if __name__ == "__main__":
             ("fixed_size_200", lambda: chunk_fixed_size(docs, 200),          "chunks_fixed_200.json"),
             ("fixed_size_500", lambda: chunk_fixed_size(docs, 500),          "chunks_fixed_500.json"),
             ("sentence_based", lambda: chunk_sentence_based(docs),           "chunks_sentence.json"),
+            ("paragraph",      lambda: chunk_paragraph(docs),                "chunks_paragraph.json"),
         ]:
             chunks = func()
             print_summary(chunks, strat)
@@ -592,6 +705,9 @@ if __name__ == "__main__":
         elif args.strategy == "sentence_based":
             chunks = chunk_sentence_based(docs)
             outfile = "chunks_sentence.json"
+        elif args.strategy == "paragraph":
+            chunks = chunk_paragraph(docs)
+            outfile = "chunks_paragraph.json"
 
         print_summary(chunks, args.strategy)
         write_chunks(chunks, os.path.join(OUTPUT_DIR, outfile))

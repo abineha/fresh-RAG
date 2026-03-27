@@ -3,8 +3,8 @@
   "model_key": "mpnet",
   "strategy": "sentence_based",
   "dimension": 768,
-  "num_chunks": 737,
-  "embed_time_s": 482.44,
-  "truncated_count": 537,
+  "num_chunks": 1330,
+  "embed_time_s": 681.69,
+  "truncated_count": 898,
   "max_seq_length": 384
 }

@@ -7,15 +7,16 @@ Embeds chunked text using sentence-transformers models,
 builds FAISS indices for semantic search, and runs a
 sanity check.
 
-Supports three embedding models:
+Supports four embedding models:
   A) all-MiniLM-L6-v2      -- lightweight baseline (384d)
   B) all-mpnet-base-v2      -- best quality (768d)
   C) BAAI/bge-small-en-v1.5 -- retrieval specialist (384d)
+  D) BAAI/bge-m3            -- multilingual retrieval, strong domain perf (1024d)
 
 Usage:
     python embedder.py                          # default: MiniLM + section_based
     python embedder.py --model all-mpnet-base-v2 --chunks chunks_fixed_200.json
-    python embedder.py --run-all                # run all 6 experiment combinations
+    python embedder.py --run-all                # run all experiment combinations
     python embedder.py --sanity-check           # quick retrieval test
 """
 
@@ -32,28 +33,36 @@ MODELS = {
     "minilm":  "all-MiniLM-L6-v2",
     "mpnet":   "all-mpnet-base-v2",
     "bge":     "BAAI/bge-small-en-v1.5",
+    "bgem3":   "BAAI/bge-m3",
 }
 
-# BGE requires a query prefix for retrieval (not for documents)
+# BGE-small requires a query prefix for retrieval (not for documents)
 BGE_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
+# BGE-M3 does NOT need a query prefix when used via SentenceTransformers
+# (the model handles query/doc distinction internally)
+BGEM3_QUERY_PREFIX = ""
 
 CHUNK_FILES = {
     "section_based":  "chunks.json",
     "fixed_200":      "chunks_fixed_200.json",
     "fixed_500":      "chunks_fixed_500.json",
     "sentence_based": "chunks_sentence.json",
+    "paragraph":      "chunks_paragraph.json",
 }
 
 OUTPUT_DIR = "indices"
 
-# The 6-combination experiment matrix
+# Experiment matrix: all model-strategy combinations to evaluate
 EXPERIMENT_MATRIX = [
     ("minilm", "section_based"),    # lightweight baseline
     ("mpnet",  "section_based"),    # best model + best chunks
-    ("bge",    "section_based"),    # retrieval specialist
+    ("bge",    "section_based"),    # retrieval specialist (small)
+    ("bgem3",  "section_based"),    # retrieval specialist (multilingual, 1024d)
     ("mpnet",  "fixed_200"),        # small naive chunks + good model
     ("mpnet",  "fixed_500"),        # does truncation hurt?
     ("mpnet",  "sentence_based"),   # sentence boundary comparison
+    ("mpnet",  "paragraph"),        # paragraph-based chunking
+    ("bgem3",  "paragraph"),        # bge-m3 + paragraph chunking
 ]
 
 
@@ -239,6 +248,8 @@ def sanity_check(model_key: str = "minilm", strategy: str = "section_based",
         encode_query = query
         if model_key == "bge":
             encode_query = BGE_QUERY_PREFIX + query
+        elif model_key == "bgem3":
+            encode_query = BGEM3_QUERY_PREFIX + query
 
         q_vec = model.encode([encode_query], normalize_embeddings=True).astype(np.float32)
         scores, indices = index.search(q_vec, top_k)

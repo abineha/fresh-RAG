@@ -1,0 +1,12 @@
+TITLE:      Bosnia and Herzegovina cuisine
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_cuisine
+SCRAPED:    2026-03-26
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+Bosnian cuisine (Bosnian: bosanska kuhinja) is the traditional cuisine of Bosnia and Herzegovina. It is influenced by Ottoman, Austro-Hungarian (Austrian and Hungarian) and Balkan cuisines.
+
+Bosnian cuisine is a mixture of the local regions such as the Balkan countries, Greece, Italy and Turkey, with many recipes coming from the Ottoman era. It uses some spices, but usually in moderate quantities. Most dishes are light, as they are cooked in lots of water; the sauces are often natural, consisting of little more than the natural juices of the vegetables in the dish. Typical ingredients include tomatoes, potatoes, onions, garlic, bell peppers, cucumbers, carrots, cabbage, mushrooms, spinach, zucchini, dried and fresh beans, plums, milk, paprika and cream called pavlaka and kajmak. Typical meat dishes include primarily beef and lamb due to the Islamic faith of the Bosnian Muslims, although the Bosnian Croats and Bosnian Serbs can consume pork. Some local specialties are ćevapi, burek (börek), 'zeljanica' spinach pie spanakopita, 'sirnica' cheese pie, 'paprike' stuffed peppers, sarma, 'pilav' tagliatelle, grah [butter bean soup], cured meats and cheeses (charcuterie) gulaš (goulash), ajvar and a whole range of sweets inspired by the Middle East like baklava. Food is prioritised for being organic and of good quality. Bosnians enjoy many natural fruit juices but often use cordials from various fruits and herbs. The best local wines come from Herzegovina where the climate is suitable for growing grapes. Plum and apple brandy rakija is produced in Bosnia.
+
+Wines are produced mainly in Herzegovina, in the regions of Mostar, Čitluk, Ljubuški, Stolac, Domanovići, and Međugorje.

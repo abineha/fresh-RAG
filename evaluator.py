@@ -33,16 +33,21 @@ CHUNK_FILES = {
     "fixed_200":      "chunks_fixed_200.json",
     "fixed_500":      "chunks_fixed_500.json",
     "sentence_based": "chunks_sentence.json",
+    "paragraph":      "chunks_paragraph.json",
 }
 
 # Retrieval experiments to evaluate
 RETRIEVAL_EXPERIMENTS = [
-    ("retrieval_vector_mpnet_section_based.json",   "Vector",     "mpnet", "section_based"),
-    ("retrieval_bm25_none_section_based.json",      "BM25",       "none",  "section_based"),
-    ("retrieval_hybrid_mpnet_section_based.json",    "Hybrid RRF", "mpnet", "section_based"),
-    ("retrieval_vector_mpnet_fixed_200.json",        "Vector",     "mpnet", "fixed_200"),
-    ("retrieval_hybrid_mpnet_fixed_200.json",        "Hybrid RRF", "mpnet", "fixed_200"),
-    ("retrieval_vector_bge_section_based.json",      "Vector",     "bge",   "section_based"),
+    ("retrieval_vector_mpnet_section_based.json",   "Vector",     "mpnet",  "section_based"),
+    ("retrieval_bm25_none_section_based.json",      "BM25",       "none",   "section_based"),
+    ("retrieval_hybrid_mpnet_section_based.json",   "Hybrid RRF", "mpnet",  "section_based"),
+    ("retrieval_vector_mpnet_fixed_200.json",       "Vector",     "mpnet",  "fixed_200"),
+    ("retrieval_hybrid_mpnet_fixed_200.json",       "Hybrid RRF", "mpnet",  "fixed_200"),
+    ("retrieval_vector_bge_section_based.json",     "Vector",     "bge",    "section_based"),
+    ("retrieval_vector_bgem3_section_based.json",   "Vector",     "bgem3",  "section_based"),
+    ("retrieval_vector_mpnet_paragraph.json",       "Vector",     "mpnet",  "paragraph"),
+    ("retrieval_vector_bgem3_paragraph.json",       "Vector",     "bgem3",  "paragraph"),
+    ("retrieval_hybrid_bgem3_paragraph.json",       "Hybrid RRF", "bgem3", "paragraph"),
 ]
 
 # Generation experiments to evaluate
@@ -301,7 +306,7 @@ def compute_faithfulness(generated_answers, retrieved_contexts):
 # ---------------------------------------------------------------
 
 def run_retrieval_evaluation(gold_standard):
-    """Evaluate all 6 retrieval experiments."""
+    """Evaluate all retrieval experiments."""
     print("\n" + "=" * 70)
     print("  RETRIEVAL EVALUATION")
     print("=" * 70)
@@ -331,17 +336,17 @@ def run_retrieval_evaluation(gold_standard):
         }
         all_results.append(result)
 
-        print(f"\n  {method:12s} | {model:5s} | {strategy:14s}")
+        print(f"\n  {method:12s} | {model:6s} | {strategy:14s}")
         print(f"    Precision@5: {metrics['avg_precision_at_5']:.4f}")
         print(f"    Recall@5:    {metrics['avg_recall_at_5']:.4f}")
         print(f"    MRR:         {metrics['mrr']:.4f}")
 
     # Print comparison table
     print(f"\n  {'-' * 70}")
-    print(f"  {'Method':<12s} {'Model':<6s} {'Chunking':<15s} {'P@5':>6s} {'R@5':>6s} {'MRR':>6s}")
+    print(f"  {'Method':<12s} {'Model':<7s} {'Chunking':<15s} {'P@5':>6s} {'R@5':>6s} {'MRR':>6s}")
     print(f"  {'-' * 70}")
     for r in all_results:
-        print(f"  {r['method']:<12s} {r['model']:<6s} {r['chunking']:<15s} "
+        print(f"  {r['method']:<12s} {r['model']:<7s} {r['chunking']:<15s} "
               f"{r['precision_at_5']:>6.4f} {r['recall_at_5']:>6.4f} {r['mrr']:>6.4f}")
     print(f"  {'-' * 70}")
 

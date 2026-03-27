@@ -28,15 +28,19 @@ MODELS = {
     "minilm": "all-MiniLM-L6-v2",
     "mpnet":  "all-mpnet-base-v2",
     "bge":    "BAAI/bge-small-en-v1.5",
+    "bgem3":  "BAAI/bge-m3",
 }
 
 BGE_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
+# BGE-M3 needs no query prefix via SentenceTransformers
+BGEM3_QUERY_PREFIX = ""
 
 CHUNK_FILES = {
     "section_based":  "chunks.json",
     "fixed_200":      "chunks_fixed_200.json",
     "fixed_500":      "chunks_fixed_500.json",
     "sentence_based": "chunks_sentence.json",
+    "paragraph":      "chunks_paragraph.json",
 }
 
 INDEX_DIR = "indices"
@@ -46,12 +50,16 @@ BENCHMARK_QUERIES_FILE = "rag_benchmark_queries.json"
 
 # Experiment matrix: (method, model_key, strategy)
 EXPERIMENT_MATRIX = [
-    ("vector",  "mpnet", "section_based"),   # best embedding setup
-    ("bm25",    None,    "section_based"),    # keyword-only baseline
-    ("hybrid",  "mpnet", "section_based"),    # does fusion beat either alone?
-    ("vector",  "mpnet", "fixed_200"),        # best truncation-free setup
-    ("hybrid",  "mpnet", "fixed_200"),        # fusion on small chunks
-    ("vector",  "bge",   "section_based"),    # retrieval-specialist model
+    ("vector",  "mpnet",  "section_based"),   # best embedding setup
+    ("bm25",    None,     "section_based"),    # keyword-only baseline
+    ("hybrid",  "mpnet",  "section_based"),    # does fusion beat either alone?
+    ("vector",  "mpnet",  "fixed_200"),        # best truncation-free setup
+    ("hybrid",  "mpnet",  "fixed_200"),        # fusion on small chunks
+    ("vector",  "bge",    "section_based"),    # retrieval-specialist model (small)
+    ("vector",  "bgem3",  "section_based"),    # bge-m3 on section chunks
+    ("vector",  "mpnet",  "paragraph"),        # mpnet + paragraph chunking
+    ("vector",  "bgem3",  "paragraph"),        # bge-m3 + paragraph chunking
+    ("hybrid",  "bgem3",  "paragraph"),        # hybrid fusion with bge-m3 + paragraph
 ]
 
 
@@ -131,10 +139,12 @@ def retrieve_vector(query: str, vec_setup: dict, k: int = 5) -> list[dict]:
     id_mapping = vec_setup["id_mapping"]
     model_key = vec_setup["model_key"]
 
-    # BGE needs query prefix
+    # BGE models need query prefix
     encode_query = query
     if model_key == "bge":
         encode_query = BGE_QUERY_PREFIX + query
+    elif model_key == "bgem3":
+        encode_query = BGEM3_QUERY_PREFIX + query
 
     q_vec = model.encode([encode_query], normalize_embeddings=True).astype(np.float32)
     scores, indices = index.search(q_vec, k)

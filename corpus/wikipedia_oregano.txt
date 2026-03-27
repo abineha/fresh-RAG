@@ -1,0 +1,48 @@
+TITLE:      Oregano
+SOURCE:     wikipedia
+URL:        https://en.wikipedia.org/wiki/Oregano
+SCRAPED:    2026-03-26
+LICENCE:    CC BY-SA (Wikipedia/Wikibooks) / blog author (blog)
+============================================================
+
+Oregano (US: /ɔːˈrɛɡənoʊ, ə-/, UK: /ˌɒrɪˈɡɑːnoʊ/; Origanum vulgare) is a species of flowering plant in the mint family, Lamiaceae. It was native to the Mediterranean region, but widely naturalised elsewhere in the temperate Northern Hemisphere.
+
+Oregano is a woody perennial plant, growing to 90 cm (35 in) tall, with opposite leaves 1–4 cm (1⁄2–1+1⁄2 in) long. The flowers which can be white, pink or light purple, are 3–4 mm (1⁄8–3⁄16 in) long, and produced in erect spikes in summer. It is sometimes called wild marjoram, while its close relative O. majorana is known as sweet marjoram. Both are widely used as culinary herbs, especially in Turkish, Greek, Spanish, Italian, Latin, and French cuisine. Oregano is also an ornamental plant, with numerous cultivars bred for varying leaf colour, flower colour and habit.
+
+The English word "oregano" is a borrowing of the Spanish orégano, which derives from the Latin orīganum, which itself comes from Classical Greek ὀρίγανον (orī́ganon). The ultimate origin is disputed; some claim it is a compound Greek term that consists of ὄρος (óros) meaning "mountain", and γάνος (gános) meaning "joy", thus, "joy of the mountain" while The Oxford English Dictionary states it is "probably a loanword [as] the plant comes from Africa".
+
+Oregano is a perennial, although it is grown as an annual in colder climates, as it often does not survive the winter.
+
+It grows to 90 centimetres (35 in) tall and 50 cm (20 in) wide. The leaves are spade-shaped and olive-green. The flowers are purple, pink or white, 4–7 cm (1+1⁄2–2+3⁄4 in) long and grouped in clusters.
+
+Oregano is related to the herb marjoram, sometimes being referred to as wild marjoram.
+
+Oregano contains polyphenols, including numerous flavones.
+
+The essential oil of oregano is composed primarily of monoterpenoids and monoterpenes, with the relative concentration of each compound varying widely across geographic origin and other factors. Over 60 different compounds have been identified, with the primary ones being carvacrol and thymol ranging to over 80%, while lesser abundant compounds include p-cymene, γ-terpinene, caryophyllene, spathulenol, germacrene D, β-fenchyl alcohol and δ-terpineol.
+
+Drying of the plant material affects both quantity and distribution of volatile compounds, with methods using higher heat and longer drying times having greater negative impact. A sample of fresh whole plant material found to contain 33 g/kg dry weight (3.1 g/kg wet) decreased to below a third after warm-air convection drying. Much higher concentrations of volatile compounds are achieved towards the end of the growing season.
+
+Many subspecies and strains of oregano have been developed by humans over centuries for their unique flavours or other characteristics. Tastes range from spicy or astringent to more complicated and sweet. Simple oregano sold in garden stores as O. vulgare may have a bland taste and larger, less-dense leaves, and is not considered the best for culinary use, with a taste less remarkable and pungent. It can pollinate other more sophisticated strains, but the offspring are rarely better in quality.
+
+The related species Origanum onites (Greece, Turkey) and O. syriacum (West Asia) have similar flavours. A closely related plant is marjoram from Turkey, which differs significantly in taste because phenolic compounds are missing from its essential oil. Some varieties show a flavour intermediate between oregano and marjoram.
+
+Accepted subspecies:
+
+Example cultivars of oregano include:
+
+Cultivars traded as Italian, Sicilian, etc. are usually hardy sweet marjoram (O. × majoricum), a hybrid between the southern Adriatic O. v. subsp. hirtum and sweet marjoram (O. majorana). They have a reputation for sweet and spicy tones, with little bitterness, and are prized for their flavour and compatibility with various recipes and sauces.
+
+Oregano is planted in early spring, the plants being spaced 30 cm (12 in) apart in fairly dry soil, with full sun. It will grow in a pH range between 6.0 (mildly acidic) and 9.0 (strongly alkaline), with a preferred range between 6.0 and 8.0. It prefers a hot, relatively dry climate, but does well in other environments.
+
+Oregano is a culinary herb, used for the flavour of its leaves, which can be more intense when dried than fresh. It has an earthy, warm, and slightly bitter taste, which can vary in intensity. Good-quality oregano may be strong enough to almost numb the tongue, but cultivars adapted to colder climates may have a lesser flavour. Factors such as climate, season, and soil composition may affect the aromatic oils present, and this effect may be greater than the differences between the various species of plants. Among the chemical compounds contributing to the flavour are carvacrol, thymol, limonene, pinene, ocimene, and caryophyllene.
+
+Oregano is the staple herb of Italian cuisine, most frequently used with roasted, fried, or grilled vegetables, meat, and fish. Oregano combines well with spicy foods popular in Southern Italy. It is less commonly used in the North, where marjoram is preferred. It became popular in the U.S. after soldiers returning from World War II brought back a taste for the "pizza herb", which had probably been eaten in Southern Italy for centuries.
+
+Oregano is widely used in cuisines of the Mediterranean Basin and Latin America, especially in Mexican cuisine and Argentine cuisine. In Turkish cuisine, oregano is mostly used for flavouring meat, especially mutton and lamb. Throughout the Middle East, it is a popular variation in the spice blend za'atar, and is a key ingredient in Argentine chimichurri.
+
+During the summer, generous amounts of dried oregano are often added as a topping to a tomato and cucumber salad in Portugal, but it can be used to season meat and fish dishes as well. In Spain, apart from seasoning, it is used in preparations of a variety of traditional dishes such as morcilla (Iberian pig blood sausage) and adobo sauce for fish and meat. The dried and ground leaves are most often used in Greece to add flavour to Greek salad, and is usually added to the lemon-olive oil sauce that accompanies fish or meat grills and casseroles. In Albania, dried oregano is often used to make herbal tea which is especially popular in the northern part of Albania.
+
+Oregano oil has been used in folk medicine over centuries. Oregano essential oil is extracted from the leaves of the oregano plant. Although oregano or its oil may be used as a dietary supplement, there is no clinical evidence to indicate that either has any effect on human health.
+
+In 2014, the U.S. Food and Drug Administration (FDA) warned a Utah company, Young Living, that its herbal products, including oregano essential oil, were being promoted to have numerous unproven anti-disease effects, and so were being sold as unauthorized misbranded drugs subject to seizure and federal penalties. Similar FDA warning letters for false advertising and unproven health claims about oregano essential oil products were published in 2017, 2018 and 2021.
